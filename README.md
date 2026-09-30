@@ -72,7 +72,7 @@ Checks change state as they become available or are collected.
 ### Installing the pack
 
 1. Download the latest release from the **Releases** section.
-2. Put the pack into your PopTracker `packs` directory.
+2. Extract the pack into your PopTracker `packs` directory.
 3. Start PopTracker.
 4. Select the **Octopath Traveler II — Archipelago** pack.
 5. Connect PopTracker to your Archipelago session.
