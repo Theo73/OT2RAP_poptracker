@@ -1,0 +1,562 @@
+[
+  /*Characters*/
+  {
+    "name": "Ochette",
+    "type": "toggle",
+    "img": "images/items/ochette_unlock.png",
+    "codes": "ochette_unlock"
+  },
+  {
+    "name": "Throne",
+    "type": "toggle",
+    "img": "images/items/throne_unlock.png",
+    "codes": "throne_unlock"
+  },
+  {
+    "name": "Temenos",
+    "type": "toggle",
+    "img": "images/items/temenos_unlock.png",
+    "codes": "temenos_unlock"
+  },
+  {
+    "name": "Osvald",
+    "type": "toggle",
+    "img": "images/items/osvald_unlock.png",
+    "codes": "osvald_unlock"
+  },
+  {
+    "name": "Castti",
+    "type": "toggle",
+    "img": "images/items/castti_unlock.png",
+    "codes": "castti_unlock"
+  },
+  {
+    "name": "Hikari",
+    "type": "toggle",
+    "img": "images/items/hikari_unlock.png",
+    "codes": "hikari_unlock"
+  },
+  {
+    "name": "Partitio",
+    "type": "toggle",
+    "img": "images/items/partitio_unlock.png",
+    "codes": "partitio_unlock"
+  },
+  {
+    "name": "Agnea",
+    "type": "toggle",
+    "img": "images/items/agnea_unlock.png",
+    "codes": "agnea_unlock"
+  },
+  /*Regions*/
+  {
+    "name": "Toto'haha",
+    "type": "toggle",
+    "img": "images/items/totohaha_unlock.png",
+    "codes": "totohaha_unlock"
+  },
+  {
+    "name": "Brightlands",
+    "type": "toggle",
+    "img": "images/items/brightlands_unlock.png",
+    "codes": "brightlands_unlock"
+  },
+  {
+    "name": "Crestlands",
+    "type": "toggle",
+    "img": "images/items/crestlands_unlock.png",
+    "codes": "crestlands_unlock"
+  },
+  {
+    "name": "Winterlands",
+    "type": "toggle",
+    "img": "images/items/winterlands_unlock.png",
+    "codes": "winterlands_unlock"
+  },
+  {
+    "name": "Harborlands",
+    "type": "toggle",
+    "img": "images/items/harborlands_unlock.png",
+    "codes": "harborlands_unlock"
+  },
+  {
+    "name": "Hinoeuma",
+    "type": "toggle",
+    "img": "images/items/hinoeuma_unlock.png",
+    "codes": "hinoeuma_unlock"
+  },
+  {
+    "name": "Wildlands",
+    "type": "toggle",
+    "img": "images/items/wildlands_unlock.png",
+    "codes": "wildlands_unlock"
+  },
+  {
+    "name": "Leaflands",
+    "type": "toggle",
+    "img": "images/items/leaflands_unlock.png",
+    "codes": "leaflands_unlock"
+  },
+  /*Others*/
+  {
+    "name": "Boat",
+    "type": "toggle",
+    "img": "images/items/boat_unlock.png",
+    "codes": "boat_unlock"
+  },
+  {
+    "name": "The Grand Terry",
+    "type": "toggle",
+    "img": "images/items/grand_terry_unlock.png",
+    "codes": "grand_terry_unlock"
+  },
+  {
+    "name": "Time Change Unlock",
+    "type": "toggle",
+    "img": "images/items/time_change_unlock.png",
+    "codes": "time_change_unlock"
+  },
+  /*{
+    "name": "Chapters Completed",
+    "type": "progressive",
+    "img": "images/items/chapter_count.png",
+    "codes": "chapters_completed",
+    "max_count": 50
+  },*/
+  /*Chapters*/
+  {
+    "name": "Ochette Chapter 1",
+    "type": "toggle",
+    "img": "images/items/ochette_ch1.jpg",
+    "codes": "ochette_ch1"
+  },
+  {
+    "name": "Ochette Chapter 2 Acta",
+    "type": "toggle",
+    "img": "images/items/ochette_ch2A.jpg",
+    "codes": "ochette_ch2A"
+  },
+  {
+    "name": "Ochette Chapter 2 Terra",
+    "type": "toggle",
+    "img": "images/items/ochette_ch2T.jpg",
+    "codes": "ochette_ch2T"
+  },
+  {
+    "name": "Ochette Chapter 2 Glacis",
+    "type": "toggle",
+    "img": "images/items/ochette_ch2G.jpg",
+    "codes": "ochette_ch2G"
+  },
+  {
+    "name": "Ochette Chapter 3",
+    "type": "toggle",
+    "img": "images/items/ochette_ch3.jpg",
+    "codes": "ochette_ch3"
+  },
+  {
+    "name": "Throne Chapter 1",
+    "type": "toggle",
+    "img": "images/items/throne_ch1.jpg",
+    "codes": "throne_ch1"
+  },
+  {
+    "name": "Throne Chapter 2 Mother",
+    "type": "toggle",
+    "img": "images/items/throne_ch2M.jpg",
+    "codes": "throne_ch2M"
+  },
+  {
+    "name": "Throne Chapter 2 Father",
+    "type": "toggle",
+    "img": "images/items/throne_ch2F.jpg",
+    "codes": "throne_ch2F"
+  },
+  {
+    "name": "Throne Chapter 3 Mother",
+    "type": "toggle",
+    "img": "images/items/throne_ch3M.jpg",
+    "codes": "throne_ch3M"
+  },
+  {
+    "name": "Throne Chapter 3 Father",
+    "type": "toggle",
+    "img": "images/items/throne_ch3F.jpg",
+    "codes": "throne_ch3F"
+  },
+  {
+    "name": "Throne Chapter 4",
+    "type": "toggle",
+    "img": "images/items/throne_ch4.jpg",
+    "codes": "throne_ch4"
+  },
+  {
+    "name": "Temenos Chapter 1",
+    "type": "toggle",
+    "img": "images/items/temenos_ch1.jpg",
+    "codes": "temenos_ch1"
+  },
+  {
+    "name": "Temenos Chapter 2",
+    "type": "toggle",
+    "img": "images/items/temenos_ch2.jpg",
+    "codes": "temenos_ch2"
+  },
+  {
+    "name": "Temenos Chapter 3 Crackridge",
+    "type": "toggle",
+    "img": "images/items/temenos_ch3C.jpg",
+    "codes": "temenos_ch3C"
+  },
+  {
+    "name": "Temenos Chapter 3 Stormhail",
+    "type": "toggle",
+    "img": "images/items/temenos_ch3S.jpg",
+    "codes": "temenos_ch3S"
+  },
+  {
+    "name": "Temenos Chapter 4",
+    "type": "toggle",
+    "img": "images/items/temenos_ch4.jpg",
+    "codes": "temenos_ch4"
+  },
+  {
+    "name": "Osvald Chapter 1",
+    "type": "toggle",
+    "img": "images/items/osvald_ch1.jpg",
+    "codes": "osvald_ch1"
+  },
+  {
+    "name": "Osvald Chapter 2",
+    "type": "toggle",
+    "img": "images/items/osvald_ch2.jpg",
+    "codes": "osvald_ch2"
+  },
+  {
+    "name": "Osvald Chapter 3",
+    "type": "toggle",
+    "img": "images/items/osvald_ch3.jpg",
+    "codes": "osvald_ch3"
+  },
+  {
+    "name": "Osvald Chapter 4",
+    "type": "toggle",
+    "img": "images/items/osvald_ch4.jpg",
+    "codes": "osvald_ch4"
+  },
+  {
+    "name": "Osvald Chapter 5",
+    "type": "toggle",
+    "img": "images/items/osvald_ch5.jpg",
+    "codes": "osvald_ch5"
+  },
+  {
+    "name": "Castti Chapter 1",
+    "type": "toggle",
+    "img": "images/items/castti_ch1.jpg",
+    "codes": "castti_ch1"
+  },
+  {
+    "name": "Castti Chapter 2 Sai",
+    "type": "toggle",
+    "img": "images/items/castti_ch2S.jpg",
+    "codes": "castti_ch2S"
+  },
+  {
+    "name": "Castti Chapter 2 Winterbloom",
+    "type": "toggle",
+    "img": "images/items/castti_ch2W.jpg",
+    "codes": "castti_ch2W"
+  },
+  {
+    "name": "Castti Chapter 3",
+    "type": "toggle",
+    "img": "images/items/castti_ch3.jpg",
+    "codes": "castti_ch3"
+  },
+  {
+    "name": "Castti Chapter 4",
+    "type": "toggle",
+    "img": "images/items/castti_ch4.jpg",
+    "codes": "castti_ch4"
+  },
+  {
+    "name": "Hikari Chapter 1",
+    "type": "toggle",
+    "img": "images/items/hikari_ch1.jpg",
+    "codes": "hikari_ch1"
+  },
+  {
+    "name": "Hikari Chapter 2",
+    "type": "toggle",
+    "img": "images/items/hikari_ch2.jpg",
+    "codes": "hikari_ch2"
+  },
+  {
+    "name": "Hikari Chapter 3",
+    "type": "toggle",
+    "img": "images/items/hikari_ch3.jpg",
+    "codes": "hikari_ch3"
+  },
+  {
+    "name": "Hikari Chapter 4",
+    "type": "toggle",
+    "img": "images/items/hikari_ch4.jpg",
+    "codes": "hikari_ch4"
+  },
+  {
+    "name": "Hikari Chapter 5",
+    "type": "toggle",
+    "img": "images/items/hikari_ch5.jpg",
+    "codes": "hikari_ch5"
+  },
+  {
+    "name": "Partitio Chapter 1",
+    "type": "toggle",
+    "img": "images/items/partitio_ch1.jpg",
+    "codes": "partitio_ch1"
+  },
+  {
+    "name": "Partitio Chapter 2",
+    "type": "toggle",
+    "img": "images/items/partitio_ch2.jpg",
+    "codes": "partitio_ch2"
+  },
+  {
+    "name": "Partitio Chapter 3",
+    "type": "toggle",
+    "img": "images/items/partitio_ch3.jpg",
+    "codes": "partitio_ch3"
+  },
+  {
+    "name": "Partitio Chapter 4",
+    "type": "toggle",
+    "img": "images/items/partitio_ch4.jpg",
+    "codes": "partitio_ch4"
+  },
+  {
+    "name": "Partitio Scent of Commerce Tropu'hopu",
+    "type": "toggle",
+    "img": "images/items/partitio_scT.jpg",
+    "codes": "partitio_scT"
+  },
+  {
+    "name": "Partitio Scent of Commerce Winterbloom",
+    "type": "toggle",
+    "img": "images/items/partitio_scW.jpg",
+    "codes": "partitio_scW"
+  },
+  {
+    "name": "Partitio Scent of Commerce Sai",
+    "type": "toggle",
+    "img": "images/items/partitio_scS.jpg",
+    "codes": "partitio_scS"
+  },
+  {
+    "name": "Agnea Chapter 1",
+    "type": "toggle",
+    "img": "images/items/agnea_ch1.jpg",
+    "codes": "agnea_ch1"
+  },
+  {
+    "name": "Agnea Chapter 2",
+    "type": "toggle",
+    "img": "images/items/agnea_ch2.jpg",
+    "codes": "agnea_ch2"
+  },
+  {
+    "name": "Agnea Chapter 3",
+    "type": "toggle",
+    "img": "images/items/agnea_ch3.jpg",
+    "codes": "agnea_ch3"
+  },
+  {
+    "name": "Agnea Chapter 4",
+    "type": "toggle",
+    "img": "images/items/agnea_ch4.jpg",
+    "codes": "agnea_ch4"
+  },
+  {
+    "name": "Agnea Chapter 5",
+    "type": "toggle",
+    "img": "images/items/agnea_ch5.jpg",
+    "codes": "agnea_ch5"
+  },
+  {
+    "name": "Temenos and Throne Chapter 1",
+    "type": "toggle",
+    "img": "images/items/temenos_throne_ch1.jpg",
+    "codes": "temenos_throne_ch1"
+  },
+  {
+    "name": "Temenos and Throne Chapter 2",
+    "type": "toggle",
+    "img": "images/items/temenos_throne_ch2.jpg",
+    "codes": "temenos_throne_ch2"
+  },
+  {
+    "name": "Hikari and Agnea Chapter 1",
+    "type": "toggle",
+    "img": "images/items/hikari_agnea_ch1.jpg",
+    "codes": "hikari_agnea_ch1"
+  },
+  {
+    "name": "Hikari and Agnea Chapter 2",
+    "type": "toggle",
+    "img": "images/items/hikari_agnea_ch2.jpg",
+    "codes": "hikari_agnea_ch2"
+  },
+  {
+    "name": "Castti and Ochette Chapter 1",
+    "type": "toggle",
+    "img": "images/items/castti_ochette_ch1.jpg",
+    "codes": "castti_ochette_ch1"
+  },
+  {
+    "name": "Castti and Ochette Chapter 2",
+    "type": "toggle",
+    "img": "images/items/castti_ochette_ch2.jpg",
+    "codes": "castti_ochette_ch2"
+  },
+  {
+    "name": "Osvald and Partitio Chapter 1",
+    "type": "toggle",
+    "img": "images/items/osvald_partitio_ch1.jpg",
+    "codes": "osvald_partitio_ch1"
+  },
+  {
+    "name": "Osvald and Partitio Chapter 2",
+    "type": "toggle",
+    "img": "images/items/osvald_partitio_ch2.jpg",
+    "codes": "osvald_partitio_ch2"
+  },
+  /*Jobs*/
+  {
+    "name": "Merchant License",
+    "type": "consumable",
+    "img": "images/items/merchant.png",
+    "codes": "merchant_license",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 12,
+    "overlay_align": "right"
+  },
+  {
+    "name": "Thief License",
+    "type": "consumable",
+    "img": "images/items/thief.png",
+    "codes": "thief_license",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 12,
+    "overlay_align": "right"
+  },
+  {
+    "name": "Warrior License",
+    "type": "consumable",
+    "img": "images/items/warrior.png",
+    "codes": "warrior_license",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 12,
+    "overlay_align": "right"
+  },
+  {
+    "name": "Hunter License",
+    "type": "consumable",
+    "img": "images/items/hunter.png",
+    "codes": "hunter_license",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 12,
+    "overlay_align": "right"
+  },
+  {
+    "name": "Cleric License",
+    "type": "consumable",
+    "img": "images/items/cleric.png",
+    "codes": "cleric_license",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 12,
+    "overlay_align": "right"
+  },
+  {
+    "name": "Dancer License",
+    "type": "consumable",
+    "img": "images/items/dancer.png",
+    "codes": "dancer_license",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 12,
+    "overlay_align": "right"
+  },
+  {
+    "name": "Scholar License",
+    "type": "consumable",
+    "img": "images/items/scholar.png",
+    "codes": "scholar_license",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 12,
+    "overlay_align": "right"
+  },
+  {
+    "name": "Apothecary License",
+    "type": "consumable",
+    "img": "images/items/apothecary.png",
+    "codes": "apothecary_license",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 12,
+    "overlay_align": "right"
+  },
+  {
+    "name": "Proof of the Armsmaster",
+    "type": "toggle",
+    "img": "images/items/armsmaster.png",
+    "codes": "proof_of_armsmaster"
+  },
+  {
+    "name": "Proof of the Arcanist",
+    "type": "toggle",
+    "img": "images/items/arcanist.png",
+    "codes": "proof_of_arcanist"
+  },
+  {
+    "name": "Proof of the Conjurer",
+    "type": "toggle",
+    "img": "images/items/conjurer.png",
+    "codes": "proof_of_conjurer"
+  },
+  {
+    "name": "Proof of the Inventor",
+    "type": "toggle",
+    "img": "images/items/inventor.png",
+    "codes": "proof_of_inventor"
+  }
+]

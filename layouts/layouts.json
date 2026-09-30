@@ -1,0 +1,389 @@
+{
+  "tracker_default": {
+    "type": "dock",
+    "content": [
+      {
+        "type": "tabbed",
+        "dock": "left",
+        "tabs": [
+          {
+            "title": "Items",
+            "content": {
+              "type": "array",
+              "orientation": "vertical",
+              "content": [
+                {
+                  "type": "group",
+                  "header": "Characters",
+                  "content": {
+                    "type": "itemgrid",
+                    "item_size": "100,100",
+                    "item_margin": "8,8",
+                    "rows": [
+                      [
+                        "ochette_unlock",
+                        "throne_unlock",
+                        "temenos_unlock",
+                        "osvald_unlock"
+                      ],
+                      [
+                        "castti_unlock",
+                        "hikari_unlock",
+                        "partitio_unlock",
+                        "agnea_unlock"
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Regions",
+                  "content": {
+                    "type": "itemgrid",
+                    "item_size": "100,100",
+                    "item_margin": "8,8",
+                    "rows": [
+                      [
+                        "totohaha_unlock",
+                        "brightlands_unlock",
+                        "crestlands_unlock",
+                        "winterlands_unlock"
+                      ],
+                      [
+                        "harborlands_unlock",
+                        "hinoeuma_unlock",
+                        "wildlands_unlock",
+                        "leaflands_unlock"
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Others",
+                  "content": {
+                    "type": "itemgrid",
+                    "item_size": "120,120",
+                    "item_margin": "8,8",
+                    "rows": [
+                      [
+                        "boat_unlock",
+                        "grand_terry_unlock",
+                        "time_change_unlock",
+                        "chapters_completed"
+                      ]
+                    ]
+                  }
+                },
+                {
+                  "type": "group",
+                  "header": "Jobs",
+                  "content": {
+                    "type": "itemgrid",
+                    "item_size": "54,54",
+                    "item_margin": "8,8",
+                    "rows": [
+                      [
+                        "merchant_license",
+                        "thief_license",
+                        "warrior_license",
+                        "hunter_license",
+                        "cleric_license",
+                        "dancer_license"
+                      ],
+                      [
+                        "scholar_license",
+                        "apothecary_license",
+                        "proof_of_armsmaster",
+                        "proof_of_arcanist",
+                        "proof_of_conjurer",
+                        "proof_of_inventor"
+                      ]
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "title": "Chapters",
+            "content": {
+              "type": "array",
+              "orientation": "vertical",
+              "content": [
+                {
+                  "type": "group",
+                  "header": "Chapters",
+                  "content": {
+                    "type": "itemgrid",
+                    "item_size": "72,72",
+                    "item_margin": "4,4",
+                    "rows": [
+                      [
+                        "ochette_ch1",
+                        "ochette_ch2A",
+                        "ochette_ch2T",
+                        "ochette_ch2G",
+                        "ochette_ch3"
+                      ],
+                      [
+                        "throne_ch1",
+                        "throne_ch2M",
+                        "throne_ch2F",
+                        "throne_ch3M",
+                        "throne_ch3F",
+                        "throne_ch4"
+                      ],
+                      [
+                        "temenos_ch1",
+                        "temenos_ch2",
+                        "temenos_ch3C",
+                        "temenos_ch3S",
+                        "temenos_ch4"
+                      ],
+                      [
+                        "osvald_ch1",
+                        "osvald_ch2",
+                        "osvald_ch3",
+                        "osvald_ch4",
+                        "osvald_ch5"
+                      ],
+                      [
+                        "castti_ch1",
+                        "castti_ch2S",
+                        "castti_ch2W",
+                        "castti_ch3",
+                        "castti_ch4"
+                      ],
+                      [
+                        "hikari_ch1",
+                        "hikari_ch2",
+                        "hikari_ch3",
+                        "hikari_ch4",
+                        "hikari_ch5"
+                      ],
+                      [
+                        "partitio_ch1",
+                        "partitio_ch2",
+                        "partitio_ch3",
+                        "partitio_ch4",
+                        "partitio_scT",
+                        "partitio_scW",
+                        "partitio_scS"
+                      ],
+                      [
+                        "agnea_ch1",
+                        "agnea_ch2",
+                        "agnea_ch3",
+                        "agnea_ch4",
+                        "agnea_ch5"
+                      ],
+                      [
+                        "temenos_throne_ch1",
+                        "temenos_throne_ch2",
+                        "hikari_agnea_ch1",
+                        "hikari_agnea_ch2"
+                      ],
+                      [
+                        "castti_ochette_ch1",
+                        "castti_ochette_ch2",
+                        "osvald_partitio_ch1",
+                        "osvald_partitio_ch2"
+                      ],
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "type": "tabbed",
+        "dock": "right",
+        "tabs": [
+          {
+            "title": "World",
+            "content": {
+              "type": "canvas",
+              "width": 1200,
+              "height": 700,
+              "content": [
+                {
+                  "type": "map",
+                  "maps": ["world"],
+                  "canvas_left": 0,
+                  "canvas_top": 0,
+                  "width": 1200,
+                  "height": 700
+                }
+              ]
+            }
+          },
+          {
+            "title": "Toto'haha",
+            "content": {
+              "type": "canvas",
+              "width": 1200,
+              "height": 700,
+              "content": [
+                {
+                  "type": "map",
+                  "maps": ["totohaha"],
+                  "canvas_left": 0,
+                  "canvas_top": 0,
+                  "width": 1200,
+                  "height": 700
+                }
+              ]
+            }
+          },
+          {
+            "title": "Brightlands",
+            "content": {
+              "type": "canvas",
+              "width": 1200,
+              "height": 700,
+              "content": [
+                {
+                  "type": "map",
+                  "maps": ["brightlands"],
+                  "canvas_left": 0,
+                  "canvas_top": 0,
+                  "width": 1200,
+                  "height": 700
+                }
+              ]
+            }
+          },
+          {
+            "title": "Crestlands",
+            "content": {
+              "type": "canvas",
+              "width": 1200,
+              "height": 700,
+              "content": [
+                {
+                  "type": "map",
+                  "maps": ["crestlands"],
+                  "canvas_left": 0,
+                  "canvas_top": 0,
+                  "width": 1200,
+                  "height": 700
+                }
+              ]
+            }
+          },
+          {
+            "title": "Winterlands",
+            "content": {
+              "type": "canvas",
+              "width": 1200,
+              "height": 700,
+              "content": [
+                {
+                  "type": "map",
+                  "maps": ["winterlands"],
+                  "canvas_left": 0,
+                  "canvas_top": 0,
+                  "width": 1200,
+                  "height": 700
+                }
+              ]
+            }
+          },
+          {
+            "title": "Harborlands",
+            "content": {
+              "type": "canvas",
+              "width": 1200,
+              "height": 700,
+              "content": [
+                {
+                  "type": "map",
+                  "maps": ["harborlands"],
+                  "canvas_left": 0,
+                  "canvas_top": 0,
+                  "width": 1200,
+                  "height": 700
+                }
+              ]
+            }
+          },
+          {
+            "title": "Hinoeuma",
+            "content": {
+              "type": "canvas",
+              "width": 1200,
+              "height": 700,
+              "content": [
+                {
+                  "type": "map",
+                  "maps": ["hinoeuma"],
+                  "canvas_left": 0,
+                  "canvas_top": 0,
+                  "width": 1200,
+                  "height": 700
+                }
+              ]
+            }
+          },
+          {
+            "title": "Wildlands",
+            "content": {
+              "type": "canvas",
+              "width": 1200,
+              "height": 700,
+              "content": [
+                {
+                  "type": "map",
+                  "maps": ["wildlands"],
+                  "canvas_left": 0,
+                  "canvas_top": 0,
+                  "width": 1200,
+                  "height": 700
+                }
+              ]
+            }
+          },
+          {
+            "title": "Leaflands",
+            "content": {
+              "type": "canvas",
+              "width": 1200,
+              "height": 700,
+              "content": [
+                {
+                  "type": "map",
+                  "maps": ["leaflands"],
+                  "canvas_left": 0,
+                  "canvas_top": 0,
+                  "width": 1200,
+                  "height": 700
+                }
+              ]
+            }
+          },
+          {
+            "title": "Sundering Sea",
+            "content": {
+              "type": "canvas",
+              "width": 1200,
+              "height": 700,
+              "content": [
+                {
+                  "type": "map",
+                  "maps": ["sunderingsea"],
+                  "canvas_left": 0,
+                  "canvas_top": 0,
+                  "width": 1200,
+                  "height": 700
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
