@@ -1,0 +1,685 @@
+[
+	{
+		"name": "Leaflands",
+		"children": [
+			/*Towns*/
+			{
+				"name": "Cropdale",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":756,
+						"y":412,
+						"size": 24
+					}
+				],
+				"sections": [
+					{
+						"name": "Healing Grape",
+						"access_rules": [
+							"$can_access_cropdale, boat_unlock"
+						]
+					},
+					{
+						"name": "Olive of Life",
+						"access_rules": [
+							"$can_access_cropdale, boat_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Wellgrove",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":323,
+						"y":751,
+						"size": 24
+					}
+				],
+				"sections": [
+					{
+						"name": "Soldier's Bow",
+						"access_rules": [
+							"$can_access_wellgrove"
+						]
+					},
+					{
+						"name": "Alrond's Estate: Empowering Lychee (L)",
+						"access_rules": [
+							"$can_access_wellgrove"
+						]
+					},
+					{
+						"name": "Alrond's Estate: Nimble Mantle",
+						"access_rules": [
+							"$can_access_wellgrove"
+						]
+					},
+				]
+			},
+			{
+				"name": "Timberain",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":252,
+						"y":470,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Protective Necklace",
+						"access_rules": [
+							"$can_access_timberain, boat_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Timberain Castle Town Square",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":282,
+						"y":454,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Wind Soulstone (L)",
+						"access_rules": [
+							"$can_access_timberain"
+						]
+					},
+					{
+						"name": "Rusty Polearm",
+						"access_rules": [
+							"$can_access_timberain, $can_ko"
+						]
+					},
+				]
+			},
+			/*Trails*/
+			{
+				"name": "Eastern Cropdale Trail",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":899,
+						"y":418,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Round Shield",
+						"access_rules": [
+							"leaflands_unlock, boat_unlock"
+						]
+					},
+					{
+						"name": "Empowering Lychee",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "1600 L",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "Slumber Sage",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Forest Path",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":820,
+						"y":265,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Healing Grape",
+						"access_rules": [
+							"$can_access_cropdale"
+						]
+					},
+					{
+						"name": "Wind Soulstone",
+						"access_rules": [
+							"$can_access_cropdale"
+						]
+					},
+					{
+						"name": "Fur Armor",
+						"access_rules": [
+							"$can_access_cropdale, boat_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Festival Grounds",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":814,
+						"y":172,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "500 L",
+						"access_rules": [
+							"$can_access_cropdale"
+						]
+					},
+				]
+			},
+			{
+				"name": "Southern Cropdale Trail",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":827,
+						"y":546,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Festival Garland",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "Healing Grape (M)",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "Wind Amulet",
+						"access_rules": [
+							"leaflands_unlock, boat_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Northern Wellgrove Trail",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":563,
+						"y":564,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Wind Soulstone (M)",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "Olive of Life (M)",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "Magic Eater",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "Guard's Shield",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "Energizing Pomegranate (L)",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Southern Timberain Trail",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":301,
+						"y":598,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Refreshing Jam",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "Hypno Sword",
+						"access_rules": [
+							"leaflands_unlock, boat_unlock"
+						]
+					},
+					{
+						"name": "Energizing Pomegranate (M)",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "3000 L",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Eastern Wellgrove Trail",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":488,
+						"y":739,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Magus Knife",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "Refreshing Jam",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "Empowering Lychee (L)",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "Fire Soulstone (M)",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "7200 L",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Road to Mother's Garden",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":316,
+						"y":891,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Herb of Valor",
+						"access_rules": [
+							"$can_access_wellgrove"
+						]
+					},
+					{
+						"name": "Stinging Dagger",
+						"access_rules": [
+							"$can_access_wellgrove"
+						]
+					},
+					{
+						"name": "Inspiriting Plum (M)",
+						"access_rules": [
+							"$can_access_wellgrove, boat_unlock"
+						]
+					},
+					{
+						"name": "Silent Bandana",
+						"access_rules": [
+							"$can_access_wellgrove, boat_unlock"
+						]
+					},
+					{
+						"name": "Empowering Lychee (L)",
+						"access_rules": [
+							"$can_access_wellgrove"
+						]
+					},
+				]
+			},
+			/*Grotto*/
+			{
+				"name": "Starfall Spring",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":830,
+						"y":623,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Bottle of Sleeping Dust",
+						"access_rules": [
+							"leaflands_unlock, boat_unlock"
+						]
+					},
+					{
+						"name": "Shadow Soulstone",
+						"access_rules": [
+							"leaflands_unlock, boat_unlock"
+						]
+					},
+					{
+						"name": "Wakeful Stone",
+						"access_rules": [
+							"leaflands_unlock, boat_unlock"
+						]
+					},
+					{
+						"name": "6000 L",
+						"access_rules": [
+							"leaflands_unlock, boat_unlock"
+						]
+					},
+					{
+						"name": "High Priest's Amulet",
+						"access_rules": [
+							"leaflands_unlock, boat_unlock"
+						]
+					},
+				]
+			},
+			/*Forests*/
+			{
+				"name": "Animal Trail",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":937,
+						"y":271,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Herb of Serenity",
+						"access_rules": [
+							"$can_access_cropdale, boat_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Veil of Trees",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":712,
+						"y":264,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Sprightly Ring",
+						"access_rules": [
+							"$can_access_cropdale, agnea_unlock, agnea_ch1, boat_unlock"
+						]
+					},
+					{
+						"name": "Healing Grape",
+						"access_rules": [
+							"$can_access_cropdale, agnea_unlock, agnea_ch1"
+						]
+					},
+					{
+						"name": "Inspiriting Plum",
+						"access_rules": [
+							"$can_access_cropdale, agnea_unlock, agnea_ch1"
+						]
+					},
+					{
+						"name": "Slippery Nut",
+						"access_rules": [
+							"$can_access_cropdale, agnea_unlock, agnea_ch1"
+						]
+					},
+					{
+						"name": "Olive of Life",
+						"access_rules": [
+							"$can_access_cropdale, agnea_unlock, agnea_ch1"
+						]
+					},
+				]
+			},
+			{
+				"name": "Secret Forest",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":172,
+						"y":743,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Light Amulet",
+						"access_rules": [
+							"$can_access_wellgrove, hikari_unlock, hikari_ch3"
+						]
+					},
+					{
+						"name": "Little Crow",
+						"access_rules": [
+							"$can_access_wellgrove, hikari_unlock, hikari_ch3"
+						]
+					},
+					{
+						"name": "10000 L",
+						"access_rules": [
+							"$can_access_wellgrove, hikari_unlock, hikari_ch3"
+						]
+					},
+					{
+						"name": "Refreshing Jam",
+						"access_rules": [
+							"$can_access_wellgrove, hikari_unlock, hikari_ch3"
+						]
+					},
+				]
+			},
+			{
+				"name": "Mother's Garden",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":198,
+						"y":897,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Healing Grape Bunch",
+						"access_rules": [
+							"$can_access_wellgrove, throne_unlock, throne_ch3M"
+						]
+					},
+					{
+						"name": "Calming Stone",
+						"access_rules": [
+							"$can_access_wellgrove, throne_unlock, throne_ch3M"
+						]
+					},
+					{
+						"name": "Horned Helm",
+						"access_rules": [
+							"$can_access_wellgrove, throne_unlock, throne_ch3M"
+						]
+					},
+					{
+						"name": "13000 L",
+						"access_rules": [
+							"$can_access_wellgrove, throne_unlock, throne_ch3M"
+						]
+					},
+					{
+						"name": "Refreshing Jam",
+						"access_rules": [
+							"$can_access_wellgrove, throne_unlock, throne_ch3M"
+						]
+					},
+				]
+			},
+			/*Mansions*/
+			{
+				"name": "House Wellows Manor",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":193,
+						"y":578,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Olive of Life (L)",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "Cursed Armor",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "Healing Grape Bunch",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+					{
+						"name": "Forbidden Axe",
+						"access_rules": [
+							"leaflands_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Timberain Castle",
+				"map_locations": [
+					{
+						"map": "leaflands",
+						"x":284,
+						"y":356,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Diffusing Serum",
+						"access_rules": [
+							"$can_access_timberain, castti_unlock, castti_ch4"
+						]
+					},
+					{
+						"name": "Herb Elixir",
+						"access_rules": [
+							"$can_access_timberain, castti_unlock, castti_ch4"
+						]
+					},
+					{
+						"name": "Cleaver of Destruction",
+						"access_rules": [
+							"$can_access_timberain, castti_unlock, castti_ch4"
+						]
+					},
+					{
+						"name": "Dreamy Flower",
+						"access_rules": [
+							"$can_access_timberain, castti_unlock, castti_ch4"
+						]
+					},
+					{
+						"name": "Roof: Mage's Robe",
+						"access_rules": [
+							"$can_access_timberain, castti_unlock, castti_ch4"
+						]
+					},
+					{
+						"name": "Roof: 23000 L",
+						"access_rules": [
+							"$can_access_timberain, castti_unlock, castti_ch4"
+						]
+					},
+					{
+						"name": "Roof: Dragon's Helm",
+						"access_rules": [
+							"$can_access_timberain, castti_unlock, castti_ch4"
+						]
+					},
+					{
+						"name": "Roof: Energizing Pomegranate (L)",
+						"access_rules": [
+							"$can_access_timberain, castti_unlock, castti_ch4"
+						]
+					},
+					{
+						"name": "Roof: Strengthening Serum",
+						"access_rules": [
+							"$can_access_timberain, castti_unlock, castti_ch4"
+						]
+					},
+				]
+			},
+		]
+	}
+]

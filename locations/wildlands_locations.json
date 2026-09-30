@@ -1,0 +1,648 @@
+[
+	{
+		"name": "Wildlands",
+		"children": [
+			/*Towns*/
+			{
+				"name": "Oresrush",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":364,
+						"y":1285,
+						"size": 24
+					}
+				],
+				"sections": [
+					{
+						"name": "Light Coin Pouch",
+						"access_rules": [
+							"$can_access_oresrush"
+						]
+					},
+					{
+						"name": "Light Nut",
+						"access_rules": [
+							"$can_access_oresrush"
+						]
+					},
+					{
+						"name": "Foundry: Stocked Goods",
+						"access_rules": [
+							"$can_access_oresrush"
+						]
+					},
+				]
+			},
+			{
+				"name": "Crackridge",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":662,
+						"y":689,
+						"size": 24
+					}
+				],
+				"sections": [
+					{
+						"name": "Olive of Life (M)",
+						"access_rules": [
+							"$can_access_crackridge"
+						]
+					},
+				]
+			},
+			{
+				"name": "Gravell",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":1132,
+						"y":231,
+						"size": 24
+					}
+				],
+				"sections": [
+					{
+						"name": "Quartz Shield",
+						"access_rules": [
+							"$can_access_gravell"
+						]
+					},
+				]
+			},
+			/*Trails*/
+			{
+				"name": "Crackridge Harbor",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":424,
+						"y":1025,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Anchorage: Bottle of Poison Dust",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Anchorage: Healing Grape (M)",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Anchorage: Kukri",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Southern Oresrush Wilds",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":388,
+						"y":1395,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Thunder Soulstone",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Nameless Sword",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "2000 L",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Herb of Valor",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Abandoned Silver Mine",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":492,
+						"y":1303,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "500 L",
+						"access_rules": [
+							"$can_access_oresrush"
+						]
+					},
+					{
+						"name": "Enlightening Ring",
+						"access_rules": [
+							"$can_access_oresrush"
+						]
+					},
+					{
+						"name": "Light Soulstone",
+						"access_rules": [
+							"$can_access_oresrush"
+						]
+					},
+					{
+						"name": "Inspiriting Plum",
+						"access_rules": [
+							"$can_access_oresrush"
+						]
+					},
+				]
+			},
+			{
+				"name": "Southern Crackridge Wilds",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":372,
+						"y":875,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Empowering Lychee",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Herb of Clamor",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "6400 L",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Shadow Soulstone (M)",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Western Crackridge Wilds",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":486,
+						"y":711,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Headgear",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Bone Mail",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "8500 L",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Thunder Soulstone (M)",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Inspiriting Plum Basket",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Olive of Life",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Abandoned Road",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":792,
+						"y":693,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Healing Grape (M)",
+						"access_rules": [
+							"$can_access_crackridge"
+						]
+					},
+					{
+						"name": "9200 L",
+						"access_rules": [
+							"$can_access_crackridge"
+						]
+					},
+					{
+						"name": "Bottled Nightmares",
+						"access_rules": [
+							"$can_access_crackridge"
+						]
+					},
+				]
+			},
+			{
+				"name": "Western Gravell Wilds",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":824,
+						"y":263,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Energizing Pomegranate (L)",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Bottle of Blinding Dust",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Thunder Soulstone (L)",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Herb of Serenity",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Starsplitter",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "23500 L",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Path to the Duskruin Shrine",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":1350,
+						"y":249,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Healing Grape Bunch",
+						"access_rules": [
+							"$can_access_gravell, osvald_unlock, osvald_ch5"
+						]
+					},
+					{
+						"name": "Antique Coat",
+						"access_rules": [
+							"$can_access_gravell, osvald_unlock, osvald_ch5"
+						]
+					},
+					{
+						"name": "Energizing Pomegranate (M)",
+						"access_rules": [
+							"$can_access_gravell, osvald_unlock, osvald_ch5"
+						]
+					},
+				]
+			},
+			/*Grotto*/
+			{
+				"name": "Unfinished Tunnel",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":252,
+						"y":845,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "2100 L",
+						"access_rules": [
+							"wildlands_unlock, $can_ko"
+						]
+					},
+					{
+						"name": "Revitalizing Jam",
+						"access_rules": [
+							"wildlands_unlock, $can_ko"
+						]
+					},
+					{
+						"name": "Olive of Life (M)",
+						"access_rules": [
+							"wildlands_unlock, $can_ko"
+						]
+					},
+					{
+						"name": "Natural Magnetite",
+						"access_rules": [
+							"wildlands_unlock, $can_ko"
+						]
+					},
+					{
+						"name": "Clarity Stone",
+						"access_rules": [
+							"wildlands_unlock, $can_ko"
+						]
+					},
+					{
+						"name": "13500 L",
+						"access_rules": [
+							"wildlands_unlock, $can_ko"
+						]
+					},
+					{
+						"name": "Herb Elixir",
+						"access_rules": [
+							"wildlands_unlock, $can_ko"
+						]
+					},
+					{
+						"name": "Enfeebling Amulet",
+						"access_rules": [
+							"wildlands_unlock, $can_ko"
+						]
+					},
+				]
+			},
+			/*Ruins*/
+			{
+				"name": "Path to the Bed of the Titan",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":666,
+						"y":821,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Energizing Pomegranate (M)",
+						"access_rules": [
+							"$can_access_crackridge, ochette_unlock, ochette_ch2T"
+						]
+					},
+					{
+						"name": "Protective Bracelet",
+						"access_rules": [
+							"$can_access_crackridge, ochette_unlock, ochette_ch2T"
+						]
+					},
+					{
+						"name": "Knight's Greatbow",
+						"access_rules": [
+							"$can_access_crackridge, ochette_unlock, ochette_ch2T"
+						]
+					},
+					{
+						"name": "Fire Amulet",
+						"access_rules": [
+							"$can_access_crackridge, ochette_unlock, ochette_ch2T"
+						]
+					},
+				]
+			},
+			{
+				"name": "Fellsun Ruins",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":928,
+						"y":703,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Energizing Pomegranate (L)",
+						"access_rules": [
+							"$can_access_crackridge, temenos_unlock, temenos_ch3C"
+						]
+					},
+					{
+						"name": "Elemental Robe",
+						"access_rules": [
+							"$can_access_crackridge, temenos_unlock, temenos_ch3C"
+						]
+					},
+					{
+						"name": "Jade Staff",
+						"access_rules": [
+							"$can_access_crackridge, temenos_unlock, temenos_ch3C"
+						]
+					},
+				]
+			},
+			{
+				"name": "Duskruin Shrine",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":1528,
+						"y":235,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Olive of Life (L)",
+						"access_rules": [
+							"$can_access_gravell, osvald_unlock, osvald_ch5"
+						]
+					},
+					{
+						"name": "Critical Necklace",
+						"access_rules": [
+							"$can_access_gravell, osvald_unlock, osvald_ch5"
+						]
+					},
+					{
+						"name": "Ice Soulstone (L)",
+						"access_rules": [
+							"$can_access_gravell, osvald_unlock, osvald_ch5"
+						]
+					},
+					{
+						"name": "25000 L",
+						"access_rules": [
+							"$can_access_gravell, osvald_unlock, osvald_ch5"
+						]
+					},
+					{
+						"name": "Depths: Empowering Lychee (L)",
+						"access_rules": [
+							"$can_access_gravell, osvald_unlock, osvald_ch5"
+						]
+					},
+					{
+						"name": "Depths: Abyssal Rod",
+						"access_rules": [
+							"$can_access_gravell, osvald_unlock, osvald_ch5"
+						]
+					},
+					{
+						"name": "Depths: Healing Grape Bunch",
+						"access_rules": [
+							"$can_access_gravell, osvald_unlock, osvald_ch5"
+						]
+					},
+					{
+						"name": "Depths: Shadow Soulstone (L)",
+						"access_rules": [
+							"$can_access_gravell, osvald_unlock, osvald_ch5"
+						]
+					},
+				]
+			},
+			/*Dungeons*/
+			{
+				"name": "Ivory Ravine",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":885,
+						"y":367,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Evening Mist",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Lost Tribe's Axe",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Bottle of Befuddling Dust",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+					{
+						"name": "Giant's Club",
+						"access_rules": [
+							"wildlands_unlock"
+						]
+					},
+				]
+			},
+			/*Mansions*/
+			{
+				"name": "Giff's Manse",
+				"map_locations": [
+					{
+						"map": "wildlands",
+						"x":502,
+						"y":1217,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Healing Grape",
+						"access_rules": [
+							"$can_access_oresrush, partitio_unlock, partitio_ch1"
+						]
+					},
+					{
+						"name": "Small Silver Ore",
+						"access_rules": [
+							"$can_access_oresrush, partitio_unlock, partitio_ch1"
+						]
+					},
+					{
+						"name": "Bronze Shield",
+						"access_rules": [
+							"$can_access_oresrush, partitio_unlock, partitio_ch1"
+						]
+					},
+					{
+						"name": "Leather Helm",
+						"access_rules": [
+							"$can_access_oresrush, partitio_unlock, partitio_ch1"
+						]
+					},
+				]
+			},
+		]
+	}
+]

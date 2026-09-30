@@ -1,0 +1,2656 @@
+[
+  {
+    "name": "Toto'haha Region",
+    "children": [
+      {
+        "name": "Toto'haha",
+        "map_locations": [
+          {
+            "map": "world",
+            "x": 3150,
+            "y": 2600,
+            "size": 100
+          }
+        ],
+          "sections": [
+            {
+              "ref": "Beasting Village/1800 L",
+              "name": "Beasting Village: 1800 L"
+            },
+            {
+              "ref": "Beasting Village/Giant Bow",
+              "name": "Beasting Village: Giant Bow"
+            },
+            {
+              "ref": "Beasting Village/Resistant Nut (L)",
+              "name": "Beasting Village: Resistant Nut (L)"
+            },
+            {
+              "ref": "Beasting Village/Perfect Jerky",
+              "name": "Beasting Village: Perfect Jerky"
+            },
+            {
+              "ref": "Beasting Village/Reinforcing Jam",
+              "name": "Beasting Village: Reinforcing Jam"
+            },
+            {
+              "ref": "Tropu'hopu/Energizing Pomegranate (M)",
+              "name": "Tropu'hopu: Energizing Pomegranate (M)"
+            },
+            {
+              "ref": "Tropu'hopu/Cait Powder",
+              "name": "Tropu'hopu: Cait Powder"
+            },
+            {
+              "ref": "Tropu'hopu/Pretty Pearl",
+              "name": "Tropu'hopu: Pretty Pearl"
+            },
+            {
+              "ref": "Tropu'hopu/Skull Helm",
+              "name": "Tropu'hopu: Skull Helm"
+            },
+            {
+              "ref": "Tropu'hopu/Empowering Lychee (M)",
+              "name": "Tropu'hopu: Shipyard: Empowering Lychee (M)"
+            },
+            {
+              "ref": "Tropu'hopu/Inspiriting Plum (M)",
+              "name": "Tropu'hopu: Floating Theater: Inspiriting Plum (M)"
+            },
+            {
+              "ref": "Nameless Village/Mythical Horn",
+              "name": "Nameless Village: Mythical Horn"
+            },
+            {
+              "ref": "Nameless Village/Empowering Lychee (M)",
+              "name": "Nameless Village: Empowering Lychee (M)"
+            },
+            {
+              "ref": "Nameless Village/Salted Seafood",
+              "name": "Nameless Village: Salted Seafood"
+            },
+            {
+              "ref": "Nameless Village/Stimulating Necklace",
+              "name": "Nameless Village: Stimulating Necklace"
+            },
+            {
+              "ref": "Nameless Village/Bottle of Befuddling Dust",
+              "name": "Nameless Village: Bottle of Befuddling Dust"
+            },
+            {
+              "ref": "Nameless Village/Forbidden Bow",
+              "name": "Nameless Village: Forbidden Bow"
+            },
+            {
+              "ref": "Path to the Tombs of the Wardenbeasts/Unerring Ring",
+              "name": "Path to the Tombs of the Wardenbeasts: Unerring Ring"
+            },
+            {
+              "ref": "Path to the Tombs of the Wardenbeasts/Inspiriting Plum",
+              "name": "Path to the Tombs of the Wardenbeasts: Inspiriting Plum"
+            },
+            {
+              "ref": "Path to the Tombs of the Wardenbeasts/Jerky",
+              "name": "Path to the Tombs of the Wardenbeasts: Jerky"
+            },
+            {
+              "ref": "North Beasting Traverse/Inspiriting Plum (M)",
+              "name": "North Beasting Traverse: Inspiriting Plum (M)"
+            },
+            {
+              "ref": "North Beasting Traverse/Empowering Lychee",
+              "name": "North Beasting Traverse: Empowering Lychee"
+            },
+            {
+              "ref": "North Beasting Traverse/Wind Soulstone",
+              "name": "North Beasting Traverse: Wind Soulstone"
+            },
+            {
+              "ref": "North Beasting Traverse/War Axe",
+              "name": "North Beasting Traverse: War Axe"
+            },
+            {
+              "ref": "Western Tropu'hopu Traverse/Empowering Lychee",
+              "name": "Western Tropu'hopu Traverse: Empowering Lychee"
+            },
+            {
+              "ref": "Western Tropu'hopu Traverse/Healing Grape Bunch",
+              "name": "Western Tropu'hopu Traverse: Healing Grape Bunch"
+            },
+            {
+              "ref": "Western Tropu'hopu Traverse/Light Soulstone (M)",
+              "name": "Western Tropu'hopu Traverse: Light Soulstone (M)"
+            },
+            {
+              "ref": "Western Tropu'hopu Traverse/Quality Jerky",
+              "name": "Western Tropu'hopu Traverse: Quality Jerky"
+            },
+            {
+              "ref": "Western Tropu'hopu Traverse/Sprightly Bracelet",
+              "name": "Western Tropu'hopu Traverse: Sprightly Bracelet"
+            },
+            {
+              "ref": "Southern Nameless Village Traverse/Mental Belt",
+              "name": "Southern Nameless Village Traverse: Mental Belt"
+            },
+            {
+              "ref": "Southern Nameless Village Traverse/Superior Jerky",
+              "name": "Southern Nameless Village Traverse: Superior Jerky"
+            },
+            {
+              "ref": "Southern Nameless Village Traverse/Herb of Serenity",
+              "name": "Southern Nameless Village Traverse: Herb of Serenity"
+            },
+            {
+              "ref": "Southern Nameless Village Traverse/Wind Soulstone (L)",
+              "name": "Southern Nameless Village Traverse: Wind Soulstone (L)"
+            },
+            {
+              "ref": "Beasting Bay/Anchorage: Slumber Sage",
+              "name": "Beasting Bay Anchorage: Slumber Sage"
+            },
+            {
+              "ref": "Beasting Bay/Anchorage: Healing Grape (M)",
+              "name": "Beasting Bay Anchorage: Healing Grape (M)"
+            },
+            {
+              "ref": "Cavern of Waves/Healing Grape Bunch",
+              "name": "Cavern of Waves: Healing Grape Bunch"
+            },
+            {
+              "ref": "Cavern of Waves/Olive of Life (L)",
+              "name": "Cavern of Waves: Olive of Life (L)"
+            },
+            {
+              "ref": "Cavern of Waves/JP Augmentor",
+              "name": "Cavern of Waves: JP Augmentor"
+            },
+            {
+              "ref": "Cavern of Waves/Raging Beast",
+              "name": "Cavern of Waves: Raging Beast"
+            },
+            {
+              "ref": "Cavern of Waves/Ruinous Relic 1",
+              "name": "Cavern of Waves: Ruinous Relic 1"
+            },
+            {
+              "ref": "Cavern of Waves/Ruinous Relic 2",
+              "name": "Cavern of Waves: Ruinous Relic 2"
+            },
+            {
+              "ref": "Cavern of Waves/Ruinous Relic 3",
+              "name": "Cavern of Waves: Ruinous Relic 3"
+            },
+            {
+              "ref": "Cavern of Waves/Salted Seafood",
+              "name": "Cavern of Waves: Salted Seafood"
+            },
+            {
+              "ref": "Wandering Wood/Antique Ceremonial Mask",
+              "name": "Wandering Wood: Antique Ceremonial Mask"
+            },
+            {
+              "ref": "Wandering Wood/Healing Grape Bunch",
+              "name": "Wandering Wood: Healing Grape Bunch"
+            },
+            {
+              "ref": "Wandering Wood/28000 Leaves",
+              "name": "Wandering Wood: 28000 Leaves"
+            },
+            {
+              "ref": "Wandering Wood/Inspriting Plum (M)",
+              "name": "Wandering Wood: Inspriting Plum (M)"
+            },
+            {
+              "ref": "Wandering Wood/Light Soulstone (L)",
+              "name": "Wandering Wood: Light Soulstone (L)"
+            },
+            {
+              "ref": "Sinking Ruins/Rusty Bow",
+              "name": "Sinking Ruins: Rusty Bow"
+            },
+            {
+              "ref": "Sinking Ruins/30000 Leaves",
+              "name": "Sinking Ruins: 30000 Leaves"
+            },
+            {
+              "ref": "Sinking Ruins/Articulate Stone",
+              "name": "Sinking Ruins: Articulate Stone"
+            },
+            {
+              "ref": "Sinking Ruins/Sea God's Spear",
+              "name": "Sinking Ruins: Sea God's Spear"
+            },
+            {
+              "ref": "Sinking Ruins/Perfect Jerky",
+              "name": "Sinking Ruins: Perfect Jerky"
+            },
+            {
+              "ref": "Sinking Ruins/Herb-of-Grace Bud",
+              "name": "Sinking Ruins: Herb-of-Grace Bud"
+            },
+            {
+              "ref": "Tombs of the Wardenbeasts/Sharp Nut",
+              "name": "Tombs of the Wardenbeasts: Sharp Nut"
+            },
+            {
+              "ref": "Tombs of the Wardenbeasts/Bone",
+              "name": "Tombs of the Wardenbeasts: Bone"
+            },
+            {
+              "ref": "Tombs of the Wardenbeasts/Composite Bow",
+              "name": "Tombs of the Wardenbeasts: Composite Bow"
+            },
+            {
+              "ref": "Summit of Strife/Energizing Pomegranate (L)",
+              "name": "Summit of Strife: Energizing Pomegranate (L)"
+            },
+            {
+              "ref": "Summit of Strife/Revitalizing Jam",
+              "name": "Summit of Strife: Revitalizing Jam"
+            },
+            {
+              "ref": "Summit of Strife/Axe of the Conqueror",
+              "name": "Summit of Strife: Axe of the Conqueror"
+            },
+            {
+              "ref": "Summit of Strife/Tornado Bow",
+              "name": "Summit of Strife: Tornado Bow"
+            },
+            {
+              "ref": "Summit of Strife/Empowering Lychee (L)",
+              "name": "Summit of Strife: Empowering Lychee (L)"
+            },
+          ]
+      }
+    ]
+  },
+  {
+    "name": "Brightlands Region",
+    "children": [
+      {
+        "name": "Brightlands",
+        "map_locations": [
+          {
+            "map": "world",
+            "x": 3800,
+            "y": 1750,
+            "size": 100
+          }
+        ],
+          "sections": [
+            {
+              "ref": "New Delsta/Energizing Pomegranate",
+              "name": "New Delsta: Energizing Pomegranate"
+            },
+            {
+              "ref": "New Delsta/Healing Grape",
+              "name": "New Delsta: Healing Grape"
+            },
+            {
+              "ref": "New Delsta/Backstreets: Dagger",
+              "name": "New Delsta: Backstreets: Dagger"
+            },
+            {
+              "ref": "New Delsta/Backstreets: Critical Nut",
+              "name": "New Delsta: Backstreets: Critical Nut"
+            },
+            {
+              "ref": "New Delsta/Backstreets: Inspiriting Plum",
+              "name": "New Delsta: Backstreets: Inspiriting Plum"
+            },
+            {
+              "ref": "New Delsta/Game Parlor: Physical Belt",
+              "name": "New Delsta: Game Parlor: Physical Belt"
+            },
+            {
+              "ref": "New Delsta/Game Parlor: 40000 L",
+              "name": "New Delsta: Game Parlor: 40000 L"
+            },
+            {
+              "ref": "New Delsta/Game Parlor: Forbidden Dagger",
+              "name": "New Delsta: Game Parlor: Forbidden Dagger"
+            },
+            {
+              "ref": "Clockbank/Bottle of Sleeping Dust",
+              "name": "Clockbank: Bottle of Sleeping Dust"
+            },
+            {
+              "ref": "Clockbank/Pointed Hat",
+              "name": "Clockbank: Pointed Hat"
+            },
+            {
+              "ref": "Clockbank/Inspiriting Plum (M)",
+              "name": "Clockbank: Inspiriting Plum (M)"
+            },
+            {
+              "ref": "Clockbank/Crested Greatshield",
+              "name": "Clockbank: Crested Greatshield"
+            },
+            {
+              "ref": "Clockbank/Industrial District: Healing Grape Bunch",
+              "name": "Clockbank: Industrial District: Healing Grape Bunch"
+            },
+            {
+              "ref": "Clockbank/Industrial District: Slashing Glaive",
+              "name": "Clockbank: Industrial District: Slashing Glaive"
+            },
+            {
+              "ref": "Lostseed/Cursed Helm",
+              "name": "Lostseed: Cursed Helm"
+            },
+            {
+              "ref": "Lostseed/Reinforcing Jam",
+              "name": "Lostseed: Reinforcing Jam"
+            },
+            {
+              "ref": "Eastern New Delsta Highroad/Iron Blade",
+              "name": "Eastern New Delsta Highroad: Iron Blade"
+            },
+            {
+              "ref": "Eastern New Delsta Highroad/700 Leaves",
+              "name": "Eastern New Delsta Highroad: 700 Leaves"
+            },
+            {
+              "ref": "Eastern New Delsta Highroad/Healing Grape (M)",
+              "name": "Eastern New Delsta Highroad: Healing Grape (M)"
+            },
+            {
+              "ref": "New Delsta Flats/Energizing Pomegranate",
+              "name": "New Delsta Flats: Energizing Pomegranate"
+            },
+            {
+              "ref": "New Delsta Flats/Herb of Serenity",
+              "name": "New Delsta Flats: Herb of Serenity"
+            },
+            {
+              "ref": "New Delsta Flats/Kite Shield",
+              "name": "New Delsta Flats: Kite Shield"
+            },
+            {
+              "ref": "Western Clockbank Highroad/Herb of Clarity",
+              "name": "Western Clockbank Highroad: Herb of Clarity"
+            },
+            {
+              "ref": "Western Clockbank Highroad/Feathered Hat",
+              "name": "Western Clockbank Highroad: Feathered Hat"
+            },
+            {
+              "ref": "Western Clockbank Highroad/Inspiriting Plum Basket",
+              "name": "Western Clockbank Highroad: Inspiriting Plum Basket"
+            },
+            {
+              "ref": "Southern Clockbank Highroad/6300 Leaves",
+              "name": "Southern Clockbank Highroad: 6300 Leaves"
+            },
+            {
+              "ref": "Southern Clockbank Highroad/Energizing Pomegranate (M)",
+              "name": "Southern Clockbank Highroad: Energizing Pomegranate (M)"
+            },
+            {
+              "ref": "Southern Clockbank Highroad/Mirage Bow",
+              "name": "Southern Clockbank Highroad: Mirage Bow"
+            },
+            {
+              "ref": "Southern Clockbank Highroad/Light Soulstone (M)",
+              "name": "Southern Clockbank Highroad: Light Soulstone (M)"
+            },
+            {
+              "ref": "Deserted Highroad/Dragon Mail",
+              "name": "Deserted Highroad: Dragon Mail"
+            },
+            {
+              "ref": "Deserted Highroad/Slumber Sage",
+              "name": "Deserted Highroad: Slumber Sage"
+            },
+            {
+              "ref": "Deserted Highroad/Energizing Pomegranate (M)",
+              "name": "Deserted Highroad: Energizing Pomegranate (M)"
+            },
+            {
+              "ref": "Deserted Highroad/Olive of Life (L)",
+              "name": "Deserted Highroad: Olive of Life (L)"
+            },
+            {
+              "ref": "New Delsta Harbor/Anchorage: Slumber Sage",
+              "name": "New Delsta Harbor: Anchorage: Slumber Sage"
+            },
+            {
+              "ref": "New Delsta Harbor/Anchorage: Bottle of Poison Dust",
+              "name": "New Delsta Harbor: Anchorage: Bottle of Poison Dust"
+            },
+            {
+              "ref": "Mount Liphia/Diffusing Serum",
+              "name": "Mount Liphia: Diffusing Serum"
+            },
+            {
+              "ref": "Mount Liphia/Olive of Life (L)",
+              "name": "Mount Liphia: Olive of Life (L)"
+            },
+            {
+              "ref": "Mount Liphia/12500 Leaves",
+              "name": "Mount Liphia: 12500 Leaves"
+            },
+            {
+              "ref": "Mount Liphia/Elemental Ward",
+              "name": "Mount Liphia: Elemental Ward"
+            },
+            {
+              "ref": "Mount Liphia/Inspiriting Plum Basket",
+              "name": "Mount Liphia: Inspiriting Plum Basket"
+            },
+            {
+              "ref": "Mount Liphia/Energizing Pomegranate",
+              "name": "Mount Liphia: Energizing Pomegranate"
+            },
+            {
+              "ref": "Sunken Maw/Inspiriting Plum (M)",
+              "name": "Sunken Maw: Inspiriting Plum (M)"
+            },
+            {
+              "ref": "Sunken Maw/Shield of Serenity",
+              "name": "Sunken Maw: Shield of Serenity"
+            },
+            {
+              "ref": "Sunken Maw/Quartz Rod",
+              "name": "Sunken Maw: Quartz Rod"
+            },
+            {
+              "ref": "Sunken Maw/13500 Leaves",
+              "name": "Sunken Maw: 13500 Leaves"
+            },
+            {
+              "ref": "Lostseed Castle/Empowering Lychee (M)",
+              "name": "Lostseed Castle: Empowering Lychee (M)"
+            },
+            {
+              "ref": "Lostseed Castle/Shadow Soulstone (L)",
+              "name": "Lostseed Castle: Shadow Soulstone (L)"
+            },
+            {
+              "ref": "Lostseed Castle/Sprightly Necklace",
+              "name": "Lostseed Castle: Sprightly Necklace"
+            },
+            {
+              "ref": "Lostseed Castle/Herb Elixir",
+              "name": "Lostseed Castle: Herb Elixir"
+            },
+            {
+              "ref": "Lostseed Castle/Upper Level: Ruinous Dagger",
+              "name": "Lostseed Castle: Upper Level: Ruinous Dagger"
+            },
+            {
+              "ref": "Lostseed Castle/Upper Level: Energizing Pomegranate (L)",
+              "name": "Lostseed Castle: Upper Level: Energizing Pomegranate (L)"
+            },
+            {
+              "ref": "Lostseed Castle/Upper Level: 27500 L",
+              "name": "Lostseed Castle: Upper Level: 27500 L"
+            },
+            {
+              "ref": "Lostseed Castle/Upper Level: Revitalizing Jam",
+              "name": "Lostseed Castle: Upper Level: Revitalizing Jam"
+            },
+            {
+              "ref": "Lostseed Castle/Upper Level: Light Soulstone (M)",
+              "name": "Lostseed Castle: Upper Level: Light Soulstone (M)"
+            },
+            {
+              "ref": "Underground Waterway/Healing Grape",
+              "name": "Underground Waterway: Healing Grape"
+            },
+            {
+              "ref": "Underground Waterway/Protective Ring",
+              "name": "Underground Waterway: Protective Ring"
+            },
+            {
+              "ref": "Abandoned Waterway/Wriggling Root 1",
+              "name": "Abandoned Waterway: Wriggling Root 1"
+            },
+            {
+              "ref": "Abandoned Waterway/Wriggling Root 2",
+              "name": "Abandoned Waterway: Wriggling Root 2"
+            },
+            {
+              "ref": "Abandoned Waterway/Herb Elixir",
+              "name": "Abandoned Waterway: Herb Elixir"
+            },
+            {
+              "ref": "Abandoned Waterway/8000 Leaves",
+              "name": "Abandoned Waterway: 8000 Leaves"
+            },
+            {
+              "ref": "Abandoned Waterway/Antidote Stone",
+              "name": "Abandoned Waterway: Antidote Stone"
+            },
+            {
+              "ref": "Abandoned Waterway/Wriggling Root 3",
+              "name": "Abandoned Waterway: Wriggling Root 3"
+            },
+            {
+              "ref": "Abandoned Waterway/Frost Axe",
+              "name": "Abandoned Waterway: Frost Axe"
+            },
+            {
+              "ref": "Diamante's Estate/Inspiriting Plum",
+              "name": "Diamante's Estate: Inspiriting Plum"
+            },
+            {
+              "ref": "Diamante's Estate/Long Sword",
+              "name": "Diamante's Estate: Long Sword"
+            },
+            {
+              "ref": "Diamante's Estate/Shadow Soulstone",
+              "name": "Diamante's Estate: Shadow Soulstone"
+            },
+            {
+              "ref": "Diamante's Estate/1200 Leaves",
+              "name": "Diamante's Estate: 1200 Leaves"
+            },
+            {
+              "ref": "Theater: Backstage/Refreshing Jam",
+              "name": "Theater: Backstage: Refreshing Jam"
+            },
+            {
+              "ref": "Theater: Backstage/Lightning Amulet",
+              "name": "Theater: Backstage: Lightning Amulet"
+            },
+            {
+              "ref": "Theater: Backstage/Simple Costume",
+              "name": "Theater: Backstage: Simple Costume"
+            },
+            {
+              "ref": "Theater: Backstage/Falcon Knife",
+              "name": "Theater: Backstage: Falcon Knife"
+            },
+            {
+              "ref": "Theater: Backstage/Healing Grape (M)",
+              "name": "Theater: Backstage: Healing Grape (M)"
+            },
+            {
+              "ref": "The Roque Company Factory/Empowering Lychee (M)",
+              "name": "The Roque Company Factory: Empowering Lychee (M)"
+            },
+            {
+              "ref": "The Roque Company Factory/7000 L",
+              "name": "The Roque Company Factory: 7000 L"
+            },
+            {
+              "ref": "The Roque Company Factory/Prosperity Charm",
+              "name": "The Roque Company Factory: Prosperity Charm"
+            },
+            {
+              "ref": "Old Clock Tower/Inferno Amulet",
+              "name": "Old Clock Tower: Inferno Amulet"
+            },
+            {
+              "ref": "Old Clock Tower/Seraphim Spear",
+              "name": "Old Clock Tower: Seraphim Spear"
+            }
+          ]
+      }
+    ]
+  },
+  {
+    "name": "Crestlands Region",
+    "children": [
+      {
+        "name": "Crestlands",
+        "map_locations": [
+          {
+            "map": "world",
+            "x": 4600,
+            "y": 1300,
+            "size": 100
+          }
+        ],
+          "sections": [
+            {
+              "ref": "Flamechurch/400 L",
+              "name": "Flamechurch: 400 L"
+            },
+            {
+              "ref": "Flamechurch/Guard's Shield",
+              "name": "Flamechurch: Guard's Shield"
+            },
+            {
+              "ref": "Flamechurch/Healing Grape",
+              "name": "Flamechurch: Healing Grape"
+            },
+            {
+              "ref": "Flamechurch/Cathedral Entrance: Shadow Soulstone",
+              "name": "Flamechurch: Cathedral: Entrance: Shadow Soulstone"
+            },
+            {
+              "ref": "Flamechurch Cathedral/Olive of Life",
+              "name": "Flamechurch: Cathedral: Olive of Life"
+            },
+            {
+              "ref": "Flamechurch Cathedral/Light Soulstone",
+              "name": "Flamechurch: Cathedral: Light Soulstone"
+            },
+            {
+              "ref": "Flamechurch Cathedral/Angel's Ring",
+              "name": "Flamechurch: Cathedral: Angel's Ring"
+            },
+            {
+              "ref": "Montwise/Feather Mantle",
+              "name": "Montwise: Feather Mantle"
+            },
+            {
+              "ref": "Montwise/Engagement Bow",
+              "name": "Montwise: Engagement Bow"
+            },
+            {
+              "ref": "Montwise/Library: Lapis Rod",
+              "name": "Montwise: Library: Lapis Rod"
+            },
+            {
+              "ref": "Merry Hills/Herb of Clamor",
+              "name": "Merry Hills: Herb of Clamor"
+            },
+            {
+              "ref": "Merry Hills/Shrine Entrance: 2700 L",
+              "name": "Merry Hills: Shrine Entrance: 2700 L"
+            },
+            {
+              "ref": "Merry Hills/Shrine Entrance: Empowering Necklace",
+              "name": "Merry Hills: Shrine Entrance: Empowering Necklace"
+            },
+            {
+              "ref": "Merry Hills/Empowering Lychee (L)",
+              "name": "Merry Hills: Empowering Lychee (L)"
+            },
+            {
+              "ref": "Eastern Flamechurch Pass/Energizing Pomegranate",
+              "name": "Eastern Flamechurch Pass: Energizing Pomegranate"
+            },
+            {
+              "ref": "Eastern Flamechurch Pass/Fur Armor",
+              "name": "Eastern Flamechurch Pass: Fur Armor"
+            },
+            {
+              "ref": "Eastern Flamechurch Pass/Fire Soulstone",
+              "name": "Eastern Flamechurch Pass: Fire Soulstone"
+            },
+            {
+              "ref": "Eastern Flamechurch Pass/Slumber Sage",
+              "name": "Eastern Flamechurch Pass: Slumber Sage"
+            },
+            {
+              "ref": "Borderfall/Inspiriting Plum (M)",
+              "name": "Borderfall: Inspiriting Plum (M)"
+            },
+            {
+              "ref": "Borderfall/Shadow Bow",
+              "name": "Borderfall: Shadow Bow"
+            },
+            {
+              "ref": "Borderfall/Thunder Soulstone (M)",
+              "name": "Borderfall: Thunder Soulstone (M)"
+            },
+            {
+              "ref": "Borderfall/Empowering Lychee",
+              "name": "Borderfall: Empowering Lychee"
+            },
+            {
+              "ref": "Western Montwise Pass/800 Leaves",
+              "name": "Western Montwise Pass: 800 Leaves"
+            },
+            {
+              "ref": "Western Montwise Pass/Gelid Helm",
+              "name": "Western Montwise Pass: Gelid Helm"
+            },
+            {
+              "ref": "Western Montwise Pass/Energizing Pomegranate (M)",
+              "name": "Western Montwise Pass: Energizing Pomegranate (M)"
+            },
+            {
+              "ref": "Northern Montwise Pass/Healing Grape (M)",
+              "name": "Northern Montwise Pass: Healing Grape (M)"
+            },
+            {
+              "ref": "Northern Montwise Pass/Gold Dust 1",
+              "name": "Northern Montwise Pass: Gold Dust 1"
+            },
+            {
+              "ref": "Northern Montwise Pass/Large Silver Ore 1",
+              "name": "Northern Montwise Pass: Large Silver Ore 1"
+            },
+            {
+              "ref": "Northern Montwise Pass/Gold Dust 2",
+              "name": "Northern Montwise Pass: Gold Dust 2"
+            },
+            {
+              "ref": "Northern Montwise Pass/Slumber Sage",
+              "name": "Northern Montwise Pass: Slumber Sage"
+            },
+            {
+              "ref": "Northern Montwise Pass/Shadow Soulstone (M)",
+              "name": "Northern Montwise Pass: Shadow Soulstone (M)"
+            },
+            {
+              "ref": "Northern Montwise Pass/Large Silver Ore 2",
+              "name": "Northern Montwise Pass: Large Silver Ore 2"
+            },
+            {
+              "ref": "Northern Montwise Pass/Unerring Necklace",
+              "name": "Northern Montwise Pass: Unerring Necklace"
+            },
+            {
+              "ref": "Western Merry Hills Pass/Herb of Serenity",
+              "name": "Western Merry Hills Pass: Herb of Serenity"
+            },
+            {
+              "ref": "Western Merry Hills Pass/Herb of Awakening",
+              "name": "Western Merry Hills Pass: Herb of Awakening"
+            },
+            {
+              "ref": "Western Merry Hills Pass/Sun Shield",
+              "name": "Western Merry Hills Pass: Sun Shield"
+            },
+            {
+              "ref": "Western Merry Hills Pass/Healing Grape (M)",
+              "name": "Western Merry Hills Pass: Healing Grape (M)"
+            },
+            {
+              "ref": "Flamechurch Pilgrims' Way/Inspiriting Plum",
+              "name": "Flamechurch Pilgrims' Way: Inspiriting Plum"
+            },
+            {
+              "ref": "Flamechurch Pilgrims' Way/Healing Grape",
+              "name": "Flamechurch Pilgrims' Way: Healing Grape"
+            },
+            {
+              "ref": "Flamechurch Pilgrims' Way/Stimulating Ring",
+              "name": "Flamechurch Pilgrims' Way: Stimulating Ring"
+            },
+            {
+              "ref": "Flamechurch Pilgrims' Way/Tough Nut",
+              "name": "Flamechurch Pilgrims' Way: Tough Nut"
+            },
+            {
+              "ref": "Abandoned Traverse/Bottle of Poison Dust",
+              "name": "Abandoned Traverse: Bottle of Poison Dust"
+            },
+            {
+              "ref": "Abandoned Traverse/Energizing Pomegranate",
+              "name": "Abandoned Traverse: Energizing Pomegranate"
+            },
+            {
+              "ref": "Abandoned Traverse/Guardian Amulet",
+              "name": "Abandoned Traverse: Guardian Amulet"
+            },
+            {
+              "ref": "Abandoned Traverse/Ice Soulstone (M)",
+              "name": "Abandoned Traverse: Ice Soulstone (M)"
+            },
+            {
+              "ref": "Forsaken Graveyard/Vivifying Stone",
+              "name": "Forsaken Graveyard: Vivifying Stone"
+            },
+            {
+              "ref": "Forsaken Graveyard/Dark Slasher",
+              "name": "Forsaken Graveyard: Dark Slasher"
+            },
+            {
+              "ref": "Forsaken Graveyard/Fire Soulstone (L)",
+              "name": "Forsaken Graveyard: Fire Soulstone (L)"
+            },
+            {
+              "ref": "Forsaken Graveyard/Grail of Life",
+              "name": "Forsaken Graveyard: Grail of Life"
+            },
+            {
+              "ref": "Forsaken Graveyard/Forbidden Blade",
+              "name": "Forsaken Graveyard: Forbidden Blade"
+            },
+            {
+              "ref": "Seat of the Water Sprite/Inspiriting Plum Basket",
+              "name": "Seat of the Water Sprite: Inspiriting Plum Basket"
+            },
+            {
+              "ref": "Seat of the Water Sprite/10000 L",
+              "name": "Seat of the Water Sprite: 10000 L"
+            },
+            {
+              "ref": "Seat of the Water Sprite/Olive of Life (M)",
+              "name": "Seat of the Water Sprite: Olive of Life (M)"
+            },
+            {
+              "ref": "Seat of the Water Sprite/Blessing in Disguise",
+              "name": "Seat of the Water Sprite: Blessing in Disguise"
+            },
+            {
+              "ref": "Seat of the Water Sprite/Rusty Staff",
+              "name": "Seat of the Water Sprite: Rusty Staff"
+            },
+            {
+              "ref": "Seat of the Water Sprite/Energizing Pomegranate",
+              "name": "Seat of the Water Sprite: Energizing Pomegranate"
+            },
+            {
+              "ref": "Seat of the Water Sprite/Enlightening Bracelet",
+              "name": "Seat of the Water Sprite: Enlightening Bracelet"
+            },
+            {
+              "ref": "Shrine of Ul'sterra/Refreshing Jam",
+              "name": "Shrine of Ul'sterra: Refreshing Jam"
+            },
+            {
+              "ref": "Shrine of Ul'sterra/Elemental Augmentor",
+              "name": "Shrine of Ul'sterra: Elemental Augmentor"
+            },
+            {
+              "ref": "Shrine of Ul'sterra/Resplendent Costume",
+              "name": "Shrine of Ul'sterra: Resplendent Costume"
+            },
+            {
+              "ref": "Shrine of Ul'sterra/Bloodstained Knife",
+              "name": "Shrine of Ul'sterra: Bloodstained Knife"
+            },
+            {
+              "ref": "Cathedral Cellars/Light Soulstone",
+              "name": "Cathedral Cellars: Light Soulstone"
+            },
+            {
+              "ref": "Cathedral Cellars/Inspiriting Plum",
+              "name": "Cathedral Cellars: Inspiriting Plum"
+            },
+            {
+              "ref": "Cathedral Cellars/Pilgrim Rod",
+              "name": "Cathedral Cellars: Pilgrim Rod"
+            },
+            {
+              "ref": "Abandoned Church/Healing Grape Bunch",
+              "name": "Abandoned Church: Healing Grape Bunch"
+            },
+            {
+              "ref": "Abandoned Church/Black Dagger",
+              "name": "Abandoned Church: Black Dagger"
+            },
+            {
+              "ref": "Abandoned Church/Inspiriting Plum Basket",
+              "name": "Abandoned Church: Inspiriting Plum Basket"
+            },
+            {
+              "ref": "Abandoned Church/Olive of Life (M)",
+              "name": "Abandoned Church: Olive of Life (M)"
+            },
+            {
+              "ref": "Underground Laboratory/14000 L",
+              "name": "Underground Laboratory: 14000 L"
+            },
+            {
+              "ref": "Underground Laboratory/Bottled Nightmares 1",
+              "name": "Underground Laboratory: Bottled Nightmares 1"
+            },
+            {
+              "ref": "Underground Laboratory/Bottled Nightmares 2",
+              "name": "Underground Laboratory: Bottled Nightmares 2"
+            },
+            {
+              "ref": "Underground Laboratory/Fire Soulstone (L)",
+              "name": "Underground Laboratory: Fire Soulstone (L)"
+            }
+          ]
+      }
+    ]
+  },
+  {
+    "name": "Winterlands Regioon",
+    "children": [
+      {
+        "name": "Winterlands",
+        "map_locations": [
+          {
+            "map": "world",
+            "x": 4375,
+            "y": 920,
+            "size": 100
+          }
+        ],
+          "sections": [
+            {
+              "ref": "Frigit Isle/Prison: Bottle of Blinding Dust",
+              "name": "Frigit Isle: Prison: Bottle of Blinding Dust"
+            },
+            {
+              "ref": "Frigit Isle/Prison: Inspiriting Plum",
+              "name": "Frigit Isle: Prison: Inspiriting Plum"
+            },
+            {
+              "ref": "Cape Cold/2000 L",
+              "name": "Cape Cold: 2000 L"
+            },
+            {
+              "ref": "Cape Cold/Energizing Pomegranate",
+              "name": "Cape Cold: Energizing Pomegranate"
+            },
+            {
+              "ref": "Winterbloom/Strengthening Serum",
+              "name": "Winterbloom: Strengthening Serum"
+            },
+            {
+              "ref": "Winterbloom/150 L",
+              "name": "Winterbloom: 150 L"
+            },
+            {
+              "ref": "Winterbloom/Old Armor",
+              "name": "Winterbloom: Old Armor"
+            },
+            {
+              "ref": "Winterbloom/Healing Grape",
+              "name": "Winterbloom: Healing Grape"
+            },
+            {
+              "ref": "Winterbloom/Ice Soulstone (M)",
+              "name": "Winterbloom: Ice Soulstone (M)"
+            },
+            {
+              "ref": "Winterbloom/Thieves' Quarter: Empowering Lychee (M)",
+              "name": "Winterbloom: Thieves' Quarter: Empowering Lychee (M)"
+            },
+            {
+              "ref": "Stormhail/Inspiriting Plum Basket",
+              "name": "Stormhail: Inspiriting Plum Basket"
+            },
+            {
+              "ref": "Stormhail/Knight's Armor",
+              "name": "Stormhail: Knight's Armor"
+            },
+            {
+              "ref": "Stormhail/Sacred Guard Headquarters: Flayer's Admonishment",
+              "name": "Stormhail: Sacred Guard Headquarters: Flayer's Admonishment"
+            },
+            {
+              "ref": "Stormhail/Sacred Guard Headquarters: Energizing Pomegranate",
+              "name": "Stormhail: Sacred Guard Headquarters: Energizing Pomegranate"
+            },
+            {
+              "ref": "Stormhail/Sacred Guard Headquarters: Light Soulstone (L)",
+              "name": "Stormhail: Sacred Guard Headquarters: Light Soulstone (L)"
+            },
+            {
+              "ref": "Frigit Isle Entrance/Healing Grape",
+              "name": "Frigit Isle: Entrance: Healing Grape"
+            },
+            {
+              "ref": "Frigit Isle Anchorage/Magic Nut",
+              "name": "Frigit Isle: Anchorage: Magic Nut"
+            },
+            {
+              "ref": "Frigit Isle Anchorage/Inspiriting Plum",
+              "name": "Frigit Isle: Anchorage: Inspiriting Plum"
+            },
+            {
+              "ref": "Frigit Isle Anchorage/Ice Soulstone",
+              "name": "Frigit Isle: Anchorage: Ice Soulstone"
+            },
+            {
+              "ref": "Southern Cape Cold Snows/Olive of Life (M)",
+              "name": "Southern Cape Cold Snows: Olive of Life (M)"
+            },
+            {
+              "ref": "Southern Cape Cold Snows/Inspiriting Plum (M)",
+              "name": "Southern Cape Cold Snows: Inspiriting Plum (M)"
+            },
+            {
+              "ref": "Southern Cape Cold Snows/Pilgrim's Robe",
+              "name": "Southern Cape Cold Snows: Pilgrim's Robe"
+            },
+            {
+              "ref": "Southern Cape Cold Snows/Empowering Lychee",
+              "name": "Southern Cape Cold Snows: Empowering Lychee"
+            },
+            {
+              "ref": "Eastern Cape Cold Snows/Ice Soulstone",
+              "name": "Eastern Cape Cold Snows: Ice Soulstone"
+            },
+            {
+              "ref": "Eastern Cape Cold Snows/Needle Dagger",
+              "name": "Eastern Cape Cold Snows: Needle Dagger"
+            },
+            {
+              "ref": "Eastern Cape Cold Snows/Fur Cap",
+              "name": "Eastern Cape Cold Snows: Fur Cap"
+            },
+            {
+              "ref": "Eastern Cape Cold Snows/600 L",
+              "name": "Eastern Cape Cold Snows: 600 L"
+            },
+            {
+              "ref": "Western Winterbloom Snows/Falcon Ring",
+              "name": "Western Winterbloom Snows: Falcon Ring"
+            },
+            {
+              "ref": "Western Winterbloom Snows/Ice Soulstone (M)",
+              "name": "Western Winterbloom Snows: Ice Soulstone (M)"
+            },
+            {
+              "ref": "Western Winterbloom Snows/Diffusing Serum",
+              "name": "Western Winterbloom Snows: Diffusing Serum"
+            },
+            {
+              "ref": "Southern Stormhail Snows/15000 L",
+              "name": "Southern Stormhail Snows: 15000 L"
+            },
+            {
+              "ref": "Southern Stormhail Snows/Ice Soulstone (L)",
+              "name": "Southern Stormhail Snows: Ice Soulstone (L)"
+            },
+            {
+              "ref": "Southern Stormhail Snows/Raging Beast",
+              "name": "Southern Stormhail Snows: Raging Beast"
+            },
+            {
+              "ref": "Southern Stormhail Snows/Lightning Armor",
+              "name": "Southern Stormhail Snows: Lightning Armor"
+            },
+            {
+              "ref": "Southern Stormhail Snows/Herb of Revival",
+              "name": "Southern Stormhail Snows: Herb of Revival"
+            },
+            {
+              "ref": "Stormhail: Castle Mei/Thunder Soulstone (M)",
+              "name": "Stormhail: Castle Mei: Thunder Soulstone (M)"
+            },
+            {
+              "ref": "Stormhail: Castle Mei/16000 L",
+              "name": "Stormhail: Castle Mei: 16000 L"
+            },
+            {
+              "ref": "Sacred Peak Altahe/Reinforcing Jam",
+              "name": "Sacred Peak Altahe: Reinforcing Jam"
+            },
+            {
+              "ref": "Sacred Peak Altahe/Ice Amulet",
+              "name": "Sacred Peak Altahe: Ice Amulet"
+            },
+            {
+              "ref": "Sacred Peak Altahe/Ice Soulstone (L)",
+              "name": "Sacred Peak Altahe: Ice Soulstone (L)"
+            },
+            {
+              "ref": "Sacred Peak Altahe/Absolute Zero Bow",
+              "name": "Sacred Peak Altahe: Absolute Zero Bow"
+            },
+            {
+              "ref": "Infernal Castle/Inspiriting Plum Basket",
+              "name": "Infernal Castle: Inspiriting Plum Basket"
+            },
+            {
+              "ref": "Infernal Castle/Blizzard Amulet",
+              "name": "Infernal Castle: Blizzard Amulet"
+            },
+            {
+              "ref": "Infernal Castle/Lost Tribe's Staff",
+              "name": "Infernal Castle: Lost Tribe's Staff"
+            },
+            {
+              "ref": "Infernal Castle/Energizing Pomegranate (M)",
+              "name": "Infernal Castle: Energizing Pomegranate (M)"
+            },
+            {
+              "ref": "Infernal Castle/Serpent Slayer",
+              "name": "Infernal Castle: Serpent Slayer"
+            },
+            {
+              "ref": "Infernal Castle/Stone of Truth",
+              "name": "Infernal Castle: Stone of Truth"
+            },
+            {
+              "ref": "Prison/Underground Passage: Inspiriting Plum",
+              "name": "Prison: Underground Passage: Inspiriting Plum"
+            },
+            {
+              "ref": "Prison/Underground Passage: Healing Grape",
+              "name": "Prison: Underground Passage: Healing Grape"
+            },
+            {
+              "ref": "Prison/Underground Passage: Sinner's Staff",
+              "name": "Prison: Underground Passage: Sinner's Staff"
+            },
+            {
+              "ref": "Prison/Underground Passage: Ancient Necklace",
+              "name": "Prison: Underground Passage: Ancient Necklace"
+            },
+            {
+              "ref": "Prison/Underground Passage: Olive of Life",
+              "name": "Prison: Underground Passage: Olive of Life"
+            },
+            {
+              "ref": "Forbidden Shrine/Gleaming Amulet",
+              "name": "Forbidden Shrine: Gleaming Amulet"
+            },
+            {
+              "ref": "Forbidden Shrine/Olive of Life (M)",
+              "name": "Forbidden Shrine: Olive of Life (M)"
+            },
+            {
+              "ref": "Forbidden Shrine/Healing Grape (M)",
+              "name": "Forbidden Shrine: Healing Grape (M)"
+            },
+            {
+              "ref": "Forbidden Shrine/15000 L",
+              "name": "Forbidden Shrine: 15000 L"
+            },
+            {
+              "ref": "Forbidden Shrine/Magic Breaker",
+              "name": "Forbidden Shrine: Magic Breaker"
+            },
+            {
+              "ref": "Ruffians' Hideout/Bottle of Blinding Dust",
+              "name": "Ruffians' Hideout: Bottle of Blinding Dust"
+            },
+            {
+              "ref": "Ruffians' Hideout/1000 L",
+              "name": "Ruffians' Hideout: 1000 L"
+            },
+            {
+              "ref": "Ruffians' Hideout/Heretic's Greatsword",
+              "name": "Ruffians' Hideout: Heretic's Greatsword"
+            },
+            {
+              "ref": "Ruffians' Hideout/Olive of Life (M)",
+              "name": "Ruffians' Hideout: Olive of Life (M)"
+            },
+            {
+              "ref": "Ruffians' Hideout/Wind Robe",
+              "name": "Ruffians' Hideout: Wind Robe"
+            },
+            {
+              "ref": "Snowhares' Den/Healing Grape (M)",
+              "name": "Snowhares' Den: Healing Grape (M)"
+            },
+            {
+              "ref": "Snowhares' Den/Empowering Bracelet",
+              "name": "Snowhares' Den: Empowering Bracelet"
+            },
+            {
+              "ref": "Snowhares' Den/Quartz Dagger",
+              "name": "Snowhares' Den: Quartz Dagger"
+            },
+            {
+              "ref": "Snowhares' Den/Shadow Soulstone (M)",
+              "name": "Snowhares' Den: Shadow Soulstone (M)"
+            },
+            {
+              "ref": "Snowhares' Den/Inspiriting Plum (M)",
+              "name": "Snowhares' Den: Inspiriting Plum (M)"
+            },
+            {
+              "ref": "Castle Mei: East Tower/Herb of Serenity",
+              "name": "Castle Mei: East Tower: Herb of Serenity"
+            },
+            {
+              "ref": "Castle Mei: East Tower/Thunder Soulstone (L)",
+              "name": "Castle Mei: East Tower: Thunder Soulstone (L)"
+            },
+            {
+              "ref": "Castle Mei: East Tower/Healing Grape (M)",
+              "name": "Castle Mei: East Tower: Healing Grape (M)"
+            },
+            {
+              "ref": "Castle Mei: East Tower/Nightmare Glaive",
+              "name": "Castle Mei: East Tower: Nightmare Glaive"
+            },
+            {
+              "ref": "Castle Mei: East Tower/Thunderstorm Amulet",
+              "name": "Castle Mei: East Tower: Thunderstorm Amulet"
+            },
+          ]
+      }
+    ]
+  },
+  {
+    "name": "Harborlands Region",
+    "children": [
+      {
+        "name": "Harborlands",
+        "map_locations": [
+          {
+            "map": "world",
+            "x": 1850,
+            "y": 2150,
+            "size": 100
+          }
+        ],
+          "sections": [
+            {
+              "ref": "Canalbrine/Resistant Nut",
+              "name": "Canalbrine: Resistant Nut"
+            },
+            {
+              "ref": "Canalbrine/Slumber Sage",
+              "name": "Canalbrine: Slumber Sage"
+            },
+            {
+              "ref": "Canalbrine/Woodcutter's Great Axe",
+              "name": "Canalbrine: Woodcutter's Great Axe"
+            },
+            {
+              "ref": "Conning Creek/Bottle of Befuddling Dust",
+              "name": "Conning Creek: Bottle of Befuddling Dust"
+            },
+            {
+              "ref": "Conning Creek/Blazon of Protection",
+              "name": "Conning Creek: Blazon of Protection"
+            },
+            {
+              "ref": "Conning Creek/Outskirts: Inspiriting Plum (M)",
+              "name": "Conning Creek: Outskirts: Inspiriting Plum (M)"
+            },
+            {
+              "ref": "Conning Creek/Outskirts: Fire Soulstone (M)",
+              "name": "Conning Creek: Outskirts: Fire Soulstone (M)"
+            },
+            {
+              "ref": "Conning Creek/Harbor: Rainbow Glass Bottle",
+              "name": "Conning Creek: Harbor: Rainbow Glass Bottle"
+            },
+            {
+              "ref": "Roque Island/Empowering Lychee (L)",
+              "name": "Roque Island: Empowering Lychee (L)"
+            },
+            {
+              "ref": "Roque Island/39800 L",
+              "name": "Roque Island: 39800 L"
+            },
+            {
+              "ref": "Roque Island/Rejuvenating Jam 1",
+              "name": "Roque Island: Rejuvenating Jam 1"
+            },
+            {
+              "ref": "Roque Island/Rejuvenating Jam 2",
+              "name": "Roque Island: Rejuvenating Jam 2"
+            },
+            {
+              "ref": "Roque Island/Rejuvenating Jam 3",
+              "name": "Roque Island: Rejuvenating Jam 3"
+            },
+            {
+              "ref": "Roque Island/Magic Nut (L)",
+              "name": "Roque Island: Magic Nut (L)"
+            },
+            {
+              "ref": "Roque Island/Herb of Healing",
+              "name": "Roque Island: Herb of Healing"
+            },
+            {
+              "ref": "Roque Island/Energizing Pomegranate (L)",
+              "name": "Roque Island: Energizing Pomegranate (L)"
+            },
+            {
+              "ref": "Roque Island/Headquarters: Critical Bracelet",
+              "name": "Roque Island: Headquarters: Critical Bracelet"
+            },
+            {
+              "ref": "Canalbrine Path to the Water Source/Darkdelion",
+              "name": "Canalbrine: Path to the Water Source: Darkdelion"
+            },
+            {
+              "ref": "Canalbrine Path to the Water Source/Empowering Ring",
+              "name": "Canalbrine: Path to the Water Source: Empowering Ring"
+            },
+            {
+              "ref": "Canalbrine Path to the Water Source/Plum Leaf",
+              "name": "Canalbrine: Path to the Water Source: Plum Leaf"
+            },
+            {
+              "ref": "Canalbrine Path to the Water Source/Grape Leaf",
+              "name": "Canalbrine: Path to the Water Source: Grape Leaf"
+            },
+            {
+              "ref": "Canalbrine Path to the Water Source/Guard's Helm",
+              "name": "Canalbrine: Path to the Water Source: Guard's Helm"
+            },
+            {
+              "ref": "Canalbrine Path to the Water Source/Herb of Healing",
+              "name": "Canalbrine: Path to the Water Source: Herb of Healing"
+            },
+            {
+              "ref": "Western Canalbrine Coast/Healing Grape (M)",
+              "name": "Western Canalbrine Coast: Healing Grape (M)"
+            },
+            {
+              "ref": "Western Canalbrine Coast/Herb of Serenity",
+              "name": "Western Canalbrine Coast: Herb of Serenity"
+            },
+            {
+              "ref": "Western Canalbrine Coast/Traveler's Bow",
+              "name": "Western Canalbrine Coast: Traveler's Bow"
+            },
+            {
+              "ref": "Western Canalbrine Coast/Inspiriting Plum (M)",
+              "name": "Western Canalbrine Coast: Inspiriting Plum (M)"
+            },
+            {
+              "ref": "Western Canalbrine Coast/1500 L",
+              "name": "Western Canalbrine Coast: 1500 L"
+            },
+            {
+              "ref": "Western Canalbrine Coast/Sticky Flower",
+              "name": "Western Canalbrine Coast: Sticky Flower"
+            },
+            {
+              "ref": "Canalbrine Bridge/Refreshing Jam",
+              "name": "Canalbrine Bridge: Refreshing Jam"
+            },
+            {
+              "ref": "Canalbrine Bridge/Silver Sword",
+              "name": "Canalbrine Bridge: Silver Sword"
+            },
+            {
+              "ref": "Canalbrine Bridge/Lance",
+              "name": "Canalbrine Bridge: Lance"
+            },
+            {
+              "ref": "Canalbrine Bridge/Cleansing Leaf",
+              "name": "Canalbrine Bridge: Cleansing Leaf"
+            },
+            {
+              "ref": "Canalbrine Bridge/Ice Soulstone",
+              "name": "Canalbrine Bridge: Ice Soulstone"
+            },
+            {
+              "ref": "Canalbrine Bridge/Healing Grape Bunch",
+              "name": "Canalbrine Bridge: Healing Grape Bunch"
+            },
+            {
+              "ref": "Northern Conning Creek Coast/Energizing Pomegranate",
+              "name": "Northern Conning Creek Coast: Energizing Pomegranate"
+            },
+            {
+              "ref": "Northern Conning Creek Coast/Matching Trident",
+              "name": "Northern Conning Creek Coast: Matching Trident"
+            },
+            {
+              "ref": "Northern Conning Creek Coast/Wind Soulstone (M)",
+              "name": "Northern Conning Creek Coast: Wind Soulstone (M)"
+            },
+            {
+              "ref": "Northern Conning Creek Coast/Helmcleaver",
+              "name": "Northern Conning Creek Coast: Helmcleaver"
+            },
+            {
+              "ref": "Western Conning Creek Coast/Empowering Lychee",
+              "name": "Western Conning Creek Coast: Empowering Lychee"
+            },
+            {
+              "ref": "Western Conning Creek Coast/Unerring Bracelet",
+              "name": "Western Conning Creek Coast: Unerring Bracelet"
+            },
+            {
+              "ref": "Western Conning Creek Coast/Slumber Sage",
+              "name": "Western Conning Creek Coast: Slumber Sage"
+            },
+            {
+              "ref": "Western Conning Creek Coast/Energizing Pomegranate",
+              "name": "Western Conning Creek Coast: Energizing Pomegranate"
+            },
+            {
+              "ref": "Roque Island Anchorage/22000 L",
+              "name": "Roque Island: Anchorage: 22000 L"
+            },
+            {
+              "ref": "Roque Island Anchorage/Enlightening Necklace",
+              "name": "Roque Island: Anchorage: Enlightening Necklace"
+            },
+            {
+              "ref": "Roque Island Anchorage/Healing Grape Bunch",
+              "name": "Roque Island: Anchorage: Healing Grape Bunch"
+            },
+            {
+              "ref": "Canalbrine Water Source/Diffusing Serum",
+              "name": "Canalbrine: Water Source: Diffusing Serum"
+            },
+            {
+              "ref": "Canalbrine Water Source/Cleansing Leaf",
+              "name": "Canalbrine: Water Source: Cleansing Leaf"
+            },
+            {
+              "ref": "Canalbrine Water Source/Old Armor",
+              "name": "Canalbrine: Water Source: Old Armor"
+            },
+            {
+              "ref": "Canalbrine Water Source/Herb of Healing",
+              "name": "Canalbrine: Water Source: Herb of Healing"
+            },
+            {
+              "ref": "Cavern of the Sea God/Empowering Lychee (M)",
+              "name": "Cavern of the Sea God: Empowering Lychee (M)"
+            },
+            {
+              "ref": "Cavern of the Sea God/Rabbit Shield",
+              "name": "Cavern of the Sea God: Rabbit Shield"
+            },
+            {
+              "ref": "Cavern of the Sea God/Healing Grape Bunch",
+              "name": "Cavern of the Sea God: Healing Grape Bunch"
+            },
+            {
+              "ref": "Cavern of the Sea God/6000 L",
+              "name": "Cavern of the Sea God: 6000 L"
+            },
+            {
+              "ref": "Cavern of the Moon and Sun/2400 L",
+              "name": "Cavern of the Moon and Sun: 2400 L"
+            },
+            {
+              "ref": "Cavern of the Moon and Sun/Mighty Belt",
+              "name": "Cavern of the Moon and Sun: Mighty Belt"
+            },
+            {
+              "ref": "Cavern of the Moon and Sun/Light Soulstone (L)",
+              "name": "Cavern of the Moon and Sun: Light Soulstone (L)"
+            },
+            {
+              "ref": "Lair of the Usurper/Bottle of Sleeping Dust",
+              "name": "Lair of the Usurper: Bottle of Sleeping Dust"
+            },
+            {
+              "ref": "Lair of the Usurper/Thunder Mace",
+              "name": "Lair of the Usurper: Thunder Mace"
+            },
+            {
+              "ref": "Lair of the Usurper/Olive of Life (M)",
+              "name": "Lair of the Usurper: Olive of Life (M)"
+            },
+            {
+              "ref": "Lair of the Usurper/Grail of Life",
+              "name": "Lair of the Usurper: Grail of Life"
+            },
+            {
+              "ref": "Lair of the Usurper/6500 L",
+              "name": "Lair of the Usurper: 6500 L"
+            },
+            {
+              "ref": "Lair of the Usurper/Weathered Treasure Shield",
+              "name": "Lair of the Usurper: Weathered Treasure Shield"
+            },
+            {
+              "ref": "Lair of the Usurper/Empowering Lychee (L)",
+              "name": "Lair of the Usurper: Empowering Lychee (L)"
+            },
+            {
+              "ref": "Sacred Guard Ship/Mace",
+              "name": "Sacred Guard Ship: Mace"
+            },
+            {
+              "ref": "Sacred Guard Ship/Inspiriting Plum (M)",
+              "name": "Sacred Guard Ship: Inspiriting Plum (M)"
+            },
+            {
+              "ref": "Sacred Guard Ship/5600 L",
+              "name": "Sacred Guard Ship: 5600 L"
+            },
+            {
+              "ref": "Sacred Guard Ship/Dark Amulet",
+              "name": "Sacred Guard Ship: Dark Amulet"
+            },
+            {
+              "ref": "Sacred Guard Ship/Empowering Lychee (M)",
+              "name": "Sacred Guard Ship: Empowering Lychee (M)"
+            },
+            {
+              "ref": "Guard Outpost/Fire Soulstone",
+              "name": "Guard Outpost: Fire Soulstone"
+            },
+            {
+              "ref": "Guard Outpost/Guard's Armor",
+              "name": "Guard Outpost: Guard's Armor"
+            },
+            {
+              "ref": "Guard Outpost/Empowering Lychee (M)",
+              "name": "Guard Outpost: Empowering Lychee (M)"
+            },
+            {
+              "ref": "Guard Outpost/Guard's Hat",
+              "name": "Guard Outpost: Guard's Hat"
+            },
+            {
+              "ref": "Guard Outpost/7200 L",
+              "name": "Guard Outpost: 7200 L"
+            },
+            {
+              "ref": "The Roque Company/West Tower: Inspiriting Plum Basket",
+              "name": "The Roque Company: West Tower: Inspiriting Plum Basket"
+            },
+            {
+              "ref": "The Roque Company/West Tower: Empowering Lychee (L)",
+              "name": "The Roque Company: West Tower: Empowering Lychee (L)"
+            },
+            {
+              "ref": "The Roque Company/West Tower: Fire Soulstone (L)",
+              "name": "The Roque Company: West Tower: Fire Soulstone (L)"
+            },
+            {
+              "ref": "The Roque Company/West Tower: Venom Lance",
+              "name": "The Roque Company: West Tower: Venom Lance"
+            },
+            {
+              "ref": "The Roque Company/East Tower: 24500 L",
+              "name": "The Roque Company: East Tower: 24500 L"
+            },
+            {
+              "ref": "The Roque Company/East Tower: Large Silver Ore",
+              "name": "The Roque Company: East Tower: Large Silver Ore"
+            },
+            {
+              "ref": "The Roque Company/East Tower: Olive of Life (L)",
+              "name": "The Roque Company: East Tower: Olive of Life (L)"
+            },
+            {
+              "ref": "The Roque Company/East Tower: Aged Wine",
+              "name": "The Roque Company: East Tower: Aged Wine"
+            },
+            {
+              "ref": "The Roque Company/East Tower: Mechanical Bow",
+              "name": "The Roque Company: East Tower: Mechanical Bow"
+            },
+            {
+              "ref": "The Roque Company/East Tower: Refreshing Jam",
+              "name": "The Roque Company: East Tower: Refreshing Jam"
+            },
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hinoeuma Region",
+    "children": [
+      {
+        "name": "Hinoeuma",
+        "map_locations": [
+          {
+            "map": "world",
+            "x": 1000,
+            "y": 2350,
+            "size": 100
+          }
+        ],
+          "sections": [
+            {
+              "ref": "Ryu/Empowering Lychee",
+              "name": "Ryu: Empowering Lychee"
+            },
+            {
+              "ref": "Sai/Inspiriting Plum (M)",
+              "name": "Sai: Inspiriting Plum (M)"
+            },
+            {
+              "ref": "Sai/Wind Soulstone (M)",
+              "name": "Sai: Wind Soulstone (M)"
+            },
+            {
+              "ref": "Sai/East District: Herb of Revival",
+              "name": "Sai: East District: Herb of Revival"
+            },
+            {
+              "ref": "Sai/East District: Tattered Dress",
+              "name": "Sai: East District: Tattered Dress"
+            },
+            {
+              "ref": "Sai/East District: Battle Hatchet",
+              "name": "Sai: East District: Battle Hatchet"
+            },
+            {
+              "ref": "Sai/East District: Refined Sword",
+              "name": "Sai: East District: Refined Sword"
+            },
+            {
+              "ref": "Ku/Castle Town: Healing Grape",
+              "name": "Ku: Castle Town: Healing Grape"
+            },
+            {
+              "ref": "Ku/Castle Town: Inspiriting Plum",
+              "name": "Ku: Castle Town: Inspiriting Plum"
+            },
+            {
+              "ref": "Castle Ku Entrance/1600 L",
+              "name": "Castle Ku: Entrance: 1600 L"
+            },
+            {
+              "ref": "Castle Ku Entrance/Critical Ring",
+              "name": "Castle Ku: Entrance: Critical Ring"
+            },
+            {
+              "ref": "Northern Ryu Sands/Bottle of Befuddling Dust",
+              "name": "Northern Ryu Sands: Bottle of Befuddling Dust"
+            },
+            {
+              "ref": "Northern Ryu Sands/Bone Spear",
+              "name": "Northern Ryu Sands: Bone Spear"
+            },
+            {
+              "ref": "Northern Ryu Sands/Diffusing Serum",
+              "name": "Northern Ryu Sands: Diffusing Serum"
+            },
+            {
+              "ref": "Western Sai Sands/Iron Shield",
+              "name": "Western Sai Sands: Iron Shield"
+            },
+            {
+              "ref": "Western Sai Sands/Olive of Life (L)",
+              "name": "Western Sai Sands: Olive of Life (L)"
+            },
+            {
+              "ref": "Western Sai Sands/Reinforcing Jam",
+              "name": "Western Sai Sands: Reinforcing Jam"
+            },
+            {
+              "ref": "Southern Sai Sands/Herb of Light",
+              "name": "Southern Sai Sands: Herb of Light"
+            },
+            {
+              "ref": "Southern Sai Sands/6200 L",
+              "name": "Southern Sai Sands: 6200 L"
+            },
+            {
+              "ref": "Southern Sai Sands/Energizing Pomegranate (M)",
+              "name": "Southern Sai Sands: Energizing Pomegranate (M)"
+            },
+            {
+              "ref": "Southern Sai Sands/Inspiriting Plum Basket",
+              "name": "Southern Sai Sands: Inspiriting Plum Basket"
+            },
+            {
+              "ref": "Eastern Sai Sands/Healing Grape Bunch",
+              "name": "Eastern Sai Sands: Healing Grape Bunch"
+            },
+            {
+              "ref": "Eastern Sai Sands/Fire Soulstone (M)",
+              "name": "Eastern Sai Sands: Fire Soulstone (M)"
+            },
+            {
+              "ref": "Eastern Sai Sands/War Glaive",
+              "name": "Eastern Sai Sands: War Glaive"
+            },
+            {
+              "ref": "Eastern Sai Sands/Empowering Lychee (M)",
+              "name": "Eastern Sai Sands: Empowering Lychee (M)"
+            },
+            {
+              "ref": "Eastern Ku Sands/Energizing Pomegranate (L)",
+              "name": "Eastern Ku Sands: Energizing Pomegranate (L)"
+            },
+            {
+              "ref": "Eastern Ku Sands/Thunder Soulstone (L)",
+              "name": "Eastern Ku Sands: Thunder Soulstone (L)"
+            },
+            {
+              "ref": "Eastern Ku Sands/Firestarter",
+              "name": "Eastern Ku Sands: Firestarter"
+            },
+            {
+              "ref": "Eastern Ku Sands/Slumber Sage",
+              "name": "Eastern Ku Sands: Slumber Sage"
+            },
+            {
+              "ref": "Eastern Ku Sands/Healing Grape Bunch",
+              "name": "Eastern Ku Sands: Healing Grape Bunch"
+            },
+            {
+              "ref": "Southern Ku Sands/Energizing Pomegranate",
+              "name": "Southern Ku Sands: Energizing Pomegranate"
+            },
+            {
+              "ref": "Southern Ku Sands/Fire Soulstone",
+              "name": "Southern Ku Sands: Fire Soulstone"
+            },
+            {
+              "ref": "Southern Ku Sands/Herb of Light",
+              "name": "Southern Ku Sands: Herb of Light"
+            },
+            {
+              "ref": "Southern Ku Sands/Inspiriting Plum",
+              "name": "Southern Ku Sands: Inspiriting Plum"
+            },
+            {
+              "ref": "Sandflow Pass/Quartz Blade",
+              "name": "Sandflow Pass: Quartz Blade"
+            },
+            {
+              "ref": "Sandflow Pass/Steel Lance",
+              "name": "Sandflow Pass: Steel Lance"
+            },
+            {
+              "ref": "Sandflow Pass/Bone Mail",
+              "name": "Sandflow Pass: Bone Mail"
+            },
+            {
+              "ref": "Sandflow Pass/Empowering Lychee (M)",
+              "name": "Sandflow Pass: Empowering Lychee (M)"
+            },
+            {
+              "ref": "Sandflow Pass/Stimulating Bracelet",
+              "name": "Sandflow Pass: Stimulating Bracelet"
+            },
+            {
+              "ref": "Sandflow Pass/Strengthening Serum",
+              "name": "Sandflow Pass: Strengthening Serum"
+            },
+            {
+              "ref": "Old Campsite/Dual Flower",
+              "name": "Old Campsite: Dual Flower"
+            },
+            {
+              "ref": "Quicksand Gaol/Rusty Axe",
+              "name": "Quicksand Gaol: Rusty Axe"
+            },
+            {
+              "ref": "Quicksand Gaol/Reinforcing Jam",
+              "name": "Quicksand Gaol: Reinforcing Jam"
+            },
+            {
+              "ref": "Quicksand Gaol/Wind Soulstone (L)",
+              "name": "Quicksand Gaol: Wind Soulstone (L)"
+            },
+            {
+              "ref": "Quicksand Gaol/Bright Stone",
+              "name": "Quicksand Gaol: Bright Stone"
+            },
+            {
+              "ref": "Quicksand Gaol/Scorched Bone Spear",
+              "name": "Quicksand Gaol: Scorched Bone Spear"
+            },
+            {
+              "ref": "Dragonridge/Wind Whisperer",
+              "name": "Dragonridge: Wind Whisperer"
+            },
+            {
+              "ref": "Dragonridge/Empowering Lychee",
+              "name": "Dragonridge: Empowering Lychee"
+            },
+            {
+              "ref": "Dragonridge/Inspiriting Plum Basket",
+              "name": "Dragonridge: Inspiriting Plum Basket"
+            },
+            {
+              "ref": "Dragonridge/Tempest Amulet",
+              "name": "Dragonridge: Tempest Amulet"
+            },
+            {
+              "ref": "Sand Lion's Den/Olive of Life (L)",
+              "name": "Sand Lion's Den: Olive of Life (L)"
+            },
+            {
+              "ref": "Sand Lion's Den/Healing Grape Bunch",
+              "name": "Sand Lion's Den: Healing Grape Bunch"
+            },
+            {
+              "ref": "Sand Lion's Den/Poisoned Hatchet",
+              "name": "Sand Lion's Den: Poisoned Hatchet"
+            },
+            {
+              "ref": "Sand Lion's Den/Diffusing Serum",
+              "name": "Sand Lion's Den: Diffusing Serum"
+            },
+            {
+              "ref": "Tranquil Grotto/Olive of Life (L)",
+              "name": "Tranquil Grotto: Olive of Life (L)"
+            },
+            {
+              "ref": "Tranquil Grotto/Mysterious Dagger",
+              "name": "Tranquil Grotto: Mysterious Dagger"
+            },
+            {
+              "ref": "Tranquil Grotto/Reinforcing Jam",
+              "name": "Tranquil Grotto: Reinforcing Jam"
+            },
+            {
+              "ref": "Tranquil Grotto/25000 L",
+              "name": "Tranquil Grotto: 25000 L"
+            },
+            {
+              "ref": "Castle Ku/Thunder Soulstone",
+              "name": "Castle Ku: Thunder Soulstone"
+            },
+            {
+              "ref": "Castle Ku/Healing Grape",
+              "name": "Castle Ku: Healing Grape"
+            },
+            {
+              "ref": "Castle Ku/Fortifying Nut",
+              "name": "Castle Ku: Fortifying Nut"
+            },
+            {
+              "ref": "Decaying Temple/Bottle of Sleeping Dust",
+              "name": "Decaying Temple: Bottle of Sleeping Dust"
+            },
+            {
+              "ref": "Decaying Temple/Energizing Pomegranate (M)",
+              "name": "Decaying Temple: Energizing Pomegranate (M)"
+            },
+            {
+              "ref": "Decaying Temple/20000 L",
+              "name": "Decaying Temple: 20000 L"
+            },
+            {
+              "ref": "Decaying Temple/Fire Dragon's Glaive",
+              "name": "Decaying Temple: Fire Dragon's Glaive"
+            },
+            {
+              "ref": "Decaying Temple/Sniper's Bow",
+              "name": "Decaying Temple: Sniper's Bow"
+            },
+          ]
+      }
+    ]
+  },
+  {
+    "name": "Wildlands Region",
+    "children": [
+      {
+        "name": "Wildlands",
+        "map_locations": [
+          {
+            "map": "world",
+            "x": 1800,
+            "y": 1000,
+            "size": 100
+          }
+        ],
+          "sections": [
+            {
+              "ref": "Oresrush/Light Coin Pouch",
+              "name": "Oresrush: Light Coin Pouch"
+            },
+            {
+              "ref": "Oresrush/Light Nut",
+              "name": "Oresrush: Light Nut"
+            },
+            {
+              "ref": "Oresrush/Foundry: Stocked Goods",
+              "name": "Oresrush: Foundry: Stocked Goods"
+            },
+            {
+              "ref": "Crackridge/Olive of Life (M)",
+              "name": "Crackridge: Olive of Life (M)"
+            },
+            {
+              "ref": "Gravell/Quartz Shield",
+              "name": "Gravell: Quartz Shield"
+            },
+            {
+              "ref": "Crackridge Harbor/Anchorage: Bottle of Poison Dust",
+              "name": "Crackridge Harbor: Anchorage: Bottle of Poison Dust"
+            },
+            {
+              "ref": "Crackridge Harbor/Anchorage: Healing Grape (M)",
+              "name": "Crackridge Harbor: Anchorage: Healing Grape (M)"
+            },
+            {
+              "ref": "Crackridge Harbor/Anchorage: Kukri",
+              "name": "Crackridge Harbor: Anchorage: Kukri"
+            },
+            {
+              "ref": "Southern Oresrush Wilds/Thunder Soulstone",
+              "name": "Southern Oresrush Wilds: Thunder Soulstone"
+            },
+            {
+              "ref": "Southern Oresrush Wilds/Nameless Sword",
+              "name": "Southern Oresrush Wilds: Nameless Sword"
+            },
+            {
+              "ref": "Southern Oresrush Wilds/2000 L",
+              "name": "Southern Oresrush Wilds: 2000 L"
+            },
+            {
+              "ref": "Southern Oresrush Wilds/Herb of Valor",
+              "name": "Southern Oresrush Wilds: Herb of Valor"
+            },
+            {
+              "ref": "Abandoned Silver Mine/500 L",
+              "name": "Abandoned Silver Mine: 500 L"
+            },
+            {
+              "ref": "Abandoned Silver Mine/Enlightening Ring",
+              "name": "Abandoned Silver Mine: Enlightening Ring"
+            },
+            {
+              "ref": "Abandoned Silver Mine/Light Soulstone",
+              "name": "Abandoned Silver Mine: Light Soulstone"
+            },
+            {
+              "ref": "Abandoned Silver Mine/Inspiriting Plum",
+              "name": "Abandoned Silver Mine: Inspiriting Plum"
+            },
+            {
+              "ref": "Southern Crackridge Wilds/Empowering Lychee",
+              "name": "Southern Crackridge Wilds: Empowering Lychee"
+            },
+            {
+              "ref": "Southern Crackridge Wilds/Herb of Clamor",
+              "name": "Southern Crackridge Wilds: Herb of Clamor"
+            },
+            {
+              "ref": "Southern Crackridge Wilds/6400 L",
+              "name": "Southern Crackridge Wilds: 6400 L"
+            },
+            {
+              "ref": "Southern Crackridge Wilds/Shadow Soulstone (M)",
+              "name": "Southern Crackridge Wilds: Shadow Soulstone (M)"
+            },
+            {
+              "ref": "Western Crackridge Wilds/Headgear",
+              "name": "Western Crackridge Wilds: Headgear"
+            },
+            {
+              "ref": "Western Crackridge Wilds/Bone Mail",
+              "name": "Western Crackridge Wilds: Bone Mail"
+            },
+            {
+              "ref": "Western Crackridge Wilds/8500 L",
+              "name": "Western Crackridge Wilds: 8500 L"
+            },
+            {
+              "ref": "Western Crackridge Wilds/Thunder Soulstone (M)",
+              "name": "Western Crackridge Wilds: Thunder Soulstone (M)"
+            },
+            {
+              "ref": "Western Crackridge Wilds/Inspiriting Plum Basket",
+              "name": "Western Crackridge Wilds: Inspiriting Plum Basket"
+            },
+            {
+              "ref": "Western Crackridge Wilds/Olive of Life",
+              "name": "Western Crackridge Wilds: Olive of Life"
+            },
+            {
+              "ref": "Abandoned Road/Healing Grape (M)",
+              "name": "Abandoned Road: Healing Grape (M)"
+            },
+            {
+              "ref": "Abandoned Road/9200 L",
+              "name": "Abandoned Road: 9200 L"
+            },
+            {
+              "ref": "Abandoned Road/Bottled Nightmares",
+              "name": "Abandoned Road: Bottled Nightmares"
+            },
+            {
+              "ref": "Western Gravell Wilds/Energizing Pomegranate (L)",
+              "name": "Western Gravell Wilds: Energizing Pomegranate (L)"
+            },
+            {
+              "ref": "Western Gravell Wilds/Bottle of Blinding Dust",
+              "name": "Western Gravell Wilds: Bottle of Blinding Dust"
+            },
+            {
+              "ref": "Western Gravell Wilds/Thunder Soulstone (L)",
+              "name": "Western Gravell Wilds: Thunder Soulstone (L)"
+            },
+            {
+              "ref": "Western Gravell Wilds/Herb of Serenity",
+              "name": "Western Gravell Wilds: Herb of Serenity"
+            },
+            {
+              "ref": "Western Gravell Wilds/Starsplitter",
+              "name": "Western Gravell Wilds: Starsplitter"
+            },
+            {
+              "ref": "Western Gravell Wilds/23500 L",
+              "name": "Western Gravell Wilds: 23500 L"
+            },
+            {
+              "ref": "Path to the Duskruin Shrine/Healing Grape Bunch",
+              "name": "Path to the Duskruin Shrine: Healing Grape Bunch"
+            },
+            {
+              "ref": "Path to the Duskruin Shrine/Antique Coat",
+              "name": "Path to the Duskruin Shrine: Antique Coat"
+            },
+            {
+              "ref": "Path to the Duskruin Shrine/Energizing Pomegranate (M)",
+              "name": "Path to the Duskruin Shrine: Energizing Pomegranate (M)"
+            },
+            {
+              "ref": "Unfinished Tunnel/2100 L",
+              "name": "Unfinished Tunnel: 2100 L"
+            },
+            {
+              "ref": "Unfinished Tunnel/Revitalizing Jam",
+              "name": "Unfinished Tunnel: Revitalizing Jam"
+            },
+            {
+              "ref": "Unfinished Tunnel/Olive of Life (M)",
+              "name": "Unfinished Tunnel: Olive of Life (M)"
+            },
+            {
+              "ref": "Unfinished Tunnel/Natural Magnetite",
+              "name": "Unfinished Tunnel: Natural Magnetite"
+            },
+            {
+              "ref": "Unfinished Tunnel/Clarity Stone",
+              "name": "Unfinished Tunnel: Clarity Stone"
+            },
+            {
+              "ref": "Unfinished Tunnel/13500 L",
+              "name": "Unfinished Tunnel: 13500 L"
+            },
+            {
+              "ref": "Unfinished Tunnel/Herb Elixir",
+              "name": "Unfinished Tunnel: Herb Elixir"
+            },
+            {
+              "ref": "Unfinished Tunnel/Enfeebling Amulet",
+              "name": "Unfinished Tunnel: Enfeebling Amulet"
+            },
+            {
+              "ref": "Path to the Bed of the Titan/Energizing Pomegranate (M)",
+              "name": "Path to the Bed of the Titan: Energizing Pomegranate (M)"
+            },
+            {
+              "ref": "Path to the Bed of the Titan/Protective Bracelet",
+              "name": "Path to the Bed of the Titan: Protective Bracelet"
+            },
+            {
+              "ref": "Path to the Bed of the Titan/Knight's Greatbow",
+              "name": "Path to the Bed of the Titan: Knight's Greatbow"
+            },
+            {
+              "ref": "Path to the Bed of the Titan/Fire Amulet",
+              "name": "Path to the Bed of the Titan: Fire Amulet"
+            },
+            {
+              "ref": "Fellsun Ruins/Energizing Pomegranate (L)",
+              "name": "Fellsun Ruins: Energizing Pomegranate (L)"
+            },
+            {
+              "ref": "Fellsun Ruins/Elemental Robe",
+              "name": "Fellsun Ruins: Elemental Robe"
+            },
+            {
+              "ref": "Fellsun Ruins/Jade Staff",
+              "name": "Fellsun Ruins: Jade Staff"
+            },
+            {
+              "ref": "Duskruin Shrine/Olive of Life (L)",
+              "name": "Duskruin Shrine: Olive of Life (L)"
+            },
+            {
+              "ref": "Duskruin Shrine/Critical Necklace",
+              "name": "Duskruin Shrine: Critical Necklace"
+            },
+            {
+              "ref": "Duskruin Shrine/Ice Soulstone (L)",
+              "name": "Duskruin Shrine: Ice Soulstone (L)"
+            },
+            {
+              "ref": "Duskruin Shrine/25000 L",
+              "name": "Duskruin Shrine: 25000 L"
+            },
+            {
+              "ref": "Duskruin Shrine/Depths: Empowering Lychee (L)",
+              "name": "Duskruin Shrine: Depths: Empowering Lychee (L)"
+            },
+            {
+              "ref": "Duskruin Shrine/Depths: Abyssal Rod",
+              "name": "Duskruin Shrine: Depths: Abyssal Rod"
+            },
+            {
+              "ref": "Duskruin Shrine/Depths: Healing Grape Bunch",
+              "name": "Duskruin Shrine: Depths: Healing Grape Bunch"
+            },
+            {
+              "ref": "Duskruin Shrine/Depths: Shadow Soulstone (L)",
+              "name": "Duskruin Shrine: Depths: Shadow Soulstone (L)"
+            },
+            {
+              "ref": "Ivory Ravine/Evening Mist",
+              "name": "Ivory Ravine: Evening Mist"
+            },
+            {
+              "ref": "Ivory Ravine/Lost Tribe's Axe",
+              "name": "Ivory Ravine: Lost Tribe's Axe"
+            },
+            {
+              "ref": "Ivory Ravine/Bottle of Befuddling Dust",
+              "name": "Ivory Ravine: Bottle of Befuddling Dust"
+            },
+            {
+              "ref": "Ivory Ravine/Giant's Club",
+              "name": "Ivory Ravine: Giant's Club"
+            },
+            {
+              "ref": "Giff's Manse/Healing Grape",
+              "name": "Giff's Manse: Healing Grape"
+            },
+            {
+              "ref": "Giff's Manse/Small Silver Ore",
+              "name": "Giff's Manse: Small Silver Ore"
+            },
+            {
+              "ref": "Giff's Manse/Bronze Shield",
+              "name": "Giff's Manse: Bronze Shield"
+            },
+            {
+              "ref": "Giff's Manse/Leather Helm",
+              "name": "Giff's Manse: Leather Helm"
+            },
+          ]
+      }
+    ]
+  },
+  {
+    "name": "Leaflands Region",
+    "children": [
+      {
+        "name": "Leaflands",
+        "map_locations": [
+          {
+            "map": "world",
+            "x": 870,
+            "y": 1500,
+            "size": 100
+          }
+        ],
+          "sections": [
+            {
+              "ref": "Cropdale/Healing Grape",
+              "name": "Cropdale: Healing Grape"
+            },
+            {
+              "ref": "Cropdale/Olive of Life",
+              "name": "Cropdale: Olive of Life"
+            },
+            {
+              "ref": "Wellgrove/Soldier's Bow",
+              "name": "Wellgrove: Soldier's Bow"
+            },
+            {
+              "ref": "Wellgrove/Alrond's Estate: Empowering Lychee (L)",
+              "name": "Wellgrove: Alrond's Estate: Empowering Lychee (L)"
+            },
+            {
+              "ref": "Wellgrove/Alrond's Estate: Nimble Mantle",
+              "name": "Wellgrove: Alrond's Estate: Nimble Mantle"
+            },
+            {
+              "ref": "Timberain/Protective Necklace",
+              "name": "Timberain: Protective Necklace"
+            },
+            {
+              "ref": "Timberain Castle Town Square/Wind Soulstone (L)",
+              "name": "Timberain Castle: Town Square: Wind Soulstone (L)"
+            },
+            {
+              "ref": "Timberain Castle Town Square/Rusty Polearm",
+              "name": "Timberain Castle: Town Square: Rusty Polearm"
+            },
+            {
+              "ref": "Eastern Cropdale Trail/Round Shield",
+              "name": "Eastern Cropdale Trail: Round Shield"
+            },
+            {
+              "ref": "Eastern Cropdale Trail/Empowering Lychee",
+              "name": "Eastern Cropdale Trail: Empowering Lychee"
+            },
+            {
+              "ref": "Eastern Cropdale Trail/1600 L",
+              "name": "Eastern Cropdale Trail: 1600 L"
+            },
+            {
+              "ref": "Eastern Cropdale Trail/Slumber Sage",
+              "name": "Eastern Cropdale Trail: Slumber Sage"
+            },
+            {
+              "ref": "Forest Path/Healing Grape",
+              "name": "Forest Path: Healing Grape"
+            },
+            {
+              "ref": "Forest Path/Wind Soulstone",
+              "name": "Forest Path: Wind Soulstone"
+            },
+            {
+              "ref": "Forest Path/Fur Armor",
+              "name": "Forest Path: Fur Armor"
+            },
+            {
+              "ref": "Festival Grounds/500 L",
+              "name": "Festival Grounds: 500 L"
+            },
+            {
+              "ref": "Southern Cropdale Trail/Festival Garland",
+              "name": "Southern Cropdale Trail: Festival Garland"
+            },
+            {
+              "ref": "Southern Cropdale Trail/Healing Grape (M)",
+              "name": "Southern Cropdale Trail: Healing Grape (M)"
+            },
+            {
+              "ref": "Southern Cropdale Trail/Wind Amulet",
+              "name": "Southern Cropdale Trail: Wind Amulet"
+            },
+            {
+              "ref": "Northern Wellgrove Trail/Wind Soulstone (M)",
+              "name": "Northern Wellgrove Trail: Wind Soulstone (M)"
+            },
+            {
+              "ref": "Northern Wellgrove Trail/Olive of Life (M)",
+              "name": "Northern Wellgrove Trail: Olive of Life (M)"
+            },
+            {
+              "ref": "Northern Wellgrove Trail/Magic Eater",
+              "name": "Northern Wellgrove Trail: Magic Eater"
+            },
+            {
+              "ref": "Northern Wellgrove Trail/Guard's Shield",
+              "name": "Northern Wellgrove Trail: Guard's Shield"
+            },
+            {
+              "ref": "Northern Wellgrove Trail/Energizing Pomegranate (L)",
+              "name": "Northern Wellgrove Trail: Energizing Pomegranate (L)"
+            },
+            {
+              "ref": "Southern Timberain Trail/Refreshing Jam",
+              "name": "Southern Timberain Trail: Refreshing Jam"
+            },
+            {
+              "ref": "Southern Timberain Trail/Hypno Sword",
+              "name": "Southern Timberain Trail: Hypno Sword"
+            },
+            {
+              "ref": "Southern Timberain Trail/Energizing Pomegranate (M)",
+              "name": "Southern Timberain Trail: Energizing Pomegranate (M)"
+            },
+            {
+              "ref": "Southern Timberain Trail/3000 L",
+              "name": "Southern Timberain Trail: 3000 L"
+            },
+            {
+              "ref": "Eastern Wellgrove Trail/Magus Knife",
+              "name": "Eastern Wellgrove Trail: Magus Knife"
+            },
+            {
+              "ref": "Eastern Wellgrove Trail/Refreshing Jam",
+              "name": "Eastern Wellgrove Trail: Refreshing Jam"
+            },
+            {
+              "ref": "Eastern Wellgrove Trail/Empowering Lychee (L)",
+              "name": "Eastern Wellgrove Trail: Empowering Lychee (L)"
+            },
+            {
+              "ref": "Eastern Wellgrove Trail/Fire Soulstone (M)",
+              "name": "Eastern Wellgrove Trail: Fire Soulstone (M)"
+            },
+            {
+              "ref": "Eastern Wellgrove Trail/7200 L",
+              "name": "Eastern Wellgrove Trail: 7200 L"
+            },
+            {
+              "ref": "Road to Mother's Garden/Herb of Valor",
+              "name": "Road to Mother's Garden: Herb of Valor"
+            },
+            {
+              "ref": "Road to Mother's Garden/Stinging Dagger",
+              "name": "Road to Mother's Garden: Stinging Dagger"
+            },
+            {
+              "ref": "Road to Mother's Garden/Inspiriting Plum (M)",
+              "name": "Road to Mother's Garden: Inspiriting Plum (M)"
+            },
+            {
+              "ref": "Road to Mother's Garden/Silent Bandana",
+              "name": "Road to Mother's Garden: Silent Bandana"
+            },
+            {
+              "ref": "Road to Mother's Garden/Empowering Lychee (L)",
+              "name": "Road to Mother's Garden: Empowering Lychee (L)"
+            },
+            {
+              "ref": "Starfall Spring/Bottle of Sleeping Dust",
+              "name": "Starfall Spring: Bottle of Sleeping Dust"
+            },
+            {
+              "ref": "Starfall Spring/Shadow Soulstone",
+              "name": "Starfall Spring: Shadow Soulstone"
+            },
+            {
+              "ref": "Starfall Spring/Wakeful Stone",
+              "name": "Starfall Spring: Wakeful Stone"
+            },
+            {
+              "ref": "Starfall Spring/6000 L",
+              "name": "Starfall Spring: 6000 L"
+            },
+            {
+              "ref": "Starfall Spring/High Priest's Amulet",
+              "name": "Starfall Spring: High Priest's Amulet"
+            },
+            {
+              "ref": "Animal Trail/Herb of Serenity",
+              "name": "Animal Trail: Herb of Serenity"
+            },
+            {
+              "ref": "Veil of Trees/Sprightly Ring",
+              "name": "Veil of Trees: Sprightly Ring"
+            },
+            {
+              "ref": "Veil of Trees/Healing Grape",
+              "name": "Veil of Trees: Healing Grape"
+            },
+            {
+              "ref": "Veil of Trees/Inspiriting Plum",
+              "name": "Veil of Trees: Inspiriting Plum"
+            },
+            {
+              "ref": "Veil of Trees/Slippery Nut",
+              "name": "Veil of Trees: Slippery Nut"
+            },
+            {
+              "ref": "Veil of Trees/Olive of Life",
+              "name": "Veil of Trees: Olive of Life"
+            },
+            {
+              "ref": "Secret Forest/Light Amulet",
+              "name": "Secret Forest: Light Amulet"
+            },
+            {
+              "ref": "Secret Forest/Little Crow",
+              "name": "Secret Forest: Little Crow"
+            },
+            {
+              "ref": "Secret Forest/10000 L",
+              "name": "Secret Forest: 10000 L"
+            },
+            {
+              "ref": "Secret Forest/Refreshing Jam",
+              "name": "Secret Forest: Refreshing Jam"
+            },
+            {
+              "ref": "Mother's Garden/Healing Grape Bunch",
+              "name": "Mother's Garden: Healing Grape Bunch"
+            },
+            {
+              "ref": "Mother's Garden/Calming Stone",
+              "name": "Mother's Garden: Calming Stone"
+            },
+            {
+              "ref": "Mother's Garden/Horned Helm",
+              "name": "Mother's Garden: Horned Helm"
+            },
+            {
+              "ref": "Mother's Garden/13000 L",
+              "name": "Mother's Garden: 13000 L"
+            },
+            {
+              "ref": "Mother's Garden/Refreshing Jam",
+              "name": "Mother's Garden: Refreshing Jam"
+            },
+            {
+              "ref": "House Wellows Manor/Olive of Life (L)",
+              "name": "House Wellows Manor: Olive of Life (L)"
+            },
+            {
+              "ref": "House Wellows Manor/Cursed Armor",
+              "name": "House Wellows Manor: Cursed Armor"
+            },
+            {
+              "ref": "House Wellows Manor/Healing Grape Bunch",
+              "name": "House Wellows Manor: Healing Grape Bunch"
+            },
+            {
+              "ref": "House Wellows Manor/Forbidden Axe",
+              "name": "House Wellows Manor: Forbidden Axe"
+            },
+            {
+              "ref": "Timberain Castle/Diffusing Serum",
+              "name": "Timberain Castle: Diffusing Serum"
+            },
+            {
+              "ref": "Timberain Castle/Herb Elixir",
+              "name": "Timberain Castle: Herb Elixir"
+            },
+            {
+              "ref": "Timberain Castle/Cleaver of Destruction",
+              "name": "Timberain Castle: Cleaver of Destruction"
+            },
+            {
+              "ref": "Timberain Castle/Dreamy Flower",
+              "name": "Timberain Castle: Dreamy Flower"
+            },
+            {
+              "ref": "Timberain Castle/Roof: Mage's Robe",
+              "name": "Timberain Castle: Roof: Mage's Robe"
+            },
+            {
+              "ref": "Timberain Castle/Roof: 23000 L",
+              "name": "Timberain Castle: Roof: 23000 L"
+            },
+            {
+              "ref": "Timberain Castle/Roof: Dragon's Helm",
+              "name": "Timberain Castle: Roof: Dragon's Helm"
+            },
+            {
+              "ref": "Timberain Castle/Roof: Energizing Pomegranate (L)",
+              "name": "Timberain Castle: Roof: Energizing Pomegranate (L)"
+            },
+            {
+              "ref": "Timberain Castle/Roof: Strengthening Serum",
+              "name": "Timberain Castle: Roof: Strengthening Serum"
+            },
+          ]
+      }
+    ]
+  },
+  {
+    "name": "Sundering Sea Region",
+    "children": [
+      {
+        "name": "Sundering Sea",
+        "map_locations": [
+          {
+            "map": "world",
+            "x": 2815,
+            "y": 1585,
+            "size": 100
+          }
+        ],
+          "sections": [
+            {
+              "ref": "Sundering Sea On the Water/Diffusing Serum",
+              "name": "Sundering Sea: On the Water: Diffusing Serum"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Gimmick Goggles",
+              "name": "Sundering Sea: On the Water: Gimmick Goggles"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Double Tomahawk",
+              "name": "Sundering Sea: On the Water: Double Tomahawk"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Fortune Wand",
+              "name": "Sundering Sea: On the Water: Fortune Wand"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Reinforcing Jam",
+              "name": "Sundering Sea: On the Water: Reinforcing Jam"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Leviathan Greatbow",
+              "name": "Sundering Sea: On the Water: Leviathan Greatbow"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Dual Flower",
+              "name": "Sundering Sea: On the Water: Dual Flower"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Sublime Ornamental Armor",
+              "name": "Sundering Sea: On the Water: Sublime Ornamental Armor"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Inspiriting Plum Basket",
+              "name": "Sundering Sea: On the Water: Inspiriting Plum Basket"
+            },
+            {
+              "ref": "Sundering Sea On the Water/20000 L",
+              "name": "Sundering Sea: On the Water: 20000 L"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Beastly Scarf",
+              "name": "Sundering Sea: On the Water: Beastly Scarf"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Sunken Gold Statue",
+              "name": "Sundering Sea: On the Water: Sunken Gold Statue"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Olive of Life (L)",
+              "name": "Sundering Sea: On the Water: Olive of Life (L)"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Strengthening Serum",
+              "name": "Sundering Sea: On the Water: Strengthening Serum"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Dual Leaf",
+              "name": "Sundering Sea: On the Water: Dual Leaf"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Platinum Shield",
+              "name": "Sundering Sea: On the Water: Platinum Shield"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Invigorating Nut (L)",
+              "name": "Sundering Sea: On the Water: Invigorating Nut (L)"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Gold Nugget",
+              "name": "Sundering Sea: On the Water: Gold Nugget"
+            },
+            {
+              "ref": "Sundering Sea On the Water/EXP Augmentor",
+              "name": "Sundering Sea: On the Water: EXP Augmentor"
+            },
+            {
+              "ref": "Sundering Sea On the Water/Herb of Serenity",
+              "name": "Sundering Sea: On the Water: Herb of Serenity"
+            },
+            {
+              "ref": "Sundering Sea ???/Skystone",
+              "name": "Sundering Sea: ???: Skystone"
+            },
+            {
+              "ref": "Sundering Sea ???/Dragon's Scarf",
+              "name": "Sundering Sea: ???: Dragon's Scarf"
+            },
+            {
+              "ref": "Sundering Sea ???/Herb-of-Grace Bud 1",
+              "name": "Sundering Sea: ???: Herb-of-Grace Bud 1"
+            },
+            {
+              "ref": "Sundering Sea ???/Herb-of-Grace Bud 2",
+              "name": "Sundering Sea: ???: Herb-of-Grace Bud 2"
+            },
+            {
+              "ref": "Sundering Sea ???/Herb-of-Grace Bud 3",
+              "name": "Sundering Sea: ???: Herb-of-Grace Bud 3"
+            },
+            {
+              "ref": "Sundering Sea Lighthouse Island/Octopuff Pot",
+              "name": "Sundering Sea: Lighthouse Island: Octopuff Pot"
+            },
+            {
+              "ref": "Sundering Sea Lighthouse Island/12000 L",
+              "name": "Sundering Sea: Lighthouse Island: 12000 L"
+            },
+            {
+              "ref": "Sundering Sea Nameless Isle/Conscious Stone",
+              "name": "Sundering Sea: Nameless Isle: Conscious Stone"
+            },
+            {
+              "ref": "Sundering Sea Nameless Isle/Healing Grape Bunch",
+              "name": "Sundering Sea: Nameless Isle: Healing Grape Bunch"
+            },
+            {
+              "ref": "Sundering Sea Nameless Isle/Quartz Axe",
+              "name": "Sundering Sea: Nameless Isle: Quartz Axe"
+            },
+            {
+              "ref": "Sundering Sea Nameless Isle/Finisher's Claws",
+              "name": "Sundering Sea: Nameless Isle: Finisher's Claws"
+            },
+            {
+              "ref": "Sundering Sea The Lost Isle/Ancient Cursed Talisman 1",
+              "name": "Sundering Sea: The Lost Isle: Ancient Cursed Talisman 1"
+            },
+            {
+              "ref": "Sundering Sea The Lost Isle/Ancient Cursed Talisman 2",
+              "name": "Sundering Sea: The Lost Isle: Ancient Cursed Talisman 2"
+            },
+            {
+              "ref": "Sundering Sea The Lost Isle/Ancient Cursed Talisman 3",
+              "name": "Sundering Sea: The Lost Isle: Ancient Cursed Talisman 3"
+            },
+            {
+              "ref": "Sundering Sea The Lost Isle/Ancient Cursed Talisman 4",
+              "name": "Sundering Sea: The Lost Isle: Ancient Cursed Talisman 4"
+            },
+            {
+              "ref": "Sundering Sea The Lost Isle/Blessing in Disguise",
+              "name": "Sundering Sea: The Lost Isle: Blessing in Disguise"
+            },
+            {
+              "ref": "Sundering Sea The Lost Isle/Great Sage's Staff",
+              "name": "Sundering Sea: The Lost Isle: Great Sage's Staff"
+            },
+            {
+              "ref": "Sundering Sea The Lost Isle/Lost Tribe's Dagger",
+              "name": "Sundering Sea: The Lost Isle: Lost Tribe's Dagger"
+            },
+            {
+              "ref": "Sundering Sea Shipwreck of the Empress/Inspiriting Plum Basket",
+              "name": "Sundering Sea: Shipwreck of the Empress: Inspiriting Plum Basket"
+            },
+            {
+              "ref": "Sundering Sea Shipwreck of the Empress/Thunder Soulstone (L)",
+              "name": "Sundering Sea: Shipwreck of the Empress: Thunder Soulstone (L)"
+            },
+            {
+              "ref": "Sundering Sea Shipwreck of the Empress/Lost Tribe's Spear",
+              "name": "Sundering Sea: Shipwreck of the Empress: Lost Tribe's Spear"
+            },
+            {
+              "ref": "Sundering Sea Shipwreck of the Empress/Cursed Shield",
+              "name": "Sundering Sea: Shipwreck of the Empress: Cursed Shield"
+            },
+            {
+              "ref": "Sundering Sea Shipwreck of the Empress/Master Thief's Sapphire Stone",
+              "name": "Sundering Sea: Shipwreck of the Empress: Master Thief's Sapphire Stone"
+            },
+            {
+              "ref": "Sundering Sea Shipwreck of the Empress/Rusty Dagger",
+              "name": "Sundering Sea: Shipwreck of the Empress: Rusty Dagger"
+            },
+            {
+              "ref": "Sundering Sea Curious Nest/Herb of Serenity",
+              "name": "Sundering Sea: Curious Nest: Herb of Serenity"
+            },
+            {
+              "ref": "Sundering Sea Curious Nest/Lost Tribe's Bow",
+              "name": "Sundering Sea: Curious Nest: Lost Tribe's Bow"
+            },
+            {
+              "ref": "Sundering Sea Curious Nest/Decaying Dragon's Essence 1",
+              "name": "Sundering Sea: Curious Nest: Decaying Dragon's Essence 1"
+            },
+            {
+              "ref": "Sundering Sea Curious Nest/Fang of Ferocity",
+              "name": "Sundering Sea: Curious Nest: Fang of Ferocity"
+            },
+            {
+              "ref": "Sundering Sea Curious Nest/Tornado Glaive",
+              "name": "Sundering Sea: Curious Nest: Tornado Glaive"
+            },
+            {
+              "ref": "Sundering Sea Curious Nest/Decaying Dragon's Essence 2",
+              "name": "Sundering Sea: Curious Nest: Decaying Dragon's Essence 2"
+            }
+          ]
+      }
+    ]
+  }
+]

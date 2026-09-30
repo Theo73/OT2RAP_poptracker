@@ -1,0 +1,72 @@
+[
+  {
+    "name": "world",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/world.jpg"
+  },
+  {
+    "name": "totohaha",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/totohaha.jpg"
+  },
+  {
+    "name": "brightlands",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/brightlands.jpg"
+  },
+  {
+    "name": "crestlands",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/crestlands.jpg"
+  },
+  {
+    "name": "winterlands",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/winterlands.jpg"
+  },
+  {
+    "name": "harborlands",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/harborlands.jpg"
+  },
+  {
+    "name": "hinoeuma",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/hinoeuma.jpg"
+  },
+  {
+    "name": "wildlands",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/wildlands.jpg"
+  },
+  {
+    "name": "leaflands",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/leaflands.jpg"
+  },
+  {
+    "name": "sunderingsea",
+    "location_size": 32,
+    "location_border_thickness": 2,
+    "location_shape": "rect",
+    "img": "images/maps/sunderingsea.jpg"
+  },
+]
