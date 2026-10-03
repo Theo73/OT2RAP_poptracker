@@ -1,0 +1,709 @@
+[
+	{
+		"name": "Brightlands",
+		"children": [
+			/*Towns*/
+			{
+				"name": "New Delsta",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":385,
+						"y":695,
+						"size": 24
+					}
+				],
+				"sections": [
+					{
+						"name": "Energizing Pomegranate",
+						"access_rules": [
+							"$can_access_newdelsta"
+						]
+					},
+					{
+						"name": "Healing Grape",
+						"access_rules": [
+							"$can_access_newdelsta"
+						]
+					},
+					{
+						"name": "Backstreets: Dagger",
+						"access_rules": [
+							"$can_access_newdelsta, $can_ko"
+						]
+					},
+					{
+						"name": "Backstreets: Critical Nut",
+						"access_rules": [
+							"$can_access_newdelsta, boat_unlock"
+						]
+					},
+					{
+						"name": "Backstreets: Inspiriting Plum",
+						"access_rules": [
+							"$can_access_newdelsta"
+						]
+					},
+					{
+						"name": "Game Parlor: Physical Belt",
+						"access_rules": [
+							"$can_access_newdelsta, $can_ambush"
+						]
+					},
+					{
+						"name": "Game Parlor: 40000 L",
+						"access_rules": [
+							"$can_access_newdelsta, $can_ambush"
+						]
+					},
+					{
+						"name": "Game Parlor: Forbidden Dagger",
+						"access_rules": [
+							"$can_access_newdelsta, $can_ambush"
+						]
+					},
+				]
+			},
+			{
+				"name": "Clockbank",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":1035,
+						"y":550,
+						"size": 24
+					}
+				],
+				"sections": [
+					{
+						"name": "Bottle of Sleeping Dust",
+						"access_rules": [
+							"$can_access_clockbank"
+						]
+					},
+					{
+						"name": "Pointed Hat",
+						"access_rules": [
+							"$can_access_clockbank, boat_unlock"
+						]
+					},
+					{
+						"name": "Inspiriting Plum (M)",
+						"access_rules": [
+							"$can_access_clockbank, boat_unlock"
+						]
+					},
+					{
+						"name": "Crested Greatshield",
+						"access_rules": [
+							"$can_access_clockbank, boat_unlock"
+						]
+					},
+					{
+						"name": "Industrial District: Healing Grape Bunch",
+						"access_rules": [
+							"$can_access_clockbank"
+						]
+					},
+					{
+						"name": "Industrial District: Slashing Glaive",
+						"access_rules": [
+							"$can_access_clockbank"
+						]
+					},
+				]
+			},
+			{
+				"name": "Lostseed",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":292,
+						"y":1078,
+						"size": 24
+					}
+				],
+				"sections": [
+					{
+						"name": "Cursed Helm",
+						"access_rules": [
+							"$can_access_lostseed"
+						]
+					},
+					{
+						"name": "Reinforcing Jam",
+						"access_rules": [
+							"$can_access_lostseed"
+						]
+					},
+				]
+			},
+			/*Trails*/
+			{
+				"name": "Eastern New Delsta Highroad",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":558,
+						"y":658,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Iron Blade",
+						"access_rules": [
+							"brightlands_unlock"
+						]
+					},
+					{
+						"name": "700 L",
+						"access_rules": [
+							"brightlands_unlock"
+						]
+					},
+					{
+						"name": "Healing Grape (M)",
+						"access_rules": [
+							"brightlands_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "New Delsta Flats",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":459,
+						"y":233,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Energizing Pomegranate",
+						"access_rules": [
+							"brightlands_unlock"
+						]
+					},
+					{
+						"name": "Herb of Serenity",
+						"access_rules": [
+							"brightlands_unlock"
+						]
+					},
+					{
+						"name": "Kite Shield",
+						"access_rules": [
+							"brightlands_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Western Clockbank Highroad",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":888,
+						"y":611,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Herb of Clarity",
+						"access_rules": [
+							"brightlands_unlock"
+						]
+					},
+					{
+						"name": "Feathered Hat",
+						"access_rules": [
+							"brightlands_unlock, boat_unlock"
+						]
+					},
+					{
+						"name": "Inspiriting Plum Basket",
+						"access_rules": [
+							"brightlands_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Southern Clockbank Highroad",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":1039,
+						"y":634,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "6300 L",
+						"access_rules": [
+							"brightlands_unlock, boat_unlock"
+						]
+					},
+					{
+						"name": "Energizing Pomegranate (M)",
+						"access_rules": [
+							"brightlands_unlock"
+						]
+					},
+					{
+						"name": "Mirage Bow",
+						"access_rules": [
+							"brightlands_unlock, boat_unlock"
+						]
+					},
+					{
+						"name": "Light Soulstone (M)",
+						"access_rules": [
+							"brightlands_unlock"
+						]
+					},
+				]
+			},
+			{
+				"name": "Deserted Highroad",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":436,
+						"y":1024,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Dragon Mail",
+						"access_rules": [
+							"$can_access_lostseed"
+						]
+					},
+					{
+						"name": "Slumber Sage",
+						"access_rules": [
+							"$can_access_lostseed"
+						]
+					},
+					{
+						"name": "Energizing Pomegranate (M)",
+						"access_rules": [
+							"$can_access_lostseed"
+						]
+					},
+					{
+						"name": "Olive of Life (L)",
+						"access_rules": [
+							"$can_access_lostseed"
+						]
+					},
+				]
+			},
+			{
+				"name": "New Delsta Harbor",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":111,
+						"y":280,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Anchorage: Slumber Sage",
+						"access_rules": [
+							"brightlands_unlock"
+						]
+					},
+					{
+						"name": "Anchorage: Bottle of Poison Dust",
+						"access_rules": [
+							"brightlands_unlock"
+						]
+					},
+				]
+			},
+			/*Grotto*/
+			{
+				"name": "Mount Liphia",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":721,
+						"y":167,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Diffusing Serum",
+						"access_rules": [
+							"$can_access_abandonedvillage"
+						]
+					},
+					{
+						"name": "Olive of Life (L)",
+						"access_rules": [
+							"$can_access_abandonedvillage, boat_unlock"
+						]
+					},
+					{
+						"name": "12500 L",
+						"access_rules": [
+							"$can_access_abandonedvillage"
+						]
+					},
+					{
+						"name": "Elemental Ward",
+						"access_rules": [
+							"$can_access_abandonedvillage"
+						]
+					},
+					{
+						"name": "Inspiriting Plum Basket",
+						"access_rules": [
+							"$can_access_abandonedvillage"
+						]
+					},
+					{
+						"name": "Energizing Pomegranate",
+						"access_rules": [
+							"$can_access_abandonedvillage"
+						]
+					},
+				]
+			},
+			{
+				"name": "Sunken Maw",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":900,
+						"y":689,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Inspiriting Plum (M)",
+						"access_rules": [
+							"brightlands_unlock, boat_unlock"
+						]
+					},
+					{
+						"name": "Shield of Serenity",
+						"access_rules": [
+							"brightlands_unlock, boat_unlock"
+						]
+					},
+					{
+						"name": "Quartz Rod",
+						"access_rules": [
+							"brightlands_unlock, boat_unlock"
+						]
+					},
+					{
+						"name": "13500 L",
+						"access_rules": [
+							"brightlands_unlock, boat_unlock"
+						]
+					},
+				]
+			},
+			/*Ruins*/
+			{
+				"name": "Lostseed Castle",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":187,
+						"y":1115,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Empowering Lychee (M)",
+						"access_rules": [
+							"$can_access_lostseed"
+						]
+					},
+					{
+						"name": "Shadow Soulstone (L)",
+						"access_rules": [
+							"$can_access_lostseed"
+						]
+					},
+					{
+						"name": "Sprightly Necklace",
+						"access_rules": [
+							"$can_access_lostseed"
+						]
+					},
+					{
+						"name": "Herb Elixir",
+						"access_rules": [
+							"$can_access_lostseed"
+						]
+					},
+					{
+						"name": "Upper Level: Ruinous Dagger",
+						"access_rules": [
+							"$can_access_lostseed"
+						]
+					},
+					{
+						"name": "Upper Level: Energizing Pomegranate (L)",
+						"access_rules": [
+							"$can_access_lostseed"
+						]
+					},
+					{
+						"name": "Upper Level: 27500 L",
+						"access_rules": [
+							"$can_access_lostseed"
+						]
+					},
+					{
+						"name": "Upper Level: Revitalizing Jam",
+						"access_rules": [
+							"$can_access_lostseed"
+						]
+					},
+					{
+						"name": "Upper Level: Light Soulstone (M)",
+						"access_rules": [
+							"$can_access_lostseed"
+						]
+					},
+				]
+			},
+			/*Dungeons*/
+			{
+				"name": "Underground Waterway",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":391,
+						"y":857,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Healing Grape",
+						"access_rules": [
+							"$can_access_newdelsta"
+						]
+					},
+					{
+						"name": "Protective Ring",
+						"access_rules": [
+							"$can_access_newdelsta"
+						]
+					},
+				]
+			},
+			{
+				"name": "Abandoned Waterway",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":358,
+						"y":145,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Wriggling Root 1",
+						"access_rules": [
+							"$can_access_newdelsta"
+						]
+					},
+					{
+						"name": "Wriggling Root 2",
+						"access_rules": [
+							"$can_access_newdelsta"
+						]
+					},
+					{
+						"name": "Herb Elixir",
+						"access_rules": [
+							"$can_access_newdelsta"
+						]
+					},
+					{
+						"name": "8000 L",
+						"access_rules": [
+							"$can_access_newdelsta"
+						]
+					},
+					{
+						"name": "Antidote Stone",
+						"access_rules": [
+							"$can_access_newdelsta, boat_unlock"
+						]
+					},
+					{
+						"name": "Wriggling Root 3",
+						"access_rules": [
+							"$can_access_newdelsta, boat_unlock"
+						]
+					},
+					{
+						"name": "Frost Axe",
+						"access_rules": [
+							"$can_access_newdelsta, boat_unlock"
+						]
+					},
+				]
+			},
+			/*Mansions*/
+			{
+				"name": "Diamante's Estate",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":448,
+						"y":584,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Inspiriting Plum",
+						"access_rules": [
+							"$can_access_newdelsta, throne_unlock, throne_ch1"
+						]
+					},
+					{
+						"name": "Long Sword",
+						"access_rules": [
+							"$can_access_newdelsta, throne_unlock, throne_ch1"
+						]
+					},
+					{
+						"name": "Shadow Soulstone",
+						"access_rules": [
+							"$can_access_newdelsta, throne_unlock, throne_ch1"
+						]
+					},
+					{
+						"name": "1200 L",
+						"access_rules": [
+							"$can_access_newdelsta, throne_unlock, throne_ch1"
+						]
+					},
+				]
+			},
+			{
+				"name": "Theater",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":357,
+						"y":625,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Backstage: Refreshing Jam",
+						"access_rules": [
+							"$can_access_newdelsta, agnea_unlock, agnea_ch2"
+						]
+					},
+					{
+						"name": "Backstage: Lightning Amulet",
+						"access_rules": [
+							"$can_access_newdelsta, agnea_unlock, agnea_ch2"
+						]
+					},
+					{
+						"name": "Backstage: Simple Costume",
+						"access_rules": [
+							"$can_access_newdelsta, agnea_unlock, agnea_ch2"
+						]
+					},
+					{
+						"name": "Backstage: Falcon Knife",
+						"access_rules": [
+							"$can_access_newdelsta, agnea_unlock, agnea_ch2"
+						]
+					},
+					{
+						"name": "Backstage: Healing Grape (M)",
+						"access_rules": [
+							"$can_access_newdelsta, agnea_unlock, agnea_ch2"
+						]
+					},
+				]
+			},
+			{
+				"name": "The Roque Company Factory",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":1027,
+						"y":457,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Empowering Lychee (M)",
+						"access_rules": [
+							"$can_access_clockbank"
+						]
+					},
+					{
+						"name": "7000 L",
+						"access_rules": [
+							"$can_access_clockbank"
+						]
+					},
+					{
+						"name": "Prosperity Charm",
+						"access_rules": [
+							"$can_access_clockbank"
+						]
+					},
+				]
+			},
+			{
+				"name": "Old Clock Tower",
+				"map_locations": [
+					{
+						"map": "brightlands",
+						"x":1134,
+						"y":466,
+						"size": 12
+					}
+				],
+				"sections": [
+					{
+						"name": "Inferno Amulet",
+						"access_rules": [
+							"$can_access_clockbank, boat_unlock"
+						]
+					},
+					{
+						"name": "Seraphim Spear",
+						"access_rules": [
+							"$can_access_clockbank, boat_unlock"
+						]
+					},
+				]
+			},
+		]
+	}
+]

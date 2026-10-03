@@ -1,0 +1,399 @@
+[
+  {
+    "name": "Sundering Sea",
+    "children": [
+      {
+        "name": "Sundering Sea On the Water",
+        "map_locations": [
+          {
+            "map": "sunderingsea",
+            "x": 1240,
+            "y": 1395,
+            "size": 48
+          }
+        ],
+        "sections": [
+          {
+            "name": "Diffusing Serum",
+            "access_rules": [
+              "grand_terry_unlock"
+            ],
+          },
+          {
+            "name": "Gimmick Goggles",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"           
+            ]
+          },
+          {
+            "name": "Double Tomahawk",
+            "access_rules": [
+              "grand_terry_unlock"  
+            ]
+          },
+          {
+            "name": "Fortune Wand",
+            "access_rules": [
+              "grand_terry_unlock"
+            ],
+          },
+          {
+            "name": "Reinforcing Jam",
+            "access_rules": [
+              "grand_terry_unlock"  
+            ]
+          },
+          {
+            "name": "Leviathan Greatbow",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"
+            ],
+          },
+          {
+            "name": "Dual Flower",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"
+            ],
+          },
+          {
+            "name": "Sublime Ornamental Armor",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"  
+            ]
+          },
+          {
+            "name": "Inspiriting Plum Basket",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"
+            ],
+          },
+          {
+            "name": "20000 L",
+            "access_rules": [
+              "grand_terry_unlock"
+            ],
+          },
+          {
+            "name": "Beastly Scarf",
+            "access_rules": [
+              "grand_terry_unlock"
+            ],
+          },
+          {
+            "name": "Sunken Gold Statue",
+            "access_rules": [
+              "grand_terry_unlock"  
+            ]
+          },
+          {
+            "name": "Olive of Life (L)",
+            "access_rules": [
+              "grand_terry_unlock"
+            ],
+          },
+          {
+            "name": "Strengthening Serum",
+            "access_rules": [
+              "grand_terry_unlock"
+            ],
+          },
+          {
+            "name": "Dual Leaf",
+            "access_rules": [
+              "grand_terry_unlock"  
+            ]
+          },
+          {
+            "name": "Platinum Shield",
+            "access_rules": [
+              "grand_terry_unlock"
+            ],
+          },
+          {
+            "name": "Invigorating Nut (L)",
+            "access_rules": [
+              "grand_terry_unlock"
+            ],
+          },
+          {
+            "name": "Gold Nugget",
+            "access_rules": [
+              "grand_terry_unlock"  
+            ]
+          },
+          {
+            "name": "EXP Augmentor",
+            "access_rules": [
+              "grand_terry_unlock"
+            ],
+          },
+          {
+            "name": "Herb of Serenity",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Sundering Sea ???",
+        "map_locations": [
+          {
+            "map": "sunderingsea",
+            "x": 2392,
+            "y": 2066,
+            "size": 48
+          }
+        ],
+        "sections": [
+          {
+            "name": "Skystone",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"
+            ],
+          },
+          {
+            "name": "Dragon's Scarf",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"           
+            ]
+          },
+          {
+            "name": "Herb-of-Grace Bud 1",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"  
+            ]
+          },
+          {
+            "name": "Herb-of-Grace Bud 2",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"  
+            ]
+          },
+          {
+            "name": "Herb-of-Grace Bud 3",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"  
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Sundering Sea Lighthouse Island",
+        "map_locations": [
+          {
+            "map": "sunderingsea",
+            "x": 1697,
+            "y": 430,
+            "size": 48
+          }
+        ],
+        "sections": [
+          {
+            "name": "Octopuff Pot",
+            "access_rules": [
+              "grand_terry_unlock"
+            ],
+          },
+          {
+            "name": "12000 L",
+            "access_rules": [
+              "grand_terry_unlock"           
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Sundering Sea Nameless Isle",
+        "map_locations": [
+          {
+            "map": "sunderingsea",
+            "x": 1300,
+            "y": 1765,
+            "size": 48
+          }
+        ],
+        "sections": [
+          {
+            "name": "Conscious Stone",
+            "access_rules": [
+              "grand_terry_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Healing Grape Bunch",
+            "access_rules": [
+              "grand_terry_unlock, boat_unlock"           
+            ]
+          },
+          {
+            "name": "Quartz Axe",
+            "access_rules": [
+              "grand_terry_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Finisher's Claws",
+            "access_rules": [
+              "grand_terry_unlock, boat_unlock"           
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Sundering Sea The Lost Isle",
+        "map_locations": [
+          {
+            "map": "sunderingsea",
+            "x": 3125,
+            "y": 1414,
+            "size": 48
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ancient Cursed Talisman 1",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"
+            ],
+          },
+          {
+            "name": "Ancient Cursed Talisman 2",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"           
+            ]
+          },
+          {
+            "name": "Ancient Cursed Talisman 3",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"
+            ],
+          },
+          {
+            "name": "Ancient Cursed Talisman 4",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"
+            ],
+          },
+          {
+            "name": "Blessing in Disguise",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"           
+            ]
+          },
+          {
+            "name": "Great Sage's Staff",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"           
+            ]
+          },
+          {
+            "name": "Lost Tribe's Dagger",
+            "access_rules": [
+              "grand_terry_unlock, $can_access_lvl20"           
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Sundering Sea Shipwreck of the Empress",
+        "map_locations": [
+          {
+            "map": "sunderingsea",
+            "x": 801,
+            "y": 775,
+            "size": 48
+          }
+        ],
+        "sections": [
+          {
+            "name": "Inspiriting Plum Basket",
+            "access_rules": [
+              "grand_terry_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Thunder Soulstone (L)",
+            "access_rules": [
+              "grand_terry_unlock, boat_unlock"           
+            ]
+          },
+          {
+            "name": "Lost Tribe's Spear",
+            "access_rules": [
+              "grand_terry_unlock"
+            ],
+          },
+          {
+            "name": "Cursed Shield",
+            "access_rules": [
+              "grand_terry_unlock"
+            ],
+          },
+          {
+            "name": "Master Thief's Sapphire Stone",
+            "access_rules": [
+              "grand_terry_unlock"           
+            ]
+          },
+          {
+            "name": "Rusty Dagger",
+            "access_rules": [
+              "grand_terry_unlock"           
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Sundering Sea Curious Nest",
+        "map_locations": [
+          {
+            "map": "sunderingsea",
+            "x": 375,
+            "y": 1647,
+            "size": 48
+          }
+        ],
+        "sections": [
+          {
+            "name": "Herb of Serenity",
+            "access_rules": [
+              "grand_terry_unlock, boat_unlock, $can_access_lvl40"
+            ],
+          },
+          {
+            "name": "Lost Tribe's Bow",
+            "access_rules": [
+              "grand_terry_unlock, boat_unlock, $can_access_lvl40"           
+            ]
+          },
+          {
+            "name": "Decaying Dragon's Essence 1",
+            "access_rules": [
+              "grand_terry_unlock, boat_unlock, $can_access_lvl40"
+            ],
+          },
+          {
+            "name": "Fang of Ferocity",
+            "access_rules": [
+              "grand_terry_unlock, boat_unlock, $can_access_lvl40"
+            ],
+          },
+          {
+            "name": "Tornado Glaive",
+            "access_rules": [
+              "grand_terry_unlock, boat_unlock, $can_access_lvl40"           
+            ]
+          },
+          {
+            "name": "Decaying Dragon's Essence 2",
+            "access_rules": [
+              "grand_terry_unlock, boat_unlock, $can_access_lvl40"           
+            ]
+          },
+        ]
+      },
+    ]
+  },
+
+]

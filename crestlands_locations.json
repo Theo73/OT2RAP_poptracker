@@ -1,0 +1,673 @@
+[
+  {
+    "name": "Crestlands",
+    "children": [
+      /*Towns*/
+      {
+        "name": "Flamechurch",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 165,
+            "y": 514,
+            "size": 24
+          }
+        ],
+        "sections": [
+          {
+            "name": "400 L",
+            "access_rules": [
+              "$can_access_flamechurch"
+            ],
+          },
+          {
+            "name": "Guard's Shield",
+            "access_rules": [
+              "$can_access_flamechurch, $can_ko"           
+            ]
+          },
+          {
+            "name": "Healing Grape",
+            "access_rules": [
+              "$can_access_flamechurch, $can_ko"  
+            ]
+          },
+          {
+            "name": "Cathedral Entrance: Shadow Soulstone",
+            "access_rules": [
+              "$can_access_flamechurch"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Flamechurch Cathedral",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 262,
+            "y": 290,
+            "size": 24
+          }
+        ],
+        "sections": [
+          {
+            "name": "Olive of Life",
+            "access_rules": [
+              "$can_access_flamechurch"           
+            ]
+          },
+          {
+            "name": "Light Soulstone",
+            "access_rules": [
+              "$can_access_flamechurch"  
+            ]
+          },
+          {
+            "name": "Angel's Ring",
+            "access_rules": [
+              "$can_access_flamechurch, temenos_unlock, throne_unlock, temenos_throne_ch1"  
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Montwise",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 897,
+            "y": 338,
+            "size": 24
+          }
+        ],
+        "sections": [
+          {
+            "name": "Feather Mantle",
+            "access_rules": [
+              "$can_access_montwise"
+            ],
+          },
+          {
+            "name": "Engagement Bow",
+            "access_rules": [
+              "$can_access_montwise, $can_ko"           
+            ]
+          },
+          /*{ Check à verif in game, sur le wiki ça dit "after final boss"
+            "name": "Underground Arena: Bottle of Blinding Dust",
+            "access_rules": [
+              "$can_access_montwise"  
+            ]
+          },*/
+          {
+            "name": "Library: Lapis Rod",
+            "access_rules": [
+              "$can_access_montwise"  
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Merry Hills",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 1020,
+            "y": 688,
+            "size": 24
+          }
+        ],
+        "sections": [
+          {
+            "name": "Herb of Clamor",
+            "access_rules": [
+              "$can_access_merryhills"
+            ],
+          },
+          {
+            "name": "Shrine Entrance: 2700 L",
+            "access_rules": [
+              "$can_access_merryhills"           
+            ]
+          },
+          {
+            "name": "Shrine Entrance: Empowering Necklace",
+            "access_rules": [
+              "$can_access_merryhills"  
+            ]
+          },
+          {
+            "name": "Empowering Lychee (L)",
+            "access_rules": [
+              "$can_access_merryhills"  
+            ]
+          },
+        ]
+      },
+      /*Trails*/
+      {
+        "name": "Eastern Flamechurch Pass",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 366,
+            "y": 481,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Energizing Pomegranate",
+            "access_rules": [
+              "crestlands_unlock"
+            ],
+          },
+          {
+            "name": "Fur Armor",
+            "access_rules": [
+              "crestlands_unlock"           
+            ]
+          },
+          {
+            "name": "Fire Soulstone",
+            "access_rules": [
+              "crestlands_unlock"  
+            ]
+          },
+          {
+            "name": "Slumber Sage",
+            "access_rules": [
+              "crestlands_unlock"  
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Borderfall",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 562,
+            "y": 443,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Inspiriting Plum (M)",
+            "access_rules": [
+              "crestlands_unlock"
+            ],
+          },
+          {
+            "name": "Shadow Bow",
+            "access_rules": [
+              "crestlands_unlock"           
+            ]
+          },
+          {
+            "name": "Thunder Soulstone (M)",
+            "access_rules": [
+              "crestlands_unlock"  
+            ]
+          },
+          {
+            "name": "Empowering Lychee",
+            "access_rules": [
+              "crestlands_unlock, boat_unlock"  
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Western Montwise Pass",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 783,
+            "y": 391,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "800 L",
+            "access_rules": [
+              "crestlands_unlock"
+            ],
+          },
+          {
+            "name": "Gelid Helm",
+            "access_rules": [
+              "crestlands_unlock"           
+            ]
+          },
+          {
+            "name": "Energizing Pomegranate (M)",
+            "access_rules": [
+              "crestlands_unlock"  
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Northern Montwise Pass",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 768,
+            "y": 257,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Healing Grape (M)",
+            "access_rules": [
+              "crestlands_unlock, $can_ko"
+            ],
+          },
+          {
+            "name": "Gold Dust 1",
+            "access_rules": [
+              "crestlands_unlock, $can_ko"           
+            ]
+          },
+          {
+            "name": "Large Silver Ore 1",
+            "access_rules": [
+              "crestlands_unlock, $can_ko"  
+            ]
+          },
+          {
+            "name": "Gold Dust 2",
+            "access_rules": [
+              "crestlands_unlock, $can_ko"  
+            ]
+          },
+          {
+            "name": "Slumber Sage",
+            "access_rules": [
+              "crestlands_unlock, $can_ko"  
+            ]
+          },
+          {
+            "name": "Shadow Soulstone (M)",
+            "access_rules": [
+              "crestlands_unlock, $can_ko"  
+            ]
+          },
+          {
+            "name": "Large Silver Ore 2",
+            "access_rules": [
+              "crestlands_unlock, $can_ko"  
+            ]
+          },
+          {
+            "name": "Unerring Necklace",
+            "access_rules": [
+              "crestlands_unlock, $can_ko"  
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Western Merry Hills Pass",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 883,
+            "y": 664,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Herb of Serenity",
+            "access_rules": [
+              "crestlands_unlock"
+            ],
+          },
+          {
+            "name": "Herb of Awakening",
+            "access_rules": [
+              "crestlands_unlock"           
+            ]
+          },
+          {
+            "name": "Sun Shield",
+            "access_rules": [
+              "crestlands_unlock"           
+            ]
+          },
+          {
+            "name": "Healing Grape (M)",
+            "access_rules": [
+              "crestlands_unlock"           
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Flamechurch Pilgrims' Way",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 150,
+            "y": 397,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Inspiriting Plum",
+            "access_rules": [
+              "$can_access_flamechurch"
+            ],
+          },
+          {
+            "name": "Healing Grape",
+            "access_rules": [
+              "$can_access_flamechurch"           
+            ]
+          },
+          {
+            "name": "Stimulating Ring",
+            "access_rules": [
+              "$can_access_flamechurch, boat_unlock"           
+            ]
+          },
+          {
+            "name": "Tough Nut",
+            "access_rules": [
+              "$can_access_flamechurch"           
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Abandoned Traverse",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 1014,
+            "y": 361,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Bottle of Poison Dust",
+            "access_rules": [
+              "$can_access_montwise"
+            ],
+          },
+          {
+            "name": "Energizing Pomegranate",
+            "access_rules": [
+              "$can_access_montwise"           
+            ]
+          },
+          {
+            "name": "Guardian Amulet",
+            "access_rules": [
+              "$can_access_montwise"           
+            ]
+          },
+          {
+            "name": "Ice Soulstone (M)",
+            "access_rules": [
+              "$can_access_montwise"           
+            ]
+          },
+        ]
+      },
+      /*Forests*/
+      {
+        "name": "Forsaken Graveyard",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 939,
+            "y": 475,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Vivifying Stone",
+            "access_rules": [
+              "$can_access_montwise"
+            ],
+          },
+          {
+            "name": "Dark Slasher",
+            "access_rules": [
+              "$can_access_montwise"           
+            ]
+          },
+          {
+            "name": "Fire Soulstone (L)",
+            "access_rules": [
+              "$can_access_montwise"           
+            ]
+          },
+          {
+            "name": "Grail of Life",
+            "access_rules": [
+              "$can_access_montwise"           
+            ]
+          },
+          {
+            "name": "Forbidden Blade",
+            "access_rules": [
+              "$can_access_montwise"           
+            ]
+          },
+        ]
+      },
+      /*Ruins*/
+      {
+        "name": "Seat of the Water Sprite",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 655,
+            "y": 402,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Inspiriting Plum Basket",
+            "access_rules": [
+              "crestlands_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "10000 L",
+            "access_rules": [
+              "crestlands_unlock, boat_unlock"           
+            ]
+          },
+          {
+            "name": "Olive of Life (M)",
+            "access_rules": [
+              "crestlands_unlock, boat_unlock"           
+            ]
+          },
+          {
+            "name": "Blessing in Disguise",
+            "access_rules": [
+              "crestlands_unlock, boat_unlock"           
+            ]
+          },
+          {
+            "name": "Rusty Staff",
+            "access_rules": [
+              "crestlands_unlock, boat_unlock"           
+            ]
+          },
+          {
+            "name": "Energizing Pomegranate",
+            "access_rules": [
+              "crestlands_unlock, boat_unlock"           
+            ]
+          },
+          {
+            "name": "Enlightening Bracelet",
+            "access_rules": [
+              "crestlands_unlock, boat_unlock"           
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Shrine of Ul'Sterra",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 1014,
+            "y": 603,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Refreshing Jam",
+            "access_rules": [
+              "$can_access_merryhills"
+            ],
+          },
+          {
+            "name": "Elemental Augmentor",
+            "access_rules": [
+              "$can_access_merryhills"           
+            ]
+          },
+          {
+            "name": "Resplendent Costume",
+            "access_rules": [
+              "$can_access_merryhills"           
+            ]
+          },
+          {
+            "name": "Bloodstained Knife",
+            "access_rules": [
+              "$can_access_merryhills"           
+            ]
+          },
+        ]
+      },
+      /*Dungeons*/
+      {
+        "name": "Cathedral Cellars",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 355,
+            "y": 250,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Light Soulstone",
+            "access_rules": [
+              "$can_access_flamechurch"
+            ],
+          },
+          {
+            "name": "Inspiriting Plum",
+            "access_rules": [
+              "$can_access_flamechurch, boat_unlock"           
+            ]
+          },
+          {
+            "name": "Pilgrim Rod",
+            "access_rules": [
+              "$can_access_flamechurch, boat_unlock"           
+            ]
+          },
+        ]
+      },
+      /*Mansions*/
+      {
+        "name": "Abandoned Church",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 1075,
+            "y": 305,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Healing Grape Bunch",
+            "access_rules": [
+              "$can_access_montwise"
+            ],
+          },
+          {
+            "name": "Black Dagger",
+            "access_rules": [
+              "$can_access_montwise"           
+            ]
+          },
+          {
+            "name": "Inspiriting Plum Basket",
+            "access_rules": [
+              "$can_access_montwise"           
+            ]
+          },
+          {
+            "name": "Olive of Life (M)",
+            "access_rules": [
+              "$can_access_montwise"           
+            ]
+          },
+        ]
+      },
+      {
+        "name": "Underground Laboratory",
+        "map_locations": [
+          {
+            "map": "crestlands",
+            "x": 983,
+            "y": 248,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "14000 L",
+            "access_rules": [
+              "$can_access_montwise, osvald_unlock, osvald_ch4"
+            ],
+          },
+          {
+            "name": "Bottled Nightmares 1",
+            "access_rules": [
+              "$can_access_montwise, osvald_unlock, osvald_ch4"           
+            ]
+          },
+          {
+            "name": "Bottled Nightmares 2",
+            "access_rules": [
+              "$can_access_montwise, osvald_unlock, osvald_ch4"           
+            ]
+          },
+          {
+            "name": "Fire Soulstone (L)",
+            "access_rules": [
+              "$can_access_montwise, osvald_unlock, osvald_ch4"           
+            ]
+          },
+        ]
+      },
+    ]
+  },
+
+]

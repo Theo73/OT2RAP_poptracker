@@ -1,0 +1,555 @@
+[
+  {
+    "name": "Toto'haha",
+    "children": [
+      /*Towns*/
+      {
+        "name": "Beasting Village",
+        "map_locations": [
+          {
+            "map": "totohaha",
+            "x": 325,
+            "y": 635,
+            "size": 24
+          }
+        ],
+        "sections": [
+          {
+            "name": "1800 L",
+            "access_rules": [
+              "$can_access_beasting, $can_ko"
+            ],
+          },
+          {
+            "name": "Giant Bow",
+            "access_rules": [
+              "$can_access_beasting, $can_ko"           
+            ]
+          },
+          {
+            "name": "Resistant Nut (L)",
+            "access_rules": [
+              "$can_access_beasting, $can_ko"  
+            ]
+          },
+          {
+            "name": "Perfect Jerky",
+            "access_rules": [
+              "$can_access_beasting, $can_ko"
+            ]
+          },
+          {
+            "name": "Reinforcing Jam",
+            "access_rules": [
+              "$can_access_beasting, $can_ko" 
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tropu'hopu",
+        "map_locations": [
+          {
+            "map": "totohaha",
+            "x": 680,
+            "y": 480,
+            "size": 24
+          }
+        ],
+        "sections": [
+          {
+            "name": "Energizing Pomegranate (M)",
+            "access_rules": [
+              "$can_access_tropuhopu, boat_unlock"
+            ],
+          },
+          {
+            "name": "Cait Powder",
+            "access_rules": [
+              "$can_access_tropuhopu, $can_ko"
+            ],
+          },
+          {
+            "name": "Pretty Pearl",
+            "access_rules": [
+              "$can_access_tropuhopu, $can_ko"
+            ],
+          },
+          {
+            "name": "Skull Helm",
+            "access_rules": [
+              "$can_access_tropuhopu, boat_unlock"
+            ],
+          },
+          {
+            "name": "Shipyard: Empowering Lychee (M)",
+            "access_rules": [
+              "$can_access_tropuhopu"
+            ],
+          },
+          {
+            "name": "Floating Theater: Inspiriting Plum (M)",
+            "access_rules": [
+              "$can_access_tropuhopu",
+            ],
+          }
+        ]
+      },
+      {
+        "name": "Nameless Village",
+        "map_locations": [
+          {
+            "map": "totohaha",
+            "x": 545,
+            "y": 278,
+            "size": 24
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mythical Horn",
+            "access_rules": [
+              "$can_access_nameless, $can_ko"
+            ],
+          },
+          {
+            "name": "Empowering Lychee (M)",
+            "access_rules": [
+              "$can_access_nameless"
+            ],
+          },
+          {
+            "name": "Salted Seafood",
+            "access_rules": [
+              "$can_access_nameless"
+            ],
+          },
+          {
+            "name": "Stimulating Necklace",
+            "access_rules": [
+              "$can_access_nameless"
+            ],
+          },
+          {
+            "name": "Bottle of Befuddling Dust",
+            "access_rules": [
+              "$can_access_nameless"
+            ],
+          },
+          {
+            "name": "Forbidden Bow",
+            "access_rules": [
+              "$can_access_nameless, $can_ko"
+            ],
+          },
+        ]
+      },
+      /*Trails*/
+      {
+        "name": "Path to the Tombs of the Wardenbeasts",
+        "map_locations": [
+          {
+            "map": "totohaha",
+            "x": 340,
+            "y": 700,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Unerring Ring",
+            "access_rules": [
+              "$can_access_beasting"
+            ],
+          },
+          {
+            "name": "Inspiriting Plum",
+            "access_rules": [
+              "$can_access_beasting, boat_unlock"
+            ],
+          },
+          {
+            "name": "Jerky",
+            "access_rules": [
+              "$can_access_beasting"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "North Beasting Traverse",
+        "map_locations": [
+          {
+            "map": "totohaha",
+            "x": 377,
+            "y": 568,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Inspiriting Plum (M)",
+            "access_rules": [
+              "totohaha_unlock"
+            ],
+          },
+          {
+            "name": "Empowering Lychee",
+            "access_rules": [
+              "totohaha_unlock"
+            ],
+          },
+          {
+            "name": "Wind Soulstone",
+            "access_rules": [
+              "totohaha_unlock"
+            ],
+          },
+          {
+            "name": "War Axe",
+            "access_rules": [
+              "totohaha_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Western Tropu'hopu Traverse",
+        "map_locations": [
+          {
+            "map": "totohaha",
+            "x": 510,
+            "y": 502,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Empowering Lychee",
+            "access_rules": [
+              "totohaha_unlock"
+            ],
+          },
+          {
+            "name": "Healing Grape Bunch",
+            "access_rules": [
+              "totohaha_unlock"
+            ],
+          },
+          {
+            "name": "Light Soulstone (M)",
+            "access_rules": [
+              "totohaha_unlock"
+            ],
+          },
+          {
+            "name": "Quality Jerky",
+            "access_rules": [
+              "totohaha_unlock"
+            ],
+          },
+          {
+            "name": "Sprightly Bracelet",
+            "access_rules": [
+              "totohaha_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Southern Nameless Village Traverse",
+        "map_locations": [
+          {
+            "map": "totohaha",
+            "x": 565,
+            "y": 422,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mental Belt",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Superior Jerky",
+            "access_rules": [
+              "totohaha_unlock"
+            ],
+          },
+          {
+            "name": "Herb of Serenity",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Wind Soulstone (L)",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          }
+        ]
+      },
+      {
+        "name": "Beasting Bay",
+        "map_locations": [
+          {
+            "map": "totohaha",
+            "x": 330,
+            "y": 455,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Anchorage: Slumber Sage",
+            "access_rules": [
+              "totohaha_unlock"
+            ],
+          },
+          {
+            "name": "Anchorage: Healing Grape (M)",
+            "access_rules": [
+              "totohaha_unlock"
+            ],
+          }
+        ]
+      },
+      /*Grottos*/
+      {
+        "name": "Cavern of Waves", 
+        "map_locations": [
+          {
+            "map": "totohaha",
+            "x": 390,
+            "y": 416,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Healing Grape Bunch",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Olive of Life (L)",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "JP Augmentor",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Raging Beast",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Ruinous Relic 1",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Ruinous Relic 2",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Ruinous Relic 3",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Salted Seafood",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          }
+        ]
+      },
+      {
+        "name": "Wandering Wood",
+        "map_locations": [
+          {
+            "map": "totohaha",
+            "x": 568,
+            "y": 205,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Antique Ceremonial Mask",
+            "access_rules": [
+              "$can_access_nameless"
+            ],
+          },
+          {
+            "name": "Healing Grape Bunch",
+            "access_rules": [
+              "$can_access_nameless"
+            ],
+          },
+          {
+            "name": "28000 L",
+            "access_rules": [
+              "$can_access_nameless"
+            ],
+          },
+          {
+            "name": "Inspriting Plum (M)",
+            "access_rules": [
+              "$can_access_nameless"
+            ],
+          },
+          {
+            "name": "Light Soulstone (L)",
+            "access_rules": [
+              "$can_access_nameless"
+            ],
+          },
+        ]
+      },
+      /*Ruins*/
+      {
+        "name": "Sinking Ruins",
+        "map_locations": [
+          {
+            "map": "totohaha",
+            "x": 518,
+            "y": 366,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Rusty Bow",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "30000 L",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Articulate Stone",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Sea God's Spear",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Perfect Jerky",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Herb-of-Grace Bud",
+            "access_rules": [
+              "totohaha_unlock, boat_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Tombs of the Wardenbeasts",
+        "map_locations": [
+          {
+            "map": "totohaha",
+            "x": 440,
+            "y": 690,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Sharp Nut",
+            "access_rules": [
+              "$can_access_beasting, ochette_ch1"
+            ],
+          },
+          {
+            "name": "Bone",
+            "access_rules": [
+              "$can_access_beasting, ochette_ch1"
+            ],
+          },
+          {
+            "name": "Composite Bow",
+            "access_rules": [
+              "$can_access_beasting, ochette_ch1"
+            ],
+          }
+        ]
+      },
+      /*Forests*/
+      {
+        "name": "Stormy Cape",
+        "map_locations": [
+          {
+            "map": "totohaha",
+            "x": 268,
+            "y": 725,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Energizing Pomegranate (L)",
+            "access_rules": [
+              "$can_access_beasting, ochette_ch3"
+            ],
+          },
+          {
+            "name": "Revitalizing Jam",
+            "access_rules": [
+              "$can_access_beasting, ochette_ch3"
+            ],
+          },
+          {
+            "name": "Axe of the Conqueror",
+            "access_rules": [
+              "$can_access_beasting, ochette_ch3"
+            ],
+          },
+          {
+            "name": "Tornado Bow",
+            "access_rules": [
+              "$can_access_beasting, ochette_ch3"
+            ],
+          },
+          {
+            "name": "Empowering Lychee (L)",
+            "access_rules": [
+              "$can_access_beasting, ochette_ch3"
+            ],
+          }
+        ]
+      }
+    ]
+
+  }
+
+]

@@ -1,0 +1,726 @@
+[
+  {
+    "name": "Harborlands",
+    "children": [
+      /*Towns*/
+      {
+        "name": "Canalbrine",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 708,
+            "y": 208,
+            "size": 24
+          }
+        ],
+        "sections": [
+          {
+            "name": "Resistant Nut",
+            "access_rules": [
+              "$can_access_canalbrine, boat_unlock"
+            ],
+          },
+          {
+            "name": "Slumber Sage",
+            "access_rules": [
+              "$can_access_canalbrine"
+            ],
+          },
+          {
+            "name": "Woodcutter's Great Axe",
+            "access_rules": [
+              "$can_access_canalbrine, boat_unlock, castti_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Conning Creek",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 274,
+            "y": 775,
+            "size": 24
+          }
+        ],
+        "sections": [
+          {
+            "name": "Bottle of Befuddling Dust",
+            "access_rules": [
+              "$can_access_conningcreek"
+            ],
+          },
+          {
+            "name": "Blazon of Protection",
+            "access_rules": [
+              "$can_access_conningcreek"
+            ],
+          },
+          {
+            "name": "Outskirts: Inspiriting Plum (M)",
+            "access_rules": [
+              "$can_access_conningcreek"
+            ],
+          },
+          {
+            "name": "Outskirts: Fire Soulstone (M)",
+            "access_rules": [
+              "$can_access_conningcreek"
+            ],
+          },
+          {
+            "name": "Harbor: Rainbow Glass Bottle",
+            "access_rules": [
+              "$can_access_conningcreek"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Roque Island",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 913,
+            "y": 770,
+            "size": 24
+          },
+        ],
+        "sections": [
+          {
+            "name": "Empowering Lychee (L)",
+            "access_rules": [
+              "$can_access_roqueisland, $can_ko"
+            ],
+          },
+          {
+            "name": "39800 L",
+            "access_rules": [
+              "$can_access_roqueisland, $can_ko"
+            ],
+          },
+          {
+            "name": "Rejuvenating Jam 1",
+            "access_rules": [
+              "$can_access_roqueisland, $can_ko"
+            ],
+          },
+          {
+            "name": "Rejuvenating Jam 2",
+            "access_rules": [
+              "$can_access_roqueisland, $can_ko"
+            ],
+          },
+          {
+            "name": "Rejuvenating Jam 3",
+            "access_rules": [
+              "$can_access_roqueisland, $can_ko"
+            ],
+          },
+          {
+            "name": "Magic Nut (L)",
+            "access_rules": [
+              "$can_access_roqueisland, $can_ko"
+            ],
+          },
+          {
+            "name": "Herb of Healing",
+            "access_rules": [
+              "$can_access_roqueisland"
+            ],
+          },
+          {
+            "name": "Energizing Pomegranate (L)",
+            "access_rules": [
+              "$can_access_roqueisland"
+            ],
+          },
+          {
+            "name": "Headquarters: Critical Bracelet",
+            "access_rules": [
+              "$can_access_roqueisland"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Roque Island Anchorage",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 918,
+            "y": 859,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "22000 L",
+            "access_rules": [
+              "$can_access_roqueisland, boat_unlock"
+            ],
+          },
+          {
+            "name": "Enlightening Necklace",
+            "access_rules": [
+              "$can_access_roqueisland, boat_unlock"
+            ],
+          },
+          {
+            "name": "Healing Grape Bunch",
+            "access_rules": [
+              "$can_access_roqueisland"
+            ],
+          },
+        ]
+      },
+      /*Trails*/
+      {
+        "name": "Canalbrine Path to the Water Source",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 706,
+            "y": 325,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Darkdelion",
+            "access_rules": [
+              "$can_access_canalbrine"
+            ],
+          },
+          {
+            "name": "Empowering Ring",
+            "access_rules": [
+              "$can_access_canalbrine"
+            ],
+          },
+          {
+            "name": "Plum Leaf",
+            "access_rules": [
+              "$can_access_canalbrine"
+            ],
+          },
+          {
+            "name": "Grape Leaf",
+            "access_rules": [
+              "$can_access_canalbrine"
+            ],
+          },
+          {
+            "name": "Guard's Helm",
+            "access_rules": [
+              "$can_access_canalbrine"
+            ],
+          },
+          {
+            "name": "Herb of Healing",
+            "access_rules": [
+              "$can_access_canalbrine, boat_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Western Canalbrine Coast",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 487,
+            "y": 248,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Healing Grape (M)",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "Herb of Serenity",
+            "access_rules": [
+              "harborlands_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Traveler's Bow",
+            "access_rules": [
+              "harborlands_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Inspiriting Plum (M)",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "1500 L",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "Sticky Flower",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Canalbrine Bridge",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 309,
+            "y": 220,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Refreshing Jam",
+            "access_rules": [
+              "harborlands_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Silver Sword",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "Lance",
+            "access_rules": [
+              "harborlands_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Cleansing Leaf",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "Ice Soulstone",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "Healing Grape Bunch",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Northern Conning Creek Coast",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 261,
+            "y": 523,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Energizing Pomegranate",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "Matching Trident",
+            "access_rules": [
+              "harborlands_unlock, $can_ko"
+            ],
+          },
+          {
+            "name": "Wind Soulstone (M)",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "Helmcleaver",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Western Conning Creek Coast",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 156,
+            "y": 757,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Empowering Lychee",
+            "access_rules": [
+              "harborlands_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Unerring Bracelet",
+            "access_rules": [
+              "harborlands_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Slumber Sage",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "Energizing Pomegranate",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+        ]
+      },
+      /*Grotto*/
+      {
+        "name": "Canalbrine Water Source",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 796,
+            "y": 362,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Diffusing Serum",
+            "access_rules": [
+              "$can_access_canalbrine, castti_unlock, castti_ch1"
+            ],
+          },
+          {
+            "name": "Cleansing Leaf",
+            "access_rules": [
+              "$can_access_canalbrine, castti_unlock, castti_ch1"
+            ],
+          },
+          {
+            "name": "Old Armor",
+            "access_rules": [
+              "$can_access_canalbrine, castti_unlock, castti_ch1"
+            ],
+          },
+          {
+            "name": "Herb of Healing",
+            "access_rules": [
+              "$can_access_canalbrine, castti_unlock, castti_ch1"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Cavern of the Sea God",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 429,
+            "y": 733,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Empowering Lychee (M)",
+            "access_rules": [
+              "$can_access_conningcreek, ochette_unlock, ochette_ch2A, boat_unlock"
+            ],
+          },
+          {
+            "name": "Rabbit Shield",
+            "access_rules": [
+              "$can_access_conningcreek, ochette_unlock, ochette_ch2A, boat_unlock"
+            ],
+          },
+          {
+            "name": "Healing Grape Bunch",
+            "access_rules": [
+              "$can_access_conningcreek, ochette_unlock, ochette_ch2A, boat_unlock"
+            ],
+          },
+          {
+            "name": "6000 L",
+            "access_rules": [
+              "$can_access_conningcreek, ochette_unlock, ochette_ch2A, boat_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Cavern of the Moon and Sun",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 117,
+            "y": 691,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "2400 L",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "Mighty Belt",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "Light Soulstone (L)",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+        ]
+      },
+      /*Dungeons*/
+      {
+        "name": "Lair of the Usurper",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 384,
+            "y": 163,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Bottle of Sleeping Dust",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "Thunder Mace",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "Olive of Life (M)",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "Grail of Life",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "6500 L",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "Weathered Treasure Shield",
+            "access_rules": [
+              "harborlands_unlock"
+            ],
+          },
+          {
+            "name": "Empowering Lychee (L)",
+            "access_rules": [
+              "harborlands_unlock, boat_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Sacred Guard Ship",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 730,
+            "y": 125,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Mace",
+            "access_rules": [
+              "$can_access_canalbrine, temenos_unlock, temenos_ch2"
+            ],
+          },
+          {
+            "name": "Inspiriting Plum (M)",
+            "access_rules": [
+              "$can_access_canalbrine, temenos_unlock, temenos_ch2"
+            ],
+          },
+          {
+            "name": "5600 L",
+            "access_rules": [
+              "$can_access_canalbrine, temenos_unlock, temenos_ch2"
+            ],
+          },
+          {
+            "name": "Dark Amulet",
+            "access_rules": [
+              "$can_access_canalbrine, temenos_unlock, temenos_ch2"
+            ],
+          },
+          {
+            "name": "Empowering Lychee (M)",
+            "access_rules": [
+              "$can_access_canalbrine, temenos_unlock, temenos_ch2"
+            ],
+          },
+        ]
+      },
+      /*Mansions*/
+      {
+        "name": "Guard Outpost",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 316,
+            "y": 727,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Fire Soulstone",
+            "access_rules": [
+              "$can_access_conningcreek, osvald_unlock, osvald_ch3"
+            ],
+          },
+          {
+            "name": "Guard's Armor",
+            "access_rules": [
+              "$can_access_conningcreek, osvald_unlock, osvald_ch3"
+            ],
+          },
+          {
+            "name": "Empowering Lychee (M)",
+            "access_rules": [
+              "$can_access_conningcreek, osvald_unlock, osvald_ch3"
+            ],
+          },
+          {
+            "name": "Guard's Hat",
+            "access_rules": [
+              "$can_access_conningcreek, osvald_unlock, osvald_ch3"
+            ],
+          },
+          {
+            "name": "7200 L",
+            "access_rules": [
+              "$can_access_conningcreek, osvald_unlock, osvald_ch3"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "The Roque Company",
+        "map_locations": [
+          {
+            "map": "harborlands",
+            "x": 906,
+            "y": 646,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "West Tower: Inspiriting Plum Basket",
+            "access_rules": [
+              "$can_access_roqueisland"
+            ],
+          },
+          {
+            "name": "West Tower: Empowering Lychee (L)",
+            "access_rules": [
+              "$can_access_roqueisland"
+            ],
+          },
+          {
+            "name": "West Tower: Fire Soulstone (L)",
+            "access_rules": [
+              "$can_access_roqueisland"
+            ],
+          },
+          {
+            "name": "West Tower: Venom Lance",
+            "access_rules": [
+              "$can_access_roqueisland, boat_unlock"
+            ],
+          },
+          {
+            "name": "East Tower: 24500 L",
+            "access_rules": [
+              "$can_access_roqueisland"
+            ],
+          },
+          {
+            "name": "East Tower: Large Silver Ore",
+            "access_rules": [
+              "$can_access_roqueisland"
+            ],
+          },
+          {
+            "name": "East Tower: Olive of Life (L)",
+            "access_rules": [
+              "$can_access_roqueisland"
+            ],
+          },
+          {
+            "name": "East Tower: Aged Wine",
+            "access_rules": [
+              "$can_access_roqueisland"
+            ],
+          },
+          {
+            "name": "East Tower: Mechanical Bow",
+            "access_rules": [
+              "$can_access_roqueisland"
+            ],
+          },
+          {
+            "name": "East Tower: Refreshing Jam",
+            "access_rules": [
+              "$can_access_roqueisland"
+            ],
+          },
+        ]
+      },
+    ]
+
+  }
+
+]

@@ -1,0 +1,644 @@
+[
+  {
+    "name": "Hinoeuma",
+    "children": [
+      /*Towns*/
+      {
+        "name": "Ryu",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 1104,
+            "y": 367,
+            "size": 24
+          }
+        ],
+        "sections": [
+          {
+            "name": "Empowering Lychee",
+            "access_rules": [
+              "$can_access_ryu"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Sai",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 828,
+            "y": 695,
+            "size": 24
+          }
+        ],
+        "sections": [
+          {
+            "name": "Inspiriting Plum (M)",
+            "access_rules": [
+              "$can_access_sai"
+            ],
+          },
+          {
+            "name": "Wind Soulstone (M)",
+            "access_rules": [
+              "$can_access_sai"
+            ],
+          },
+          {
+            "name": "East District: Herb of Revival",
+            "access_rules": [
+              "$can_access_sai"
+            ],
+          },
+          {
+            "name": "East District: Tattered Dress",
+            "access_rules": [
+              "$can_access_sai, $can_ko"
+            ],
+          },
+          {
+            "name": "East District: Battle Hatchet",
+            "access_rules": [
+              "$can_access_sai, $can_access_canalbrine"
+            ],
+          },
+          {
+            "name": "East District: Refined Sword",
+            "access_rules": [
+              "$can_access_sai, $can_access_canalbrine"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Ku",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 230,
+            "y": 995,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Castle Town: Healing Grape",
+            "access_rules": [
+              "$can_access_ku"
+            ],
+          },
+          {
+            "name": "Castle Town: Inspiriting Plum",
+            "access_rules": [
+              "$can_access_ku"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Castle Ku Entrance",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 270,
+            "y": 965,
+            "size": 12
+          },
+        ],
+        "sections": [
+          {
+            "name": "1600 L",
+            "access_rules": [
+              "$can_access_ku"
+            ],
+          },
+          {
+            "name": "Critical Ring",
+            "access_rules": [
+              "$can_access_ku"
+            ],
+          },
+        ]
+      },
+      /*Trails*/
+      {
+        "name": "Northern Ryu Sands",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 1168,
+            "y": 237,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Bottle of Befuddling Dust",
+            "access_rules": [
+              "hinoeuma_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Bone Spear",
+            "access_rules": [
+              "hinoeuma_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Diffusing Serum",
+            "access_rules": [
+              "hinoeuma_unlock, boat_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Western Sai Sands",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 542,
+            "y": 737,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Iron Shield",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Olive of Life (L)",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Reinforcing Jam",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Southern Sai Sands",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 837,
+            "y": 789,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Herb of Light",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "6200 L",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Energizing Pomegranate (M)",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Inspiriting Plum Basket",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Eastern Sai Sands",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 1089,
+            "y": 818,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Healing Grape Bunch",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Fire Soulstone (M)",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "War Glaive",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Empowering Lychee (M)",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Eastern Ku Sands",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 516,
+            "y": 1111,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Energizing Pomegranate (L)",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Thunder Soulstone (L)",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Firestarter",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Slumber Sage",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Healing Grape Bunch",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Southern Ku Sands",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 244,
+            "y": 1121,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Energizing Pomegranate",
+            "access_rules": [
+              "$can_access_ku, boat_unlock"
+            ],
+          },
+          {
+            "name": "Fire Soulstone",
+            "access_rules": [
+              "$can_access_ku"
+            ],
+          },
+          {
+            "name": "Herb of Light",
+            "access_rules": [
+              "$can_access_ku"
+            ],
+          },
+          {
+            "name": "Inspiriting Plum",
+            "access_rules": [
+              "$can_access_ku"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Sandflow Pass",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 739,
+            "y": 731,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Quartz Blade",
+            "access_rules": [
+              "$can_access_sai, castti_unlock, castti_ch2S, $can_ko"
+            ],
+          },
+          {
+            "name": "Steel Lance",
+            "access_rules": [
+              "$can_access_sai, castti_unlock, castti_ch2S, $can_ko"
+            ],
+          },
+          {
+            "name": "Bone Mail",
+            "access_rules": [
+              "$can_access_sai, castti_unlock, castti_ch2S, $can_ko"
+            ],
+          },
+          {
+            "name": "Empowering Lychee (M)",
+            "access_rules": [
+              "$can_access_sai, castti_unlock, castti_ch2S"
+            ],
+          },
+          {
+            "name": "Stimulating Bracelet",
+            "access_rules": [
+              "$can_access_sai, castti_unlock, castti_ch2S"
+            ],
+          },
+          {
+            "name": "Strengthening Serum",
+            "access_rules": [
+              "$can_access_sai, castti_unlock, castti_ch2S"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Old Campsite",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 727,
+            "y": 652,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Dual Flower",
+            "access_rules": [
+              "$can_access_sai, castti_unlock, castti_ch2S"
+            ],
+          },
+        ]
+      },
+      /*Grotto*/
+      {
+        "name": "Quicksand Gaol",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 477,
+            "y": 674,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Rusty Axe",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Reinforcing Jam",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Wind Soulstone (L)",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Bright Stone",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Scorched Bone Spear",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Dragonridge",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 978,
+            "y": 763,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Wind Whisperer",
+            "access_rules": [
+              "$can_access_sai, agnea_unlock, agnea_ch4"
+            ],
+          },
+          {
+            "name": "Empowering Lychee",
+            "access_rules": [
+              "$can_access_sai, agnea_unlock, agnea_ch4"
+            ],
+          },
+          {
+            "name": "Inspiriting Plum Basket",
+            "access_rules": [
+              "$can_access_sai, agnea_unlock, agnea_ch4"
+            ],
+          },
+          {
+            "name": "Tempest Amulet",
+            "access_rules": [
+              "$can_access_sai, agnea_unlock, agnea_ch4"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Sand Lion's Den",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 750,
+            "y": 571,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Olive of Life (L)",
+            "access_rules": [
+              "$can_access_sai, castti_unlock, castti_ch2S"
+            ],
+          },
+          {
+            "name": "Healing Grape Bunch",
+            "access_rules": [
+              "$can_access_sai, castti_unlock, castti_ch2S"
+            ],
+          },
+          {
+            "name": "Poisoned Hatchet",
+            "access_rules": [
+              "$can_access_sai, castti_unlock, castti_ch2S"
+            ],
+          },
+          {
+            "name": "Diffusing Serum",
+            "access_rules": [
+              "$can_access_sai, castti_unlock, castti_ch2S"
+            ],
+          },
+        ]
+      },
+      /*Ruins*/
+      {
+        "name": "Tranquil Grotto",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 679,
+            "y": 1114,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Olive of Life (L)",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Mysterious Dagger",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Reinforcing Jam",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "25000 L",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+        ]
+      },
+      /*Mansions*/
+      {
+        "name": "Castle Ku",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 331,
+            "y": 911,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Thunder Soulstone",
+            "access_rules": [
+              "$can_access_ku, hikari_unlock, hikari_ch5"
+            ],
+          },
+          {
+            "name": "Healing Grape",
+            "access_rules": [
+              "$can_access_ku, hikari_unlock, hikari_ch5"
+            ],
+          },
+          {
+            "name": "Fortifying Nut",
+            "access_rules": [
+              "$can_access_ku, hikari_unlock, hikari_ch5"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Decaying Temple",
+        "map_locations": [
+          {
+            "map": "hinoeuma",
+            "x": 1105,
+            "y": 718,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Bottle of Sleeping Dust",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Energizing Pomegranate (M)",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "20000 L",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Fire Dragon's Glaive",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+          {
+            "name": "Sniper's Bow",
+            "access_rules": [
+              "hinoeuma_unlock"
+            ],
+          },
+        ]
+      },
+    ]
+
+  }
+
+]

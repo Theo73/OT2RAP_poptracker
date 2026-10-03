@@ -1,0 +1,685 @@
+[
+  {
+    "name": "Winterlands",
+    "children": [
+      /*Towns*/
+      {
+        "name": "Frigit Isle",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 180,
+            "y": 182,
+            "size": 24
+          }
+        ],
+        "sections": [
+          {
+            "name": "Prison: Bottle of Blinding Dust",
+            "access_rules": [
+              "$can_access_frigit"
+            ],
+          },
+          {
+            "name": "Prison: Inspiriting Plum",
+            "access_rules": [
+              "$can_access_frigit"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Cape Cold",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 427,
+            "y": 551,
+            "size": 24
+          }
+        ],
+        "sections": [
+          {
+            "name": "2000 L",
+            "access_rules": [
+              "$can_access_capecold"
+            ],
+          },
+          {
+            "name": "Energizing Pomegranate",
+            "access_rules": [
+              "$can_access_capecold"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Winterbloom",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 918,
+            "y": 498,
+            "size": 24
+          }
+        ],
+        "sections": [
+          {
+            "name": "Strengthening Serum",
+            "access_rules": [
+              "$can_access_winterbloom"
+            ],
+          },
+          {
+            "name": "150 L",
+            "access_rules": [
+              "$can_access_winterbloom, $can_ko"
+            ],
+          },
+          {
+            "name": "Old Armor",
+            "access_rules": [
+              "$can_access_winterbloom, $can_ko"
+            ],
+          },
+          {
+            "name": "Healing Grape",
+            "access_rules": [
+              "$can_access_winterbloom"
+            ],
+          },
+          {
+            "name": "Ice Soulstone (M)",
+            "access_rules": [
+              "$can_access_winterbloom"
+            ],
+          },
+          {
+            "name": "Thieves' Quarter: Empowering Lychee (M)",
+            "access_rules": [
+              "$can_access_winterbloom"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Stormhail",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 1335,
+            "y": 430,
+            "size": 24
+          }
+        ],
+        "sections": [
+          {
+            "name": "Inspiriting Plum Basket",
+            "access_rules": [
+              "$can_access_stormhail"
+            ],
+          },
+          {
+            "name": "Knight's Armor",
+            "access_rules": [
+              "$can_access_stormhail"
+            ],
+          },
+          {
+            "name": "Sacred Guard Headquarters: Flayer's Admonishment",
+            "access_rules": [
+              "$can_access_stormhail, $can_ko"
+            ],
+          },
+          {
+            "name": "Sacred Guard Headquarters: Energizing Pomegranate",
+            "access_rules": [
+              "$can_access_stormhail"
+            ],
+          },
+          {
+            "name": "Sacred Guard Headquarters: Light Soulstone (L)",
+            "access_rules": [
+              "$can_access_stormhail"
+            ],
+          },
+        ]
+      },
+      /*Trails*/
+      {
+        "name": "Frigit Isle Entrance",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 183,
+            "y": 289,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Healing Grape",
+            "access_rules": [
+              "$can_access_frigit"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Frigit Isle Anchorage",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 148,
+            "y": 377,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Magic Nut",
+            "access_rules": [
+              "$can_access_frigit"
+            ],
+          },
+          {
+            "name": "Inspiriting Plum",
+            "access_rules": [
+              "$can_access_frigit"
+            ],
+          },
+          {
+            "name": "Ice Soulstone",
+            "access_rules": [
+              "$can_access_frigit"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Southern Cape Cold Snows",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 387,
+            "y": 704,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Olive of Life (M)",
+            "access_rules": [
+              "winterlands_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Inspiriting Plum (M)",
+            "access_rules": [
+              "winterlands_unlock"
+            ],
+          },
+          {
+            "name": "Pilgrim's Robe",
+            "access_rules": [
+              "winterlands_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "Empowering Lychee",
+            "access_rules": [
+              "winterlands_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Eastern Cape Cold Snows",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 811,
+            "y": 646,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Ice Soulstone",
+            "access_rules": [
+              "winterlands_unlock"
+            ],
+          },
+          {
+            "name": "Needle Dagger",
+            "access_rules": [
+              "winterlands_unlock"
+            ],
+          },
+          {
+            "name": "Fur Cap",
+            "access_rules": [
+              "winterlands_unlock, boat_unlock"
+            ],
+          },
+          {
+            "name": "600 L",
+            "access_rules": [
+              "winterlands_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Western Winterbloom Snows",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 778,
+            "y": 506,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Falcon Ring",
+            "access_rules": [
+              "winterlands_unlock"
+            ],
+          },
+          {
+            "name": "Ice Soulstone (M)",
+            "access_rules": [
+              "winterlands_unlock"
+            ],
+          },
+          {
+            "name": "Diffusing Serum",
+            "access_rules": [
+              "winterlands_unlock"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Southern Stormhail Snows",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 1372,
+            "y": 560,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "15000 L",
+            "access_rules": [
+              "$can_access_winterlands2"
+            ],
+          },
+          {
+            "name": "Ice Soulstone (L)",
+            "access_rules": [
+              "$can_access_winterlands2"
+            ],
+          },
+          {
+            "name": "Raging Beast",
+            "access_rules": [
+              "$can_access_winterlands2"
+            ],
+          },
+          {
+            "name": "Lightning Armor",
+            "access_rules": [
+              "$can_access_winterlands2"
+            ],
+          },
+          {
+            "name": "Herb of Revival",
+            "access_rules": [
+              "$can_access_winterlands2"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Stormhail: Castle Mei",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 1474,
+            "y": 409,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Thunder Soulstone (M)",
+            "access_rules": [
+              "$can_access_stormhail, hikari_unlock, hikari_ch4"
+            ],
+          },
+          {
+            "name": "16000 L",
+            "access_rules": [
+              "$can_access_stormhail, hikari_unlock, hikari_ch4"
+            ],
+          },
+        ]
+      },
+      /*Grotto*/
+      {
+        "name": "Sacred Peak Altahe",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 1213,
+            "y": 202,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Reinforcing Jam",
+            "access_rules": [
+              "$can_access_stormhail, ochette_unlock, ochette_ch2G"
+            ],
+          },
+          {
+            "name": "Ice Amulet",
+            "access_rules": [
+              "$can_access_stormhail, ochette_unlock, ochette_ch2G"
+            ],
+          },
+          {
+            "name": "Ice Soulstone (L)",
+            "access_rules": [
+              "$can_access_stormhail, ochette_unlock, ochette_ch2G"
+            ],
+          },
+          {
+            "name": "Absolute Zero Bow",
+            "access_rules": [
+              "$can_access_stormhail, ochette_unlock, ochette_ch2G"
+            ],
+          },
+        ]
+      },
+      /*Ruins*/
+      {
+        "name": "Infernal Castle",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 1230,
+            "y": 602,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Inspiriting Plum Basket",
+            "access_rules": [
+              "$can_access_infernalcastle"
+            ],
+          },
+          {
+            "name": "Blizzard Amulet",
+            "access_rules": [
+              "$can_access_infernalcastle"
+            ],
+          },
+          {
+            "name": "Lost Tribe's Staff",
+            "access_rules": [
+              "$can_access_infernalcastle"
+            ],
+          },
+          {
+            "name": "Energizing Pomegranate (M)",
+            "access_rules": [
+              "$can_access_infernalcastle"
+            ],
+          },
+          {
+            "name": "Serpent Slayer",
+            "access_rules": [
+              "$can_access_infernalcastle"
+            ],
+          },
+          {
+            "name": "Stone of Truth",
+            "access_rules": [
+              "$can_access_infernalcastle"
+            ],
+          },
+        ]
+      },
+      /*Dungeons*/
+      {
+        "name": "Prison",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 276,
+            "y": 287,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Underground Passage: Inspiriting Plum",
+            "access_rules": [
+              "$can_access_frigit"
+            ],
+          },
+          {
+            "name": "Underground Passage: Healing Grape",
+            "access_rules": [
+              "$can_access_frigit"
+            ],
+          },
+          {
+            "name": "Underground Passage: Sinner's Staff",
+            "access_rules": [
+              "$can_access_frigit"
+            ],
+          },
+          {
+            "name": "Underground Passage: Ancient Necklace",
+            "access_rules": [
+              "$can_access_frigit"
+            ],
+          },
+          {
+            "name": "Underground Passage: Olive of Life",
+            "access_rules": [
+              "$can_access_frigit"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Forbidden Shrine",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 1440,
+            "y": 498,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Gleaming Amulet",
+            "access_rules": [
+              "$can_access_stormhail, temenos_unlock, temenos_ch3S"
+            ],
+          },
+          {
+            "name": "Olive of Life (M)",
+            "access_rules": [
+              "$can_access_stormhail, temenos_unlock, temenos_ch3S"
+            ],
+          },
+          {
+            "name": "Healing Grape (M)",
+            "access_rules": [
+              "$can_access_stormhail, temenos_unlock, temenos_ch3S"
+            ],
+          },
+          {
+            "name": "15000 L",
+            "access_rules": [
+              "$can_access_stormhail, temenos_unlock, temenos_ch3S"
+            ],
+          },
+          {
+            "name": "Magic Breaker",
+            "access_rules": [
+              "$can_access_stormhail, temenos_unlock, temenos_ch3S"
+            ],
+          },
+        ]
+      },
+      /*Forests*/
+      {
+        "name": "Ruffians' Hideout",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 937,
+            "y": 646,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Bottle of Blinding Dust",
+            "access_rules": [
+              "winterlands_unlock, boat_unlock",
+              "winterlands_unlock, $can_ko"
+            ],
+          },
+          {
+            "name": "1000 L",
+            "access_rules": [
+              "winterlands_unlock, boat_unlock",
+              "winterlands_unlock, $can_ko"
+            ],
+          },
+          {
+            "name": "Heretic's Greatsword",
+            "access_rules": [
+              "winterlands_unlock, boat_unlock",
+              "winterlands_unlock, $can_ko"
+            ],
+          },
+          {
+            "name": "Olive of Life (M)",
+            "access_rules": [
+              "winterlands_unlock, boat_unlock",
+              "winterlands_unlock, $can_ko, boat_unlock"
+            ],
+          },
+          {
+            "name": "Wind Robe",
+            "access_rules": [
+              "winterlands_unlock, boat_unlock"
+            ],
+          },
+        ]
+      },
+      /*Mansions*/
+      {
+        "name": "Snowhares' Den",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 1044,
+            "y": 510,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Healing Grape (M)",
+            "access_rules": [
+              "$can_access_winterbloom, throne_unlock, throne_ch2F"
+            ],
+          },
+          {
+            "name": "Empowering Bracelet",
+            "access_rules": [
+              "$can_access_winterbloom, throne_unlock, throne_ch2F, boat_unlock"
+            ],
+          },
+          {
+            "name": "Quartz Dagger",
+            "access_rules": [
+              "$can_access_winterbloom, throne_unlock, throne_ch2F, boat_unlock"
+            ],
+          },
+          {
+            "name": "Shadow Soulstone (M)",
+            "access_rules": [
+              "$can_access_winterbloom, throne_unlock, throne_ch2F, boat_unlock"
+            ],
+          },
+          {
+            "name": "Inspiriting Plum (M)",
+            "access_rules": [
+              "$can_access_winterbloom, throne_unlock, throne_ch2F"
+            ],
+          },
+        ]
+      },
+      {
+        "name": "Castle Mei: East Tower",
+        "map_locations": [
+          {
+            "map": "winterlands",
+            "x": 1600,
+            "y": 407,
+            "size": 12
+          }
+        ],
+        "sections": [
+          {
+            "name": "Herb of Serenity",
+            "access_rules": [
+              "$can_access_stormhail, hikari_unlock, hikari_ch4"
+            ],
+          },
+          {
+            "name": "Thunder Soulstone (L)",
+            "access_rules": [
+              "$can_access_stormhail, hikari_unlock, hikari_ch4"
+            ],
+          },
+          {
+            "name": "Healing Grape (M)",
+            "access_rules": [
+              "$can_access_stormhail, hikari_unlock, hikari_ch4"
+            ],
+          },
+          {
+            "name": "Nightmare Glaive",
+            "access_rules": [
+              "$can_access_stormhail, hikari_unlock, hikari_ch4"
+            ],
+          },
+          {
+            "name": "Thunderstorm Amulet",
+            "access_rules": [
+              "$can_access_stormhail, hikari_unlock, hikari_ch4"
+            ],
+          },
+        ]
+      },
+    ]
+  },
+
+]
