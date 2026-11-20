@@ -649,7 +649,7 @@
 				]
 			},
 			{
-				"name": "The Roque Company",
+				"name": "The Roque Company Factory",
 				"map_locations": [
 					{
 						"map": "brightlands",
@@ -660,19 +660,19 @@
 				],
 				"sections": [
 					{
-						"name": "Factory: Empowering Lychee (M)",
+						"name": "Empowering Lychee (M)",
 						"access_rules": [
 							"$can_access_clockbank"
 						]
 					},
 					{
-						"name": "Factory: 7000 L",
+						"name": "7000 L",
 						"access_rules": [
 							"$can_access_clockbank"
 						]
 					},
 					{
-						"name": "Factory: Prosperity Charm",
+						"name": "Prosperity Charm",
 						"access_rules": [
 							"$can_access_clockbank"
 						]

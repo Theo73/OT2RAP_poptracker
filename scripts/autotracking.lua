@@ -145,6 +145,10 @@ local location_mapping = {
     ["Roque Island: Anchorage: 22000 L"] = "@Roque Island Anchorage/22000 L",
     ["Roque Island: Anchorage: Enlightening Necklace"] = "@Roque Island Anchorage/Enlightening Necklace",
     ["Roque Island: Anchorage: Healing Grape Bunch"] = "@Roque Island Anchorage/Healing Grape Bunch",
+    --The Roque Company Factory
+    ["The Roque Company: Factory: Empowering Lychee (M)"] = "@The Roque Company Factory/Empowering Lychee (M)",
+    ["The Roque Company: Factory: 7000 L"] = "@The Roque Company Factory/7000 L",
+    ["The Roque Company: Factory: Prosperity Charm"] = "@The Roque Company Factory/Prosperity Charm",
     --Ku Castle
     ["Castle Ku: Entrance: 1600 L"] = "@Castle Ku Entrance/1600 L",
     ["Castle Ku: Entrance: Critical Ring"] = "@Castle Ku Entrance/Critical Ring",
@@ -238,7 +242,7 @@ local location_mapping = {
     ["Castle Mei: East Tower: Thunderstorm Amulet"] = "@Castle Mei East Tower/Thunderstorm Amulet",
     --Castle Mei
     ["Stormhail: Castle Mei: Thunder Soulstone (M)"] = "@Stormhail Castle Mei/Thunder Soulstone (M)",
-    ["Stormhail: Castle Mei: 16000 L"] = "@Stormhail Castle Mei/16000 L",
+    ["Stormhail: Castle Mei: 16000 L"] = "@Stormhail Castle Mei/16000 L"
 
 }
 
