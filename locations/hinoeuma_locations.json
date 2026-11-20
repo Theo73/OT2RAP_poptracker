@@ -352,37 +352,37 @@
           {
             "name": "Quartz Blade",
             "access_rules": [
-              "$can_access_sai, $can_ko"
+              "$can_access_sai, castti_unlock, castti_ch2S, $can_ko"
             ],
           },
           {
             "name": "Steel Lance",
             "access_rules": [
-              "$can_access_sai, $can_ko"
+              "$can_access_sai, castti_unlock, castti_ch2S, $can_ko"
             ],
           },
           {
             "name": "Bone Mail",
             "access_rules": [
-              "$can_access_sai, $can_ko"
+              "$can_access_sai, castti_unlock, castti_ch2S, $can_ko"
             ],
           },
           {
             "name": "Empowering Lychee (M)",
             "access_rules": [
-              "$can_access_sai"
+              "$can_access_sai, castti_unlock, castti_ch2S"
             ],
           },
           {
             "name": "Stimulating Bracelet",
             "access_rules": [
-              "$can_access_sai"
+              "$can_access_sai, castti_unlock, castti_ch2S"
             ],
           },
           {
             "name": "Strengthening Serum",
             "access_rules": [
-              "$can_access_sai"
+              "$can_access_sai, castti_unlock, castti_ch2S"
             ],
           },
         ]
@@ -401,7 +401,7 @@
           {
             "name": "Dual Flower",
             "access_rules": [
-              "$can_access_sai"
+              "$can_access_sai, castti_unlock, castti_ch2S"
             ],
           },
         ]

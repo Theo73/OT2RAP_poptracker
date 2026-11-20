@@ -209,13 +209,13 @@ local location_mapping = {
     ["Sundering Sea: Nameless Isle: Quartz Axe"] = "@Sundering Sea Nameless Isle/Quartz Axe",
     ["Sundering Sea: Nameless Isle: Finisher's Claws"] = "@Sundering Sea Nameless Isle/Finisher's Claws",
     --The Lost Isle
-    ["Sundering Sea: Nameless Isle: Ancient Cursed Talisman 1"] = "@Sundering Sea Nameless Isle/Ancient Cursed Talisman 1",
-    ["Sundering Sea: Nameless Isle: Ancient Cursed Talisman 2"] = "@Sundering Sea Nameless Isle/Ancient Cursed Talisman 2",
-    ["Sundering Sea: Nameless Isle: Ancient Cursed Talisman 3"] = "@Sundering Sea Nameless Isle/Ancient Cursed Talisman 3",
-    ["Sundering Sea: Nameless Isle: Ancient Cursed Talisman 4"] = "@Sundering Sea Nameless Isle/Ancient Cursed Talisman 4",
-    ["Sundering Sea: Nameless Isle: Blessing in Disguise"] = "@Sundering Sea Nameless Isle/Blessing in Disguise",
-    ["Sundering Sea: Nameless Isle: Great Sage's Staff"] = "@Sundering Sea Nameless Isle/Great Sage's Staff",
-    ["Sundering Sea: Nameless Isle: Lost Tribe's Dagger"] = "@Sundering Sea Nameless Isle/Lost Tribe's Dagger",
+    ["Sundering Sea: The Lost Isle: Ancient Cursed Talisman 1"] = "@Sundering Sea The Lost Isle/Ancient Cursed Talisman 1",
+    ["Sundering Sea: The Lost Isle: Ancient Cursed Talisman 2"] = "@Sundering Sea The Lost Isle/Ancient Cursed Talisman 2",
+    ["Sundering Sea: The Lost Isle: Ancient Cursed Talisman 3"] = "@Sundering Sea The Lost Isle/Ancient Cursed Talisman 3",
+    ["Sundering Sea: The Lost Isle: Ancient Cursed Talisman 4"] = "@Sundering Sea The Lost Isle/Ancient Cursed Talisman 4",
+    ["Sundering Sea: The Lost Isle: Blessing in Disguise"] = "@Sundering Sea The Lost Isle/Blessing in Disguise",
+    ["Sundering Sea: The Lost Isle: Great Sage's Staff"] = "@Sundering Sea The Lost Isle/Great Sage's Staff",
+    ["Sundering Sea: The Lost Isle: Lost Tribe's Dagger"] = "@Sundering Sea The Lost Isle/Lost Tribe's Dagger",
     --Shipwreck of the Empress
     ["Sundering Sea: Shipwreck of the Empress: Inspiriting Plum Basket"] = "@Sundering Sea Shipwreck of the Empress/Inspiriting Plum Basket",
     ["Sundering Sea: Shipwreck of the Empress: Thunder Soulstone (L)"] = "@Sundering Sea Shipwreck of the Empress/Thunder Soulstone (L)",
@@ -230,6 +230,15 @@ local location_mapping = {
     ["Sundering Sea: Curious Nest: Fang of Ferocity"] = "@Sundering Sea Curious Nest/Fang of Ferocity",
     ["Sundering Sea: Curious Nest: Tornado Glaive"] = "@Sundering Sea Curious Nest/Tornado Glaive",
     ["Sundering Sea: Curious Nest: Decaying Dragon's Essence 2"] = "@Sundering Sea Curious Nest/Decaying Dragon's Essence 2",
+    --Castle Mei East Tower
+    ["Castle Mei: East Tower: Herb of Serenity"] = "@Castle Mei East Tower/Herb of Serenity",
+    ["Castle Mei: East Tower: Thunder Soulstone (L)"] = "@Castle Mei East Tower/Thunder Soulstone (L)",
+    ["Castle Mei: East Tower: Healing Grape (M)"] = "@Castle Mei East Tower/Healing Grape (M)",
+    ["Castle Mei: East Tower: Nightmare Glaive"] = "@Castle Mei East Tower/Nightmare Glaive",
+    ["Castle Mei: East Tower: Thunderstorm Amulet"] = "@Castle Mei East Tower/Thunderstorm Amulet",
+    --Castle Mei
+    ["Stormhail: Castle Mei: Thunder Soulstone (M)"] = "@Stormhail Castle Mei/Thunder Soulstone (M)",
+    ["Stormhail: Castle Mei: 16000 L"] = "@Stormhail Castle Mei/16000 L",
 
 }
 
@@ -322,6 +331,12 @@ function can_ko()
         or Tracker:FindObjectForCode("throne_unlock").Active
         or Tracker:FindObjectForCode("hikari_unlock").Active
         or Tracker:FindObjectForCode("castti_unlock").Active
+end
+
+function can_getItem()
+    return Tracker:FindObjectForCode("partitio_unlock").Active
+        or Tracker:FindObjectForCode("throne_unlock").Active
+        or Tracker:FindObjectForCode("agnea_unlock").Active
 end
 
 --Check if player can Ambush for some checks

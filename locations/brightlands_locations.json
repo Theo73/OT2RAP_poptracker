@@ -352,7 +352,7 @@
 					{
 						"name": "Olive of Life (L)",
 						"access_rules": [
-							"$can_access_abandonedvillage"
+							"$can_access_abandonedvillage, boat_unlock"
 						]
 					},
 					{
@@ -649,7 +649,7 @@
 				]
 			},
 			{
-				"name": "The Roque Company Factory",
+				"name": "The Roque Company",
 				"map_locations": [
 					{
 						"map": "brightlands",
@@ -660,19 +660,19 @@
 				],
 				"sections": [
 					{
-						"name": "Empowering Lychee (M)",
+						"name": "Factory: Empowering Lychee (M)",
 						"access_rules": [
 							"$can_access_clockbank"
 						]
 					},
 					{
-						"name": "7000 L",
+						"name": "Factory: 7000 L",
 						"access_rules": [
 							"$can_access_clockbank"
 						]
 					},
 					{
-						"name": "Prosperity Charm",
+						"name": "Factory: Prosperity Charm",
 						"access_rules": [
 							"$can_access_clockbank"
 						]

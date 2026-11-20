@@ -66,7 +66,7 @@
           {
             "name": "Angel's Ring",
             "access_rules": [
-              "$can_access_flamechurch"  
+              "$can_access_flamechurch, temenos_unlock, throne_unlock, temenos_throne_ch1"  
             ]
           },
         ]
@@ -400,25 +400,25 @@
           {
             "name": "Bottle of Poison Dust",
             "access_rules": [
-              "$can_access_montwise, throne_unlock, throne_ch3F"
+              "$can_access_montwise"
             ],
           },
           {
             "name": "Energizing Pomegranate",
             "access_rules": [
-              "$can_access_montwise, throne_unlock, throne_ch3F"           
+              "$can_access_montwise"           
             ]
           },
           {
             "name": "Guardian Amulet",
             "access_rules": [
-              "$can_access_montwise, throne_unlock, throne_ch3F"           
+              "$can_access_montwise"           
             ]
           },
           {
             "name": "Ice Soulstone (M)",
             "access_rules": [
-              "$can_access_montwise, throne_unlock, throne_ch3F"           
+              "$can_access_montwise"           
             ]
           },
         ]
@@ -510,7 +510,7 @@
             ]
           },
           {
-            "name": "Energizing Pomegranate",
+            "name": "Energizing Pomegranate (L)",
             "access_rules": [
               "crestlands_unlock, boat_unlock"           
             ]
@@ -524,7 +524,7 @@
         ]
       },
       {
-        "name": "Shrine of Ul'sterra",
+        "name": "Shrine of Ul'Sterra",
         "map_locations": [
           {
             "map": "crestlands",
@@ -575,19 +575,19 @@
           {
             "name": "Light Soulstone",
             "access_rules": [
-              "$can_access_flamechurch, temenos_ch1"
+              "$can_access_flamechurch"
             ],
           },
           {
             "name": "Inspiriting Plum",
             "access_rules": [
-              "$can_access_flamechurch, temenos_ch1, boat_unlock"           
+              "$can_access_flamechurch, boat_unlock"           
             ]
           },
           {
             "name": "Pilgrim Rod",
             "access_rules": [
-              "$can_access_flamechurch, temenos_ch1"           
+              "$can_access_flamechurch, boat_unlock"           
             ]
           },
         ]
@@ -607,25 +607,25 @@
           {
             "name": "Healing Grape Bunch",
             "access_rules": [
-              "$can_access_montwise, throne_unlock, throne_ch3F"
+              "$can_access_montwise"
             ],
           },
           {
             "name": "Black Dagger",
             "access_rules": [
-              "$can_access_montwise, throne_unlock, throne_ch3F"           
+              "$can_access_montwise"           
             ]
           },
           {
             "name": "Inspiriting Plum Basket",
             "access_rules": [
-              "$can_access_montwise, throne_unlock, throne_ch3F"           
+              "$can_access_montwise"           
             ]
           },
           {
             "name": "Olive of Life (M)",
             "access_rules": [
-              "$can_access_montwise, throne_unlock, throne_ch3F"           
+              "$can_access_montwise"           
             ]
           },
         ]

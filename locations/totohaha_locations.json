@@ -410,7 +410,7 @@
             ],
           },
           {
-            "name": "Inspriting Plum (M)",
+            "name": "Inspiriting Plum (M)",
             "access_rules": [
               "$can_access_nameless"
             ],
@@ -506,7 +506,7 @@
       },
       /*Forests*/
       {
-        "name": "Summit of Strife",
+        "name": "Stormy Cape",
         "map_locations": [
           {
             "map": "totohaha",
@@ -516,12 +516,6 @@
           }
         ],
         "sections": [
-          {
-            "name": "Energizing Pomegranate (L)",
-            "access_rules": [
-              "$can_access_beasting, ochette_ch3"
-            ],
-          },
           {
             "name": "Revitalizing Jam",
             "access_rules": [

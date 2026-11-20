@@ -198,8 +198,8 @@
               "name": "Wandering Wood: 28000 Leaves"
             },
             {
-              "ref": "Wandering Wood/Inspriting Plum (M)",
-              "name": "Wandering Wood: Inspriting Plum (M)"
+              "ref": "Wandering Wood/Inspiriting Plum (M)",
+              "name": "Wandering Wood: Inspiriting Plum (M)"
             },
             {
               "ref": "Wandering Wood/Light Soulstone (L)",
@@ -242,24 +242,24 @@
               "name": "Tombs of the Wardenbeasts: Composite Bow"
             },
             {
-              "ref": "Summit of Strife/Energizing Pomegranate (L)",
-              "name": "Summit of Strife: Energizing Pomegranate (L)"
+              "ref": "Stormy Cape/Energizing Pomegranate (L)",
+              "name": "Stormy Cape: Energizing Pomegranate (L)"
             },
             {
-              "ref": "Summit of Strife/Revitalizing Jam",
-              "name": "Summit of Strife: Revitalizing Jam"
+              "ref": "Stormy Cape/Revitalizing Jam",
+              "name": "Stormy Cape: Revitalizing Jam"
             },
             {
-              "ref": "Summit of Strife/Axe of the Conqueror",
-              "name": "Summit of Strife: Axe of the Conqueror"
+              "ref": "Stormy Cape/Axe of the Conqueror",
+              "name": "Stormy Cape: Axe of the Conqueror"
             },
             {
-              "ref": "Summit of Strife/Tornado Bow",
-              "name": "Summit of Strife: Tornado Bow"
+              "ref": "Stormy Cape/Tornado Bow",
+              "name": "Stormy Cape: Tornado Bow"
             },
             {
-              "ref": "Summit of Strife/Empowering Lychee (L)",
-              "name": "Summit of Strife: Empowering Lychee (L)"
+              "ref": "Stormy Cape/Empowering Lychee (L)",
+              "name": "Stormy Cape: Empowering Lychee (L)"
             },
           ]
       }
@@ -568,16 +568,16 @@
               "name": "Theater: Backstage: Healing Grape (M)"
             },
             {
-              "ref": "The Roque Company Factory/Empowering Lychee (M)",
-              "name": "The Roque Company Factory: Empowering Lychee (M)"
+              "ref": "The Roque Company/Factory: Empowering Lychee (M)",
+              "name": "The Roque Company:Factory:  Empowering Lychee (M)"
             },
             {
-              "ref": "The Roque Company Factory/7000 L",
-              "name": "The Roque Company Factory: 7000 L"
+              "ref": "The Roque Company/Factory: 7000 L",
+              "name": "The Roque Company:Factory:  7000 L"
             },
             {
-              "ref": "The Roque Company Factory/Prosperity Charm",
-              "name": "The Roque Company Factory: Prosperity Charm"
+              "ref": "The Roque Company/Factory: Prosperity Charm",
+              "name": "The Roque Company:Factory:  Prosperity Charm"
             },
             {
               "ref": "Old Clock Tower/Inferno Amulet",
@@ -826,28 +826,28 @@
               "name": "Seat of the Water Sprite: Rusty Staff"
             },
             {
-              "ref": "Seat of the Water Sprite/Energizing Pomegranate",
-              "name": "Seat of the Water Sprite: Energizing Pomegranate"
+              "ref": "Seat of the Water Sprite/Energizing Pomegranate (L)",
+              "name": "Seat of the Water Sprite: Energizing Pomegranate (L)"
             },
             {
               "ref": "Seat of the Water Sprite/Enlightening Bracelet",
               "name": "Seat of the Water Sprite: Enlightening Bracelet"
             },
             {
-              "ref": "Shrine of Ul'sterra/Refreshing Jam",
-              "name": "Shrine of Ul'sterra: Refreshing Jam"
+              "ref": "Shrine of Ul'Sterra/Refreshing Jam",
+              "name": "Shrine of Ul'Sterra: Refreshing Jam"
             },
             {
-              "ref": "Shrine of Ul'sterra/Elemental Augmentor",
-              "name": "Shrine of Ul'sterra: Elemental Augmentor"
+              "ref": "Shrine of Ul'Sterra/Elemental Augmentor",
+              "name": "Shrine of Ul'Sterra: Elemental Augmentor"
             },
             {
-              "ref": "Shrine of Ul'sterra/Resplendent Costume",
-              "name": "Shrine of Ul'sterra: Resplendent Costume"
+              "ref": "Shrine of Ul'Sterra/Resplendent Costume",
+              "name": "Shrine of Ul'Sterra: Resplendent Costume"
             },
             {
-              "ref": "Shrine of Ul'sterra/Bloodstained Knife",
-              "name": "Shrine of Ul'sterra: Bloodstained Knife"
+              "ref": "Shrine of Ul'Sterra/Bloodstained Knife",
+              "name": "Shrine of Ul'Sterra: Bloodstained Knife"
             },
             {
               "ref": "Cathedral Cellars/Light Soulstone",
@@ -1052,11 +1052,11 @@
               "name": "Southern Stormhail Snows: Herb of Revival"
             },
             {
-              "ref": "Stormhail: Castle Mei/Thunder Soulstone (M)",
+              "ref": "Stormhail Castle Mei/Thunder Soulstone (M)",
               "name": "Stormhail: Castle Mei: Thunder Soulstone (M)"
             },
             {
-              "ref": "Stormhail: Castle Mei/16000 L",
+              "ref": "Stormhail Castle Mei/16000 L",
               "name": "Stormhail: Castle Mei: 16000 L"
             },
             {
@@ -1180,23 +1180,23 @@
               "name": "Snowhares' Den: Inspiriting Plum (M)"
             },
             {
-              "ref": "Castle Mei: East Tower/Herb of Serenity",
+              "ref": "Castle Mei East Tower/Herb of Serenity",
               "name": "Castle Mei: East Tower: Herb of Serenity"
             },
             {
-              "ref": "Castle Mei: East Tower/Thunder Soulstone (L)",
+              "ref": "Castle Mei East Tower/Thunder Soulstone (L)",
               "name": "Castle Mei: East Tower: Thunder Soulstone (L)"
             },
             {
-              "ref": "Castle Mei: East Tower/Healing Grape (M)",
+              "ref": "Castle Mei East Tower/Healing Grape (M)",
               "name": "Castle Mei: East Tower: Healing Grape (M)"
             },
             {
-              "ref": "Castle Mei: East Tower/Nightmare Glaive",
+              "ref": "Castle Mei East Tower/Nightmare Glaive",
               "name": "Castle Mei: East Tower: Nightmare Glaive"
             },
             {
-              "ref": "Castle Mei: East Tower/Thunderstorm Amulet",
+              "ref": "Castle Mei East Tower/Thunderstorm Amulet",
               "name": "Castle Mei: East Tower: Thunderstorm Amulet"
             },
           ]

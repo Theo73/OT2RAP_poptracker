@@ -54,7 +54,7 @@
           {
             "name": "Blazon of Protection",
             "access_rules": [
-              "$can_access_conningcreek"
+              "$can_access_conningcreek, $can_ko"
             ],
           },
           {

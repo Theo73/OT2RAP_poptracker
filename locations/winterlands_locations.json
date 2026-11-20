@@ -345,7 +345,7 @@
         ]
       },
       {
-        "name": "Stormhail: Castle Mei",
+        "name": "Stormhail Castle Mei",
         "map_locations": [
           {
             "map": "winterlands",
@@ -581,7 +581,7 @@
             "name": "Olive of Life (M)",
             "access_rules": [
               "winterlands_unlock, boat_unlock",
-              "winterlands_unlock, $can_ko"
+              "winterlands_unlock, $can_ko, boat_unlock"
             ],
           },
           {
@@ -637,7 +637,7 @@
         ]
       },
       {
-        "name": "Castle Mei: East Tower",
+        "name": "Castle Mei East Tower",
         "map_locations": [
           {
             "map": "winterlands",
