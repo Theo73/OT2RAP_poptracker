@@ -526,43 +526,43 @@
 					{
 						"name": "Wriggling Root 1",
 						"access_rules": [
-							"$can_access_newdelsta"
+							"brightlands_unlock"
 						]
 					},
 					{
 						"name": "Wriggling Root 2",
 						"access_rules": [
-							"$can_access_newdelsta"
+							"brightlands_unlock"
 						]
 					},
 					{
 						"name": "Herb Elixir",
 						"access_rules": [
-							"$can_access_newdelsta"
+							"brightlands_unlock"
 						]
 					},
 					{
 						"name": "8000 L",
 						"access_rules": [
-							"$can_access_newdelsta"
+							"brightlands_unlock"
 						]
 					},
 					{
 						"name": "Antidote Stone",
 						"access_rules": [
-							"$can_access_newdelsta, boat_unlock"
+							"brightlands_unlock, boat_unlock"
 						]
 					},
 					{
 						"name": "Wriggling Root 3",
 						"access_rules": [
-							"$can_access_newdelsta, boat_unlock"
+							"brightlands_unlock, boat_unlock"
 						]
 					},
 					{
 						"name": "Frost Axe",
 						"access_rules": [
-							"$can_access_newdelsta, boat_unlock"
+							"brightlands_unlock, boat_unlock"
 						]
 					},
 				]
